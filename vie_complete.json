@@ -1,0 +1,8136 @@
+[
+	{
+
+		"0":"10078",
+		"cod":"10078",
+		"1":"AutostraA21TO-PC-BS",
+		"topocompleto":"AutostraA21TO-PC-BS",
+		"2":"Autostra A21 TO-PC-BS",
+		"topospazio":"Autostra A21 TO-PC-BS"
+	},
+	{
+		"0":"10058",
+		"cod":"10058",
+		"1":"ContradaSANTATECLA",
+		"topocompleto":"ContradaSANTATECLA",
+		"2":"Contrada SANTA TECLA",
+		"topospazio":"Contrada SANTA TECLA"
+	},
+	{
+		"0":"1220",
+		"cod":"1220",
+		"1":"CorsoCAMPI",
+		"topocompleto":"CorsoCAMPI",
+		"2":"Corso CAMPI",
+		"topospazio":"Corso CAMPI"
+	},
+	{
+		"0":"5780",
+		"cod":"5780",
+		"1":"CorsoCAVOURCAMILLO(GIASTRADIVARI)",
+		"topocompleto":"CorsoCAVOURCAMILLO(GIASTRADIVARI)",
+		"2":"Corso CAVOUR CAMILLO (GIA' STRADIVARI)",
+		"topospazio":"Corso CAVOUR CAMILLO (GIA' STRADIVARI)"
+	},
+	{
+		"0":"2700",
+		"cod":"2700",
+		"1":"CorsoGARIBALDIGIUSEPPE",
+		"topocompleto":"CorsoGARIBALDIGIUSEPPE",
+		"2":"Corso GARIBALDI GIUSEPPE",
+		"topospazio":"Corso GARIBALDI GIUSEPPE"
+	},
+	{
+		"0":"3620",
+		"cod":"3620",
+		"1":"CorsoMATTEOTTIGIACOMO",
+		"topocompleto":"CorsoMATTEOTTIGIACOMO",
+		"2":"Corso MATTEOTTI GIACOMO",
+		"topospazio":"Corso MATTEOTTI GIACOMO"
+	},
+	{
+		"0":"3660",
+		"cod":"3660",
+		"1":"CorsoMAZZINIGIUSEPPE",
+		"topocompleto":"CorsoMAZZINIGIUSEPPE",
+		"2":"Corso MAZZINI GIUSEPPE",
+		"topospazio":"Corso MAZZINI GIUSEPPE"
+	},
+	{
+		"0":"6120",
+		"cod":"6120",
+		"1":"CorsoVACCHELLIPIETRO",
+		"topocompleto":"CorsoVACCHELLIPIETRO",
+		"2":"Corso VACCHELLI PIETRO",
+		"topospazio":"Corso VACCHELLI PIETRO"
+	},
+	{
+		"0":"6260",
+		"cod":"6260",
+		"1":"CorsoVENTISETTEMBRE",
+		"topocompleto":"CorsoVENTISETTEMBRE",
+		"2":"Corso VENTI SETTEMBRE",
+		"topospazio":"Corso VENTI SETTEMBRE"
+	},
+	{
+		"0":"6390",
+		"cod":"6390",
+		"1":"CorsoVITTORIOEMANUELEII",
+		"topocompleto":"CorsoVITTORIOEMANUELEII",
+		"2":"Corso VITTORIO EMANUELE II",
+		"topospazio":"Corso VITTORIO EMANUELE II"
+	},
+	{
+		"0":"10106",
+		"cod":"10106",
+		"1":"CortileFEDERICOII",
+		"topocompleto":"CortileFEDERICOII",
+		"2":"Cortile FEDERICO II",
+		"topospazio":"Cortile FEDERICO II"
+	},
+
+	{
+		"0":"2660",
+		"cod":"2660",
+		"1":"GalleriaDELCORSO",
+		"topocompleto":"GalleriaDELCORSO",
+		"2":"Galleria DEL CORSO",
+		"topospazio":"Galleria DEL CORSO"
+	},
+
+	{
+		"0":"2670",
+		"cod":"2670",
+		"1":"GalleriaKENNEDYJOHNFITZGERALD",
+		"topocompleto":"GalleriaKENNEDYJOHNFITZGERALD",
+		"2":"Galleria KENNEDY JOHN FITZGERALD",
+		"topospazio":"Galleria KENNEDY JOHN FITZGERALD"
+	},
+
+	{
+		"0":"2680",
+		"cod":"2680",
+		"1":"GalleriaVENTICINQUEAPRILE",
+		"topocompleto":"GalleriaVENTICINQUEAPRILE",
+		"2":"Galleria VENTICINQUE APRILE",
+		"topospazio":"Galleria VENTICINQUE APRILE"
+	},
+
+	{
+		"0":"670",
+		"cod":"670",
+		"1":"LargoBENINIRODOLFO",
+		"topocompleto":"LargoBENINIRODOLFO",
+		"2":"Largo BENINI RODOLFO",
+		"topospazio":"Largo BENINI RODOLFO"
+	},
+
+	{
+		"0":"10019",
+		"cod":"10019",
+		"1":"LargoBIANCHIISIDORO",
+		"topocompleto":"LargoBIANCHIISIDORO",
+		"2":"Largo BIANCHI ISIDORO",
+		"topospazio":"Largo BIANCHI ISIDORO"
+	},
+
+	{
+		"0":"800",
+		"cod":"800",
+		"1":"LargoBOCCACCIOBOCCACCINO",
+		"topocompleto":"LargoBOCCACCIOBOCCACCINO",
+		"2":"Largo BOCCACCIO BOCCACCINO",
+		"topospazio":"Largo BOCCACCIO BOCCACCINO"
+	},
+
+	{
+		"0":"10175",
+		"cod":"10175",
+		"1":"LargoCARELLIMADREAGATA",
+		"topocompleto":"LargoCARELLIMADREAGATA",
+		"2":"Largo CARELLI MADRE AGATA",
+		"topospazio":"Largo CARELLI MADRE AGATA"
+	},
+
+	{
+		"0":"10103",
+		"cod":"10103",
+		"1":"LargoDEGLISPORTIVI",
+		"topocompleto":"LargoDEGLISPORTIVI",
+		"2":"Largo DEGLI SPORTIVI",
+		"topospazio":"Largo DEGLI SPORTIVI"
+	},
+
+	{
+		"0":"10167",
+		"cod":"10167",
+		"1":"LargoDONATORITEMPOLIBERO",
+		"topocompleto":"LargoDONATORITEMPOLIBERO",
+		"2":"Largo DONATORI TEMPO LIBERO",
+		"topospazio":"Largo DONATORI TEMPO LIBERO"
+	},
+
+	{
+		"0":"10080",
+		"cod":"10080",
+		"1":"LargoMARINAIDITALIA",
+		"topocompleto":"LargoMARINAIDITALIA",
+		"2":"Largo MARINAI D'ITALIA",
+		"topospazio":"Largo MARINAI D'ITALIA"
+	},
+
+	{
+		"0":"10071",
+		"cod":"10071",
+		"1":"LargoMORENIFABIO",
+		"topocompleto":"LargoMORENIFABIO",
+		"2":"Largo MORENI FABIO",
+		"topospazio":"Largo MORENI FABIO"
+	},
+
+	{
+		"0":"4220",
+		"cod":"4220",
+		"1":"LargoPAGLIARIGIACOMO",
+		"topocompleto":"LargoPAGLIARIGIACOMO",
+		"2":"Largo PAGLIARI GIACOMO",
+		"topospazio":"Largo PAGLIARI GIACOMO"
+	},
+
+	{
+		"0":"4620",
+		"cod":"4620",
+		"1":"LargoPORTACARLO",
+		"topocompleto":"LargoPORTACARLO",
+		"2":"Largo PORTA CARLO",
+		"topospazio":"Largo PORTA CARLO"
+	},
+
+	{
+		"0":"4170",
+		"cod":"4170",
+		"1":"LargoPRIORIEMILIO",
+		"topocompleto":"LargoPRIORIEMILIO",
+		"2":"Largo PRIORI EMILIO",
+		"topospazio":"Largo PRIORI EMILIO"
+	},
+
+	{
+		"0":"4760",
+		"cod":"4760",
+		"1":"LargoRAGAZZIDEL99",
+		"topocompleto":"LargoRAGAZZIDEL99",
+		"2":"Largo RAGAZZI DEL '99",
+		"topospazio":"Largo RAGAZZI DEL '99"
+	},
+
+	{
+		"0":"5460",
+		"cod":"5460",
+		"1":"LargoSARPIPAOLO",
+		"topocompleto":"LargoSARPIPAOLO",
+		"2":"Largo SARPI PAOLO",
+		"topospazio":"Largo SARPI PAOLO"
+	},
+
+	{
+		"0":"6360",
+		"cod":"6360",
+		"1":"LargoVISCONTIBIANCAMARIA",
+		"topocompleto":"LargoVISCONTIBIANCAMARIA",
+		"2":"Largo VISCONTI BIANCA MARIA",
+		"topospazio":"Largo VISCONTI BIANCA MARIA"
+	},
+
+	{
+		"0":"3330",
+		"cod":"3330",
+		"1":"Lungo PoEUROPA",
+		"topocompleto":"Lungo PoEUROPA",
+		"2":"Lungo Po EUROPA",
+		"topospazio":"Lungo Po EUROPA"
+	},
+
+	{
+		"0":"10008",
+		"cod":"10008",
+		"1":"nnAIRE",
+		"topocompleto":"nnAIRE",
+		"2":"nn AIRE",
+		"topospazio":"nn AIRE"
+	},
+
+	{
+		"0":"10140",
+		"cod":"10140",
+		"1":"ParcoCADUTIDINASSIRYA",
+		"topocompleto":"ParcoCADUTIDINASSIRYA",
+		"2":"Parco CADUTI DI NASSIRYA",
+		"topospazio":"Parco CADUTI DI NASSIRYA"
+	},
+
+	{
+		"0":"10115",
+		"cod":"10115",
+		"1":"ParcoDEGLIALPINI",
+		"topocompleto":"ParcoDEGLIALPINI",
+		"2":"Parco DEGLI ALPINI",
+		"topospazio":"Parco DEGLI ALPINI"
+	},
+
+	{
+		"0":"10183",
+		"cod":"10183",
+		"1":"ParcoDELVOLONTARIATO",
+		"topocompleto":"ParcoDELVOLONTARIATO",
+		"2":"Parco DEL VOLONTARIATO",
+		"topospazio":"Parco DEL VOLONTARIATO"
+	},
+
+	{
+		"0":"10075",
+		"cod":"10075",
+		"1":"ParcoSARTORIIGINIO",
+		"topocompleto":"ParcoSARTORIIGINIO",
+		"2":"Parco SARTORI IGINIO",
+		"topospazio":"Parco SARTORI IGINIO"
+	},
+
+	{
+		"0":"10105",
+		"cod":"10105",
+		"1":"ParcoTOGNAZZIUGO",
+		"topocompleto":"ParcoTOGNAZZIUGO",
+		"2":"Parco TOGNAZZI UGO",
+		"topospazio":"Parco TOGNAZZI UGO"
+	},
+
+	{
+		"0":"10074",
+		"cod":"10074",
+		"1":"ParcoVIALLIMAFFO",
+		"topocompleto":"ParcoVIALLIMAFFO",
+		"2":"Parco VIALLI MAFFO",
+		"topospazio":"Parco VIALLI MAFFO"
+	},
+
+	{
+		"0":"7250",
+		"cod":"7250",
+		"1":"PiazzaALBERODELLALIBERTA",
+		"topocompleto":"PiazzaALBERODELLALIBERTA",
+		"2":"Piazza ALBERO DELLA LIBERTA'",
+		"topospazio":"Piazza ALBERO DELLA LIBERTA'"
+	},
+
+	{
+		"0":"270",
+		"cod":"270",
+		"1":"PiazzaANTONELLA",
+		"topocompleto":"PiazzaANTONELLA",
+		"2":"Piazza ANTONELLA",
+		"topospazio":"Piazza ANTONELLA"
+	},
+
+	{
+		"0":"10043",
+		"cod":"10043",
+		"1":"PiazzaATLETIAZZURRIDITALIA",
+		"topocompleto":"PiazzaATLETIAZZURRIDITALIA",
+		"2":"Piazza ATLETI AZZURRI D'ITALIA",
+		"topospazio":"Piazza ATLETI AZZURRI D'ITALIA"
+	},
+
+	{
+		"0":"1060",
+		"cod":"1060",
+		"1":"PiazzaCACCIAALESSANDRO",
+		"topocompleto":"PiazzaCACCIAALESSANDRO",
+		"2":"Piazza CACCIA ALESSANDRO",
+		"topospazio":"Piazza CACCIA ALESSANDRO"
+	},
+
+	{
+		"0":"1130",
+		"cod":"1130",
+		"1":"PiazzaCADORNALUIGI",
+		"topocompleto":"PiazzaCADORNALUIGI",
+		"2":"Piazza CADORNA LUIGI",
+		"topospazio":"Piazza CADORNA LUIGI"
+	},
+
+	{
+		"0":"7420",
+		"cod":"7420",
+		"1":"PiazzaCADUTIDELLAVORO",
+		"topocompleto":"PiazzaCADUTIDELLAVORO",
+		"2":"Piazza CADUTI DEL LAVORO",
+		"topospazio":"Piazza CADUTI DEL LAVORO"
+	},
+
+	{
+		"0":"1310",
+		"cod":"1310",
+		"1":"PiazzaCAPPELLANIMILITARI",
+		"topocompleto":"PiazzaCAPPELLANIMILITARI",
+		"2":"Piazza CAPPELLANI MILITARI",
+		"topospazio":"Piazza CAPPELLANI MILITARI"
+	},
+
+	{
+		"0":"6330",
+		"cod":"6330",
+		"1":"PiazzaCAPPIGIUSEPPE",
+		"topocompleto":"PiazzaCAPPIGIUSEPPE",
+		"2":"Piazza CAPPI GIUSEPPE",
+		"topospazio":"Piazza CAPPI GIUSEPPE"
+	},
+
+	{
+		"0":"1520",
+		"cod":"1520",
+		"1":"PiazzaCASTELLO",
+		"topocompleto":"PiazzaCASTELLO",
+		"2":"Piazza CASTELLO",
+		"topospazio":"Piazza CASTELLO"
+	},
+
+	{
+		"0":"1710",
+		"cod":"1710",
+		"1":"PiazzaCAZZANIGIOVANNI",
+		"topocompleto":"PiazzaCAZZANIGIOVANNI",
+		"2":"Piazza CAZZANI GIOVANNI",
+		"topospazio":"Piazza CAZZANI GIOVANNI"
+	},
+
+	{
+		"0":"1900",
+		"cod":"1900",
+		"1":"PiazzaCISALPINA",
+		"topocompleto":"PiazzaCISALPINA",
+		"2":"Piazza CISALPINA",
+		"topospazio":"Piazza CISALPINA"
+	},
+
+	{
+		"0":"2240",
+		"cod":"2240",
+		"1":"PiazzaDELERABERNARDINO",
+		"topocompleto":"PiazzaDELERABERNARDINO",
+		"2":"Piazza DE LERA BERNARDINO",
+		"topospazio":"Piazza DE LERA BERNARDINO"
+	},
+
+	{
+		"0":"1210",
+		"cod":"1210",
+		"1":"PiazzaDEICAMILLIANI",
+		"topocompleto":"PiazzaDEICAMILLIANI",
+		"2":"Piazza DEI CAMILLIANI",
+		"topospazio":"Piazza DEI CAMILLIANI"
+	},
+
+	{
+		"0":"2460",
+		"cod":"2460",
+		"1":"PiazzaDEIFILODRAMMATICI",
+		"topocompleto":"PiazzaDEIFILODRAMMATICI",
+		"2":"Piazza DEI FILODRAMMATICI",
+		"topospazio":"Piazza DEI FILODRAMMATICI"
+	},
+
+	{
+		"0":"4330",
+		"cod":"4330",
+		"1":"PiazzaDEIPATRIOTI",
+		"topocompleto":"PiazzaDEIPATRIOTI",
+		"2":"Piazza DEI PATRIOTI",
+		"topospazio":"Piazza DEI PATRIOTI"
+	},
+
+	{
+		"0":"2000",
+		"cod":"2000",
+		"1":"PiazzaDELCOMUNE",
+		"topocompleto":"PiazzaDELCOMUNE",
+		"2":"Piazza DEL COMUNE",
+		"topospazio":"Piazza DEL COMUNE"
+	},
+
+	{
+		"0":"7500",
+		"cod":"7500",
+		"1":"PiazzaDELLAGRICOLTURA",
+		"topocompleto":"PiazzaDELLAGRICOLTURA",
+		"2":"Piazza DELL'AGRICOLTURA",
+		"topospazio":"Piazza DELL'AGRICOLTURA"
+	},
+
+	{
+		"0":"10079",
+		"cod":"10079",
+		"1":"PiazzaDELLACROCEROSSA",
+		"topocompleto":"PiazzaDELLACROCEROSSA",
+		"2":"Piazza DELLA CROCE ROSSA",
+		"topospazio":"Piazza DELLA CROCE ROSSA"
+	},
+
+	{
+		"0":"3210",
+		"cod":"3210",
+		"1":"PiazzaDELLALIBERTA",
+		"topocompleto":"PiazzaDELLALIBERTA",
+		"2":"Piazza DELLA LIBERTA'",
+		"topospazio":"Piazza DELLA LIBERTA'"
+	},
+
+	{
+		"0":"4200",
+		"cod":"4200",
+		"1":"PiazzaDELLAPACE",
+		"topocompleto":"PiazzaDELLAPACE",
+		"2":"Piazza DELLA PACE",
+		"topospazio":"Piazza DELLA PACE"
+	},
+
+	{
+		"0":"7400",
+		"cod":"7400",
+		"1":"PiazzaDELLASORGENTE",
+		"topocompleto":"PiazzaDELLASORGENTE",
+		"2":"Piazza DELLA SORGENTE",
+		"topospazio":"Piazza DELLA SORGENTE"
+	},
+
+	{
+		"0":"4140",
+		"cod":"4140",
+		"1":"PiazzaDELLEORTENSIE",
+		"topocompleto":"PiazzaDELLEORTENSIE",
+		"2":"Piazza DELLE ORTENSIE",
+		"topospazio":"Piazza DELLE ORTENSIE"
+	},
+
+	{
+		"0":"10055",
+		"cod":"10055",
+		"1":"PiazzaDELLETRANVIE",
+		"topocompleto":"PiazzaDELLETRANVIE",
+		"2":"Piazza DELLE TRANVIE",
+		"topospazio":"Piazza DELLE TRANVIE"
+	},
+
+	{
+		"0":"10165",
+		"cod":"10165",
+		"1":"PiazzaDONAMIGONIFRANCO",
+		"topocompleto":"PiazzaDONAMIGONIFRANCO",
+		"2":"Piazza DON AMIGONI FRANCO",
+		"topospazio":"Piazza DON AMIGONI FRANCO"
+	},
+
+	{
+		"0":"6920",
+		"cod":"6920",
+		"1":"PiazzaDOSSENAALCEO",
+		"topocompleto":"PiazzaDOSSENAALCEO",
+		"2":"Piazza DOSSENA ALCEO",
+		"topospazio":"Piazza DOSSENA ALCEO"
+	},
+
+	{
+		"0":"2480",
+		"cod":"2480",
+		"1":"PiazzaFIUME",
+		"topocompleto":"PiazzaFIUME",
+		"2":"Piazza FIUME",
+		"topospazio":"Piazza FIUME"
+	},
+
+	{
+		"0":"2690",
+		"cod":"2690",
+		"1":"PiazzaGALLINAALESSANDRO",
+		"topocompleto":"PiazzaGALLINAALESSANDRO",
+		"2":"Piazza GALLINA ALESSANDRO",
+		"topospazio":"Piazza GALLINA ALESSANDRO"
+	},
+
+	{
+		"0":"2890",
+		"cod":"2890",
+		"1":"PiazzaGIOVANNIXXIII",
+		"topocompleto":"PiazzaGIOVANNIXXIII",
+		"2":"Piazza GIOVANNI XXIII",
+		"topospazio":"Piazza GIOVANNI XXIII"
+	},
+
+	{
+		"0":"3250",
+		"cod":"3250",
+		"1":"PiazzaLODI",
+		"topocompleto":"PiazzaLODI",
+		"2":"Piazza LODI",
+		"topospazio":"Piazza LODI"
+	},
+
+	{
+		"0":"10166",
+		"cod":"10166",
+		"1":"PiazzaLORDBADENPOWELL",
+		"topocompleto":"PiazzaLORDBADENPOWELL",
+		"2":"Piazza LORD BADEN POWELL",
+		"topospazio":"Piazza LORD BADEN POWELL"
+	},
+
+	{
+		"0":"3530",
+		"cod":"3530",
+		"1":"PiazzaMARCONIGUGLIELMO",
+		"topocompleto":"PiazzaMARCONIGUGLIELMO",
+		"2":"Piazza MARCONI GUGLIELMO",
+		"topospazio":"Piazza MARCONI GUGLIELMO"
+	},
+
+	{
+		"0":"3710",
+		"cod":"3710",
+		"1":"PiazzaMERISIMICHELANGELO",
+		"topocompleto":"PiazzaMERISIMICHELANGELO",
+		"2":"Piazza MERISI MICHELANGELO",
+		"topospazio":"Piazza MERISI MICHELANGELO"
+	},
+
+	{
+		"0":"3740",
+		"cod":"3740",
+		"1":"PiazzaMIGLIAVACCASEBASTIANO",
+		"topocompleto":"PiazzaMIGLIAVACCASEBASTIANO",
+		"2":"Piazza MIGLIAVACCA SEBASTIANO",
+		"topospazio":"Piazza MIGLIAVACCA SEBASTIANO"
+	},
+
+	{
+		"0":"3820",
+		"cod":"3820",
+		"1":"PiazzaMIRABELLO",
+		"topocompleto":"PiazzaMIRABELLO",
+		"2":"Piazza MIRABELLO",
+		"topospazio":"Piazza MIRABELLO"
+	},
+
+	{
+		"0":"6970",
+		"cod":"6970",
+		"1":"PiazzaMONTIFRANCESCORICCARDO",
+		"topocompleto":"PiazzaMONTIFRANCESCORICCARDO",
+		"2":"Piazza MONTI FRANCESCO RICCARDO",
+		"topospazio":"Piazza MONTI FRANCESCO RICCARDO"
+	},
+
+	{
+		"0":"7350",
+		"cod":"7350",
+		"1":"PiazzaMOROALDO",
+		"topocompleto":"PiazzaMOROALDO",
+		"2":"Piazza MORO ALDO",
+		"topospazio":"Piazza MORO ALDO"
+	},
+
+	{
+		"0":"4210",
+		"cod":"4210",
+		"1":"PiazzaPADELLA",
+		"topocompleto":"PiazzaPADELLA",
+		"2":"Piazza PADELLA",
+		"topospazio":"Piazza PADELLA"
+	},
+
+	{
+		"0":"10081",
+		"cod":"10081",
+		"1":"PiazzaPRATOVERDE",
+		"topocompleto":"PiazzaPRATOVERDE",
+		"2":"Piazza PRATO VERDE",
+		"topospazio":"Piazza PRATO VERDE"
+	},
+
+	{
+		"0":"4720",
+		"cod":"4720",
+		"1":"PiazzaQUATTRONOVEMBRE",
+		"topocompleto":"PiazzaQUATTRONOVEMBRE",
+		"2":"Piazza QUATTRO NOVEMBRE",
+		"topospazio":"Piazza QUATTRO NOVEMBRE"
+	},
+
+	{
+		"0":"4870",
+		"cod":"4870",
+		"1":"PiazzaRISORGIMENTO",
+		"topocompleto":"PiazzaRISORGIMENTO",
+		"2":"Piazza RISORGIMENTO",
+		"topospazio":"Piazza RISORGIMENTO"
+	},
+
+	{
+		"0":"4920",
+		"cod":"4920",
+		"1":"PiazzaROMA",
+		"topocompleto":"PiazzaROMA",
+		"2":"Piazza ROMA",
+		"topospazio":"Piazza ROMA"
+	},
+
+	{
+		"0":"5310",
+		"cod":"5310",
+		"1":"PiazzaSANMICHELE",
+		"topocompleto":"PiazzaSANMICHELE",
+		"2":"Piazza SAN MICHELE",
+		"topospazio":"Piazza SAN MICHELE"
+	},
+
+	{
+		"0":"7470",
+		"cod":"7470",
+		"1":"PiazzaSANPANTALEONE",
+		"topocompleto":"PiazzaSANPANTALEONE",
+		"2":"Piazza SAN PANTALEONE",
+		"topospazio":"Piazza SAN PANTALEONE"
+	},
+
+	{
+		"0":"5340",
+		"cod":"5340",
+		"1":"PiazzaSANPAOLO",
+		"topocompleto":"PiazzaSANPAOLO",
+		"2":"Piazza SAN PAOLO",
+		"topospazio":"Piazza SAN PAOLO"
+	},
+
+	{
+		"0":"5350",
+		"cod":"5350",
+		"1":"PiazzaSANPIETRO",
+		"topocompleto":"PiazzaSANPIETRO",
+		"2":"Piazza SAN PIETRO",
+		"topospazio":"Piazza SAN PIETRO"
+	},
+
+	{
+		"0":"5070",
+		"cod":"5070",
+		"1":"PiazzaSANTABBONDIO",
+		"topocompleto":"PiazzaSANTABBONDIO",
+		"2":"Piazza SANT'ABBONDIO",
+		"topospazio":"Piazza SANT'ABBONDIO"
+	},
+
+	{
+		"0":"5080",
+		"cod":"5080",
+		"1":"PiazzaSANTAGOSTINO",
+		"topocompleto":"PiazzaSANTAGOSTINO",
+		"2":"Piazza SANT'AGOSTINO",
+		"topospazio":"Piazza SANT'AGOSTINO"
+	},
+
+	{
+		"0":"5100",
+		"cod":"5100",
+		"1":"PiazzaSANTANGELO",
+		"topocompleto":"PiazzaSANTANGELO",
+		"2":"Piazza SANT'ANGELO",
+		"topospazio":"Piazza SANT'ANGELO"
+	},
+
+	{
+		"0":"6430",
+		"cod":"6430",
+		"1":"PiazzaSANTANTONIOMARIAZACCARIA",
+		"topocompleto":"PiazzaSANTANTONIOMARIAZACCARIA",
+		"2":"Piazza SANT'ANTONIO MARIA ZACCARIA",
+		"topospazio":"Piazza SANT'ANTONIO MARIA ZACCARIA"
+	},
+
+	{
+		"0":"5320",
+		"cod":"5320",
+		"1":"PiazzaSANTOMOBONO",
+		"topocompleto":"PiazzaSANTOMOBONO",
+		"2":"Piazza SANT'OMOBONO",
+		"topospazio":"Piazza SANT'OMOBONO"
+	},
+
+	{
+		"0":"5270",
+		"cod":"5270",
+		"1":"PiazzaSANTALUCIA",
+		"topocompleto":"PiazzaSANTALUCIA",
+		"2":"Piazza SANTA LUCIA",
+		"topospazio":"Piazza SANTA LUCIA"
+	},
+
+	{
+		"0":"5650",
+		"cod":"5650",
+		"1":"PiazzaSOMENZITOMMASO",
+		"topocompleto":"PiazzaSOMENZITOMMASO",
+		"2":"Piazza SOMENZI TOMMASO",
+		"topospazio":"Piazza SOMENZI TOMMASO"
+	},
+
+	{
+		"0":"5740",
+		"cod":"5740",
+		"1":"PiazzaSTAZIONE",
+		"topocompleto":"PiazzaSTAZIONE",
+		"2":"Piazza STAZIONE",
+		"topospazio":"Piazza STAZIONE"
+	},
+
+	{
+		"0":"1700",
+		"cod":"1700",
+		"1":"PiazzaSTRADIVARIANTONIO(GIACAVOUR)",
+		"topocompleto":"PiazzaSTRADIVARIANTONIO(GIACAVOUR)",
+		"2":"Piazza STRADIVARI ANTONIO (GIA' CAVOUR)",
+		"topospazio":"Piazza STRADIVARI ANTONIO (GIA' CAVOUR)"
+	},
+
+	{
+		"0":"6270",
+		"cod":"6270",
+		"1":"PiazzaVENTIQUATTROMAGGIO",
+		"topocompleto":"PiazzaVENTIQUATTROMAGGIO",
+		"2":"Piazza VENTIQUATTRO MAGGIO",
+		"topospazio":"Piazza VENTIQUATTRO MAGGIO"
+	},
+
+	{
+		"0":"6310",
+		"cod":"6310",
+		"1":"PiazzaVIDAMARCOGEROLAMO",
+		"topocompleto":"PiazzaVIDAMARCOGEROLAMO",
+		"2":"Piazza VIDA MARCO GEROLAMO",
+		"topospazio":"Piazza VIDA MARCO GEROLAMO"
+	},
+
+	{
+		"0":"7280",
+		"cod":"7280",
+		"1":"PiazzaZELIOLILANZINIENNIO",
+		"topocompleto":"PiazzaZELIOLILANZINIENNIO",
+		"2":"Piazza ZELIOLI LANZINI ENNIO",
+		"topospazio":"Piazza ZELIOLI LANZINI ENNIO"
+	},
+
+	{
+		"0":"10182",
+		"cod":"10182",
+		"1":"PiazzettGUALAZZINIUGO",
+		"topocompleto":"PiazzettGUALAZZINIUGO",
+		"2":"Piazzett GUALAZZINI UGO",
+		"topospazio":"Piazzett GUALAZZINI UGO"
+	},
+
+	{
+		"0":"10151",
+		"cod":"10151",
+		"1":"PistaACERBICARLO",
+		"topocompleto":"PistaACERBICARLO",
+		"2":"Pista ACERBI CARLO",
+		"topospazio":"Pista ACERBI CARLO"
+	},
+
+	{
+		"0":"10152",
+		"cod":"10152",
+		"1":"PistaDEICILIEGI",
+		"topocompleto":"PistaDEICILIEGI",
+		"2":"Pista DEI CILIEGI",
+		"topospazio":"Pista DEI CILIEGI"
+	},
+
+	{
+		"0":"10113",
+		"cod":"10113",
+		"1":"Via BORTINIPIETRO",
+		"topocompleto":"Via BORTINIPIETRO",
+		"2":"Via  BORTINI PIETRO",
+		"topospazio":"Via  BORTINI PIETRO"
+	},
+
+	{
+		"0":"10122",
+		"cod":"10122",
+		"1":"Via GAETANIDANIELE",
+		"topocompleto":"Via GAETANIDANIELE",
+		"2":"Via  GAETANI DANIELE",
+		"topospazio":"Via  GAETANI DANIELE"
+	},
+
+	{
+		"0":"10125",
+		"cod":"10125",
+		"1":"Via QUINZANIBEATASTEFANA",
+		"topocompleto":"Via QUINZANIBEATASTEFANA",
+		"2":"Via  QUINZANI BEATA STEFANA",
+		"topospazio":"Via  QUINZANI BEATA STEFANA"
+	},
+
+	{
+		"0":"10114",
+		"cod":"10114",
+		"1":"Via TARTESIOMARCOPAOLO",
+		"topocompleto":"Via TARTESIOMARCOPAOLO",
+		"2":"Via  TARTESIO MARCO PAOLO",
+		"topospazio":"Via  TARTESIO MARCO PAOLO"
+	},
+
+	{
+		"0":"10032",
+		"cod":"10032",
+		"1":"ViaABBAGIUSEPPECESARE",
+		"topocompleto":"ViaABBAGIUSEPPECESARE",
+		"2":"Via ABBA GIUSEPPE CESARE",
+		"topospazio":"Via ABBA GIUSEPPE CESARE"
+	},
+
+	{
+		"0":"10",
+		"cod":"10",
+		"1":"ViaABBADIA",
+		"topocompleto":"ViaABBADIA",
+		"2":"Via ABBADIA",
+		"topospazio":"Via ABBADIA"
+	},
+
+	{
+		"0":"6810",
+		"cod":"6810",
+		"1":"ViaACQUAFERMA",
+		"topocompleto":"ViaACQUAFERMA",
+		"2":"Via ACQUAFERMA",
+		"topospazio":"Via ACQUAFERMA"
+	},
+
+	{
+		"0":"7080",
+		"cod":"7080",
+		"1":"ViaACQUAVIVA",
+		"topocompleto":"ViaACQUAVIVA",
+		"2":"Via ACQUAVIVA",
+		"topospazio":"Via ACQUAVIVA"
+	},
+
+	{
+		"0":"40",
+		"cod":"40",
+		"1":"ViaADDA",
+		"topocompleto":"ViaADDA",
+		"2":"Via ADDA",
+		"topospazio":"Via ADDA"
+	},
+
+	{
+		"0":"50",
+		"cod":"50",
+		"1":"ViaADIGE",
+		"topocompleto":"ViaADIGE",
+		"2":"Via ADIGE",
+		"topospazio":"Via ADIGE"
+	},
+
+	{
+		"0":"70",
+		"cod":"70",
+		"1":"ViaAFFAITATI(NOB.FAM.CREM.)",
+		"topocompleto":"ViaAFFAITATI(NOB.FAM.CREM.)",
+		"2":"Via AFFAITATI (NOB. FAM. CREM.)",
+		"topospazio":"Via AFFAITATI (NOB. FAM. CREM.)"
+	},
+
+	{
+		"0":"80",
+		"cod":"80",
+		"1":"ViaAGAZZINA",
+		"topocompleto":"ViaAGAZZINA",
+		"2":"Via AGAZZINA",
+		"topospazio":"Via AGAZZINA"
+	},
+
+	{
+		"0":"5490",
+		"cod":"5490",
+		"1":"ViaAGLISCALI",
+		"topocompleto":"ViaAGLISCALI",
+		"2":"Via AGLI SCALI",
+		"topospazio":"Via AGLI SCALI"
+	},
+
+	{
+		"0":"90",
+		"cod":"90",
+		"1":"ViaAGLIOAGOSTINO",
+		"topocompleto":"ViaAGLIOAGOSTINO",
+		"2":"Via AGLIO AGOSTINO",
+		"topospazio":"Via AGLIO AGOSTINO"
+	},
+
+	{
+		"0":"10029",
+		"cod":"10029",
+		"1":"ViaAGOSTACRISTOFORO",
+		"topocompleto":"ViaAGOSTACRISTOFORO",
+		"2":"Via AGOSTA CRISTOFORO",
+		"topospazio":"Via AGOSTA CRISTOFORO"
+	},
+
+	{
+		"0":"6720",
+		"cod":"6720",
+		"1":"ViaAGRESTE",
+		"topocompleto":"ViaAGRESTE",
+		"2":"Via AGRESTE",
+		"topospazio":"Via AGRESTE"
+	},
+
+	{
+		"0":"10101",
+		"cod":"10101",
+		"1":"ViaALDEPURATORE",
+		"topocompleto":"ViaALDEPURATORE",
+		"2":"Via AL DEPURATORE",
+		"topospazio":"Via AL DEPURATORE"
+	},
+
+	{
+		"0":"100",
+		"cod":"100",
+		"1":"ViaALAPONZONE",
+		"topocompleto":"ViaALAPONZONE",
+		"2":"Via ALA PONZONE",
+		"topospazio":"Via ALA PONZONE"
+	},
+
+	{
+		"0":"110",
+		"cod":"110",
+		"1":"ViaALBERTONI",
+		"topocompleto":"ViaALBERTONI",
+		"2":"Via ALBERTONI",
+		"topospazio":"Via ALBERTONI"
+	},
+
+	{
+		"0":"10174",
+		"cod":"10174",
+		"1":"viaALDOPROTTI",
+		"topocompleto":"viaALDOPROTTI",
+		"2":"via ALDO PROTTI",
+		"topospazio":"via ALDO PROTTI"
+	},
+
+	{
+		"0":"120",
+		"cod":"120",
+		"1":"ViaALENITOMMASO",
+		"topocompleto":"ViaALENITOMMASO",
+		"2":"Via ALENI TOMMASO",
+		"topospazio":"Via ALENI TOMMASO"
+	},
+
+	{
+		"0":"130",
+		"cod":"130",
+		"1":"ViaALFENOVARO",
+		"topocompleto":"ViaALFENOVARO",
+		"2":"Via ALFENO VARO",
+		"topospazio":"Via ALFENO VARO"
+	},
+
+	{
+		"0":"10158",
+		"cod":"10158",
+		"1":"ViaALFOFERRARIESILVIOPEDRONI",
+		"topocompleto":"ViaALFOFERRARIESILVIOPEDRONI",
+		"2":"Via ALFO FERRARI E SILVIO PEDRONI",
+		"topospazio":"Via ALFO FERRARI E SILVIO PEDRONI"
+	},
+
+	{
+		"0":"140",
+		"cod":"140",
+		"1":"ViaALIERIGIACOMO",
+		"topocompleto":"ViaALIERIGIACOMO",
+		"2":"Via ALIERI GIACOMO",
+		"topospazio":"Via ALIERI GIACOMO"
+	},
+
+	{
+		"0":"150",
+		"cod":"150",
+		"1":"ViaALLENDESALVADOR",
+		"topocompleto":"ViaALLENDESALVADOR",
+		"2":"Via ALLENDE SALVADOR",
+		"topospazio":"Via ALLENDE SALVADOR"
+	},
+
+	{
+		"0":"160",
+		"cod":"160",
+		"1":"ViaAMADEIGIUSEPPE",
+		"topocompleto":"ViaAMADEIGIUSEPPE",
+		"2":"Via AMADEI GIUSEPPE",
+		"topospazio":"Via AMADEI GIUSEPPE"
+	},
+
+	{
+		"0":"170",
+		"cod":"170",
+		"1":"ViaAMATIANDREAENICOLA",
+		"topocompleto":"ViaAMATIANDREAENICOLA",
+		"2":"Via AMATI ANDREA E NICOLA",
+		"topospazio":"Via AMATI ANDREA E NICOLA"
+	},
+
+	{
+		"0":"180",
+		"cod":"180",
+		"1":"ViaAMIDANIGUGLIELMO",
+		"topocompleto":"ViaAMIDANIGUGLIELMO",
+		"2":"Via AMIDANI GUGLIELMO",
+		"topospazio":"Via AMIDANI GUGLIELMO"
+	},
+
+	{
+		"0":"200",
+		"cod":"200",
+		"1":"ViaANGUISSOLASOFONISBA",
+		"topocompleto":"ViaANGUISSOLASOFONISBA",
+		"2":"Via ANGUISSOLA SOFONISBA",
+		"topospazio":"Via ANGUISSOLA SOFONISBA"
+	},
+
+	{
+		"0":"210",
+		"cod":"210",
+		"1":"ViaANGUSTA",
+		"topocompleto":"ViaANGUSTA",
+		"2":"Via ANGUSTA",
+		"topospazio":"Via ANGUSTA"
+	},
+
+	{
+		"0":"220",
+		"cod":"220",
+		"1":"ViaANIENSE",
+		"topocompleto":"ViaANIENSE",
+		"2":"Via ANIENSE",
+		"topospazio":"Via ANIENSE"
+	},
+
+	{
+		"0":"240",
+		"cod":"240",
+		"1":"ViaANSELMIALESSANDRO",
+		"topocompleto":"ViaANSELMIALESSANDRO",
+		"2":"Via ANSELMI ALESSANDRO",
+		"topospazio":"Via ANSELMI ALESSANDRO"
+	},
+
+	{
+		"0":"250",
+		"cod":"250",
+		"1":"ViaANTICAPORTATINTORIA",
+		"topocompleto":"ViaANTICAPORTATINTORIA",
+		"2":"Via ANTICA PORTA TINTORIA",
+		"topospazio":"Via ANTICA PORTA TINTORIA"
+	},
+
+	{
+		"0":"10024",
+		"cod":"10024",
+		"1":"ViaANTICHEFORNACI",
+		"topocompleto":"ViaANTICHEFORNACI",
+		"2":"Via ANTICHE FORNACI",
+		"topospazio":"Via ANTICHE FORNACI"
+	},
+
+	{
+		"0":"260",
+		"cod":"260",
+		"1":"ViaANTICORODANO",
+		"topocompleto":"ViaANTICORODANO",
+		"2":"Via ANTICO RODANO",
+		"topospazio":"Via ANTICO RODANO"
+	},
+
+	{
+		"0":"280",
+		"cod":"280",
+		"1":"ViaAPORTIFERRANTE",
+		"topocompleto":"ViaAPORTIFERRANTE",
+		"2":"Via APORTI FERRANTE",
+		"topospazio":"Via APORTI FERRANTE"
+	},
+
+	{
+		"0":"290",
+		"cod":"290",
+		"1":"ViaAQUILEIA",
+		"topocompleto":"ViaAQUILEIA",
+		"2":"Via AQUILEIA",
+		"topospazio":"Via AQUILEIA"
+	},
+
+	{
+		"0":"300",
+		"cod":"300",
+		"1":"ViaARALDIERIZZOPIETRO",
+		"topocompleto":"ViaARALDIERIZZOPIETRO",
+		"2":"Via ARALDI ERIZZO PIETRO",
+		"topospazio":"Via ARALDI ERIZZO PIETRO"
+	},
+
+	{
+		"0":"310",
+		"cod":"310",
+		"1":"ViaARATAFRANCESCO",
+		"topocompleto":"ViaARATAFRANCESCO",
+		"2":"Via ARATA FRANCESCO",
+		"topospazio":"Via ARATA FRANCESCO"
+	},
+
+	{
+		"0":"2220",
+		"cod":"2220",
+		"1":"ViaARCHITETTIDATTARO",
+		"topocompleto":"ViaARCHITETTIDATTARO",
+		"2":"Via ARCHITETTI DATTARO",
+		"topospazio":"Via ARCHITETTI DATTARO"
+	},
+
+	{
+		"0":"320",
+		"cod":"320",
+		"1":"ViaARDIGOROBERTO",
+		"topocompleto":"ViaARDIGOROBERTO",
+		"2":"Via ARDIGO'  ROBERTO",
+		"topospazio":"Via ARDIGO'  ROBERTO"
+	},
+
+	{
+		"0":"340",
+		"cod":"340",
+		"1":"ViaARGENTIERIALFEO",
+		"topocompleto":"ViaARGENTIERIALFEO",
+		"2":"Via ARGENTIERI ALFEO",
+		"topospazio":"Via ARGENTIERI ALFEO"
+	},
+
+	{
+		"0":"350",
+		"cod":"350",
+		"1":"ViaARGINEPANIZZA",
+		"topocompleto":"ViaARGINEPANIZZA",
+		"2":"Via ARGINE PANIZZA",
+		"topospazio":"Via ARGINE PANIZZA"
+	},
+
+	{
+		"0":"370",
+		"cod":"370",
+		"1":"ViaARISIFRANCESCO",
+		"topocompleto":"ViaARISIFRANCESCO",
+		"2":"Via ARISI FRANCESCO",
+		"topospazio":"Via ARISI FRANCESCO"
+	},
+
+	{
+		"0":"380",
+		"cod":"380",
+		"1":"ViaARRIGHI(FAM.DE.LECREM.)",
+		"topocompleto":"ViaARRIGHI(FAM.DE.LECREM.)",
+		"2":"Via ARRIGHI (FAM. DE.LE CREM.)",
+		"topospazio":"Via ARRIGHI (FAM. DE.LE CREM.)"
+	},
+
+	{
+		"0":"390",
+		"cod":"390",
+		"1":"ViaASELLIGASPARE",
+		"topocompleto":"ViaASELLIGASPARE",
+		"2":"Via ASELLI GASPARE",
+		"topospazio":"Via ASELLI GASPARE"
+	},
+
+	{
+		"0":"400",
+		"cod":"400",
+		"1":"ViaASIAGO",
+		"topocompleto":"ViaASIAGO",
+		"2":"Via ASIAGO",
+		"topospazio":"Via ASIAGO"
+	},
+
+	{
+		"0":"410",
+		"cod":"410",
+		"1":"ViaASILO",
+		"topocompleto":"ViaASILO",
+		"2":"Via ASILO",
+		"topospazio":"Via ASILO"
+	},
+
+	{
+		"0":"7090",
+		"cod":"7090",
+		"1":"ViaASPROMONTE",
+		"topocompleto":"ViaASPROMONTE",
+		"2":"Via ASPROMONTE",
+		"topospazio":"Via ASPROMONTE"
+	},
+
+	{
+		"0":"10134",
+		"cod":"10134",
+		"1":"ViaASSIMONS.ENRICO",
+		"topocompleto":"ViaASSIMONS.ENRICO",
+		"2":"Via ASSI MONS. ENRICO",
+		"topospazio":"Via ASSI MONS. ENRICO"
+	},
+
+	{
+		"0":"420",
+		"cod":"420",
+		"1":"ViaASTEGIANOLORENZO",
+		"topocompleto":"ViaASTEGIANOLORENZO",
+		"2":"Via ASTEGIANO LORENZO",
+		"topospazio":"Via ASTEGIANO LORENZO"
+	},
+
+	{
+		"0":"10092",
+		"cod":"10092",
+		"1":"ViaASTORIMONS.GUIDO",
+		"topocompleto":"ViaASTORIMONS.GUIDO",
+		"2":"Via ASTORI MONS. GUIDO",
+		"topospazio":"Via ASTORI MONS. GUIDO"
+	},
+
+	{
+		"0":"430",
+		"cod":"430",
+		"1":"ViaBAGNARA",
+		"topocompleto":"ViaBAGNARA",
+		"2":"Via BAGNARA",
+		"topospazio":"Via BAGNARA"
+	},
+
+	{
+		"0":"440",
+		"cod":"440",
+		"1":"ViaBALDESIOGIOVANNI",
+		"topocompleto":"ViaBALDESIOGIOVANNI",
+		"2":"Via BALDESIO GIOVANNI",
+		"topospazio":"Via BALDESIO GIOVANNI"
+	},
+
+	{
+		"0":"450",
+		"cod":"450",
+		"1":"ViaBALDOCCA",
+		"topocompleto":"ViaBALDOCCA",
+		"2":"Via BALDOCCA",
+		"topospazio":"Via BALDOCCA"
+	},
+
+	{
+		"0":"460",
+		"cod":"460",
+		"1":"ViaBANDELLOMATTEO",
+		"topocompleto":"ViaBANDELLOMATTEO",
+		"2":"Via BANDELLO MATTEO",
+		"topospazio":"Via BANDELLO MATTEO"
+	},
+
+	{
+		"0":"480",
+		"cod":"480",
+		"1":"ViaBARDELLONA(ANT.FAM.CREM.)",
+		"topocompleto":"ViaBARDELLONA(ANT.FAM.CREM.)",
+		"2":"Via BARDELLONA (ANT. FAM. CREM.)",
+		"topospazio":"Via BARDELLONA (ANT. FAM. CREM.)"
+	},
+
+	{
+		"0":"490",
+		"cod":"490",
+		"1":"ViaBAREZZIBAREZZO",
+		"topocompleto":"ViaBAREZZIBAREZZO",
+		"2":"Via BAREZZI BAREZZO",
+		"topospazio":"Via BAREZZI BAREZZO"
+	},
+
+	{
+		"0":"500",
+		"cod":"500",
+		"1":"ViaBARGONIANGELO",
+		"topocompleto":"ViaBARGONIANGELO",
+		"2":"Via BARGONI ANGELO",
+		"topospazio":"Via BARGONI ANGELO"
+	},
+
+	{
+		"0":"510",
+		"cod":"510",
+		"1":"ViaBARONIOTEODORO",
+		"topocompleto":"ViaBARONIOTEODORO",
+		"2":"Via BARONIO TEODORO",
+		"topospazio":"Via BARONIO TEODORO"
+	},
+
+	{
+		"0":"520",
+		"cod":"520",
+		"1":"ViaBAROSIANTONIO",
+		"topocompleto":"ViaBAROSIANTONIO",
+		"2":"Via BAROSI ANTONIO",
+		"topospazio":"Via BAROSI ANTONIO"
+	},
+
+	{
+		"0":"10076",
+		"cod":"10076",
+		"1":"ViaBASIOLAMARIO",
+		"topocompleto":"ViaBASIOLAMARIO",
+		"2":"Via BASIOLA MARIO",
+		"topospazio":"Via BASIOLA MARIO"
+	},
+
+	{
+		"0":"530",
+		"cod":"530",
+		"1":"ViaBASSIFRANCESCOMARIA",
+		"topocompleto":"ViaBASSIFRANCESCOMARIA",
+		"2":"Via BASSI FRANCESCO MARIA",
+		"topospazio":"Via BASSI FRANCESCO MARIA"
+	},
+
+	{
+		"0":"10069",
+		"cod":"10069",
+		"1":"ViaBASSIANOGIOVANNI",
+		"topocompleto":"ViaBASSIANOGIOVANNI",
+		"2":"Via BASSIANO GIOVANNI",
+		"topospazio":"Via BASSIANO GIOVANNI"
+	},
+
+	{
+		"0":"10042",
+		"cod":"10042",
+		"1":"ViaBASTIDA",
+		"topocompleto":"ViaBASTIDA",
+		"2":"Via BASTIDA",
+		"topospazio":"Via BASTIDA"
+	},
+
+	{
+		"0":"540",
+		"cod":"540",
+		"1":"ViaBATTAGLIONE",
+		"topocompleto":"ViaBATTAGLIONE",
+		"2":"Via BATTAGLIONE",
+		"topospazio":"Via BATTAGLIONE"
+	},
+
+	{
+		"0":"550",
+		"cod":"550",
+		"1":"ViaBATTISTICESARE",
+		"topocompleto":"ViaBATTISTICESARE",
+		"2":"Via BATTISTI CESARE",
+		"topospazio":"Via BATTISTI CESARE"
+	},
+
+	{
+		"0":"560",
+		"cod":"560",
+		"1":"ViaBELCAVEZZO",
+		"topocompleto":"ViaBELCAVEZZO",
+		"2":"Via BELCAVEZZO",
+		"topospazio":"Via BELCAVEZZO"
+	},
+
+	{
+		"0":"570",
+		"cod":"570",
+		"1":"ViaBELFIORE",
+		"topocompleto":"ViaBELFIORE",
+		"2":"Via BELFIORE",
+		"topospazio":"Via BELFIORE"
+	},
+
+	{
+		"0":"580",
+		"cod":"580",
+		"1":"ViaBELFUSO",
+		"topocompleto":"ViaBELFUSO",
+		"2":"Via BELFUSO",
+		"topospazio":"Via BELFUSO"
+	},
+
+	{
+		"0":"590",
+		"cod":"590",
+		"1":"ViaBELGIARDINO",
+		"topocompleto":"ViaBELGIARDINO",
+		"2":"Via BELGIARDINO",
+		"topospazio":"Via BELGIARDINO"
+	},
+
+	{
+		"0":"620",
+		"cod":"620",
+		"1":"ViaBELLASPA",
+		"topocompleto":"ViaBELLASPA",
+		"2":"Via BELL'ASPA",
+		"topospazio":"Via BELL'ASPA"
+	},
+
+	{
+		"0":"600",
+		"cod":"600",
+		"1":"ViaBELLACHIOPPELLA",
+		"topocompleto":"ViaBELLACHIOPPELLA",
+		"2":"Via BELLA CHIOPPELLA",
+		"topospazio":"Via BELLA CHIOPPELLA"
+	},
+
+	{
+		"0":"610",
+		"cod":"610",
+		"1":"ViaBELLAROCCA",
+		"topocompleto":"ViaBELLAROCCA",
+		"2":"Via BELLA ROCCA",
+		"topospazio":"Via BELLA ROCCA"
+	},
+
+	{
+		"0":"630",
+		"cod":"630",
+		"1":"ViaBELLINIMELCHIORRE",
+		"topocompleto":"ViaBELLINIMELCHIORRE",
+		"2":"Via BELLINI MELCHIORRE",
+		"topospazio":"Via BELLINI MELCHIORRE"
+	},
+
+	{
+		"0":"10100",
+		"cod":"10100",
+		"1":"ViaBELLODONCARLO",
+		"topocompleto":"ViaBELLODONCARLO",
+		"2":"Via BELLO'  DON CARLO",
+		"topospazio":"Via BELLO'  DON CARLO"
+	},
+
+	{
+		"0":"640",
+		"cod":"640",
+		"1":"ViaBELTRAMIEUGENIO",
+		"topocompleto":"ViaBELTRAMIEUGENIO",
+		"2":"Via BELTRAMI EUGENIO",
+		"topospazio":"Via BELTRAMI EUGENIO"
+	},
+
+	{
+		"0":"650",
+		"cod":"650",
+		"1":"ViaBELVEDERE",
+		"topocompleto":"ViaBELVEDERE",
+		"2":"Via BELVEDERE",
+		"topospazio":"Via BELVEDERE"
+	},
+
+	{
+		"0":"660",
+		"cod":"660",
+		"1":"ViaBEMBO",
+		"topocompleto":"ViaBEMBO",
+		"2":"Via BEMBO",
+		"topospazio":"Via BEMBO"
+	},
+
+	{
+		"0":"690",
+		"cod":"690",
+		"1":"ViaBERENZIANGELO",
+		"topocompleto":"ViaBERENZIANGELO",
+		"2":"Via BERENZI ANGELO",
+		"topospazio":"Via BERENZI ANGELO"
+	},
+
+	{
+		"0":"700",
+		"cod":"700",
+		"1":"ViaBERGAMASCHIDIOMEDE",
+		"topocompleto":"ViaBERGAMASCHIDIOMEDE",
+		"2":"Via BERGAMASCHI DIOMEDE",
+		"topospazio":"Via BERGAMASCHI DIOMEDE"
+	},
+
+	{
+		"0":"710",
+		"cod":"710",
+		"1":"ViaBERGAMO",
+		"topocompleto":"ViaBERGAMO",
+		"2":"Via BERGAMO",
+		"topospazio":"Via BERGAMO"
+	},
+
+	{
+		"0":"720",
+		"cod":"720",
+		"1":"ViaBERGONZIBENEDETTO",
+		"topocompleto":"ViaBERGONZIBENEDETTO",
+		"2":"Via BERGONZI BENEDETTO",
+		"topospazio":"Via BERGONZI BENEDETTO"
+	},
+
+	{
+		"0":"6580",
+		"cod":"6580",
+		"1":"ViaBERNAMONTIDANTE",
+		"topocompleto":"ViaBERNAMONTIDANTE",
+		"2":"Via BERNAMONTI DANTE",
+		"topospazio":"Via BERNAMONTI DANTE"
+	},
+
+	{
+		"0":"730",
+		"cod":"730",
+		"1":"ViaBERTESIGIACOMO",
+		"topocompleto":"ViaBERTESIGIACOMO",
+		"2":"Via BERTESI GIACOMO",
+		"topospazio":"Via BERTESI GIACOMO"
+	},
+
+	{
+		"0":"10118",
+		"cod":"10118",
+		"1":"ViaBETRIAURELIO",
+		"topocompleto":"ViaBETRIAURELIO",
+		"2":"Via BETRI AURELIO",
+		"topospazio":"Via BETRI AURELIO"
+	},
+
+	{
+		"0":"10034",
+		"cod":"10034",
+		"1":"ViaBEZZECCA",
+		"topocompleto":"ViaBEZZECCA",
+		"2":"Via BEZZECCA",
+		"topospazio":"Via BEZZECCA"
+	},
+
+	{
+		"0":"6840",
+		"cod":"6840",
+		"1":"ViaBIAZZIMARIO",
+		"topocompleto":"ViaBIAZZIMARIO",
+		"2":"Via BIAZZI MARIO",
+		"topospazio":"Via BIAZZI MARIO"
+	},
+
+	{
+		"0":"10097",
+		"cod":"10097",
+		"1":"ViaBIBACULOMARCOFURIO",
+		"topocompleto":"ViaBIBACULOMARCOFURIO",
+		"2":"Via BIBACULO MARCO FURIO",
+		"topospazio":"Via BIBACULO MARCO FURIO"
+	},
+
+	{
+		"0":"740",
+		"cod":"740",
+		"1":"ViaBIFFIGIANBATTISTA",
+		"topocompleto":"ViaBIFFIGIANBATTISTA",
+		"2":"Via BIFFI GIAN BATTISTA",
+		"topospazio":"Via BIFFI GIAN BATTISTA"
+	},
+
+	{
+		"0":"750",
+		"cod":"750",
+		"1":"ViaBIGNAMICARLO",
+		"topocompleto":"ViaBIGNAMICARLO",
+		"2":"Via BIGNAMI CARLO",
+		"topospazio":"Via BIGNAMI CARLO"
+	},
+
+	{
+		"0":"770",
+		"cod":"770",
+		"1":"ViaBIRAGA",
+		"topocompleto":"ViaBIRAGA",
+		"2":"Via BIRAGA",
+		"topospazio":"Via BIRAGA"
+	},
+
+	{
+		"0":"780",
+		"cod":"780",
+		"1":"ViaBISSOLATISTEFANOLEONIDA",
+		"topocompleto":"ViaBISSOLATISTEFANOLEONIDA",
+		"2":"Via BISSOLATI STEFANO LEONIDA",
+		"topospazio":"Via BISSOLATI STEFANO LEONIDA"
+	},
+
+	{
+		"0":"10021",
+		"cod":"10021",
+		"1":"ViaBISSOLINA",
+		"topocompleto":"ViaBISSOLINA",
+		"2":"Via BISSOLINA",
+		"topospazio":"Via BISSOLINA"
+	},
+
+	{
+		"0":"7100",
+		"cod":"7100",
+		"1":"ViaBIXIONINO",
+		"topocompleto":"ViaBIXIONINO",
+		"2":"Via BIXIO NINO",
+		"topospazio":"Via BIXIO NINO"
+	},
+
+	{
+		"0":"790",
+		"cod":"790",
+		"1":"ViaBIZZARRA",
+		"topocompleto":"ViaBIZZARRA",
+		"2":"Via BIZZARRA",
+		"topospazio":"Via BIZZARRA"
+	},
+
+	{
+		"0":"810",
+		"cod":"810",
+		"1":"ViaBOCCOLIGIOVANBATTISTA",
+		"topocompleto":"ViaBOCCOLIGIOVANBATTISTA",
+		"2":"Via BOCCOLI GIOVAN BATTISTA",
+		"topospazio":"Via BOCCOLI GIOVAN BATTISTA"
+	},
+
+	{
+		"0":"820",
+		"cod":"820",
+		"1":"ViaBOLDORIATTILIO",
+		"topocompleto":"ViaBOLDORIATTILIO",
+		"2":"Via BOLDORI ATTILIO",
+		"topospazio":"Via BOLDORI ATTILIO"
+	},
+
+	{
+		"0":"830",
+		"cod":"830",
+		"1":"ViaBOLZANO",
+		"topocompleto":"ViaBOLZANO",
+		"2":"Via BOLZANO",
+		"topospazio":"Via BOLZANO"
+	},
+
+	{
+		"0":"840",
+		"cod":"840",
+		"1":"ViaBOMBASIO",
+		"topocompleto":"ViaBOMBASIO",
+		"2":"Via BOMBASIO",
+		"topospazio":"Via BOMBASIO"
+	},
+
+	{
+		"0":"850",
+		"cod":"850",
+		"1":"ViaBONEMERSE",
+		"topocompleto":"ViaBONEMERSE",
+		"2":"Via BONEMERSE",
+		"topospazio":"Via BONEMERSE"
+	},
+
+	{
+		"0":"10116",
+		"cod":"10116",
+		"1":"ViaBONETTICARLO",
+		"topocompleto":"ViaBONETTICARLO",
+		"2":"Via BONETTI CARLO",
+		"topospazio":"Via BONETTI CARLO"
+	},
+
+	{
+		"0":"10061",
+		"cod":"10061",
+		"1":"ViaBONISOLO",
+		"topocompleto":"ViaBONISOLO",
+		"2":"Via BONISOLO",
+		"topospazio":"Via BONISOLO"
+	},
+
+	{
+		"0":"860",
+		"cod":"860",
+		"1":"ViaBONIZONE",
+		"topocompleto":"ViaBONIZONE",
+		"2":"Via BONIZONE",
+		"topospazio":"Via BONIZONE"
+	},
+
+	{
+		"0":"870",
+		"cod":"870",
+		"1":"ViaBONOMELLIGEREMIA",
+		"topocompleto":"ViaBONOMELLIGEREMIA",
+		"2":"Via BONOMELLI GEREMIA",
+		"topospazio":"Via BONOMELLI GEREMIA"
+	},
+
+	{
+		"0":"880",
+		"cod":"880",
+		"1":"ViaBORDIGALLODOMENICO",
+		"topocompleto":"ViaBORDIGALLODOMENICO",
+		"2":"Via BORDIGALLO DOMENICO",
+		"topospazio":"Via BORDIGALLO DOMENICO"
+	},
+
+	{
+		"0":"890",
+		"cod":"890",
+		"1":"ViaBORGHETTO",
+		"topocompleto":"ViaBORGHETTO",
+		"2":"Via BORGHETTO",
+		"topospazio":"Via BORGHETTO"
+	},
+
+	{
+		"0":"900",
+		"cod":"900",
+		"1":"ViaBORGOSPERA",
+		"topocompleto":"ViaBORGOSPERA",
+		"2":"Via BORGO SPERA",
+		"topospazio":"Via BORGO SPERA"
+	},
+
+	{
+		"0":"910",
+		"cod":"910",
+		"1":"ViaBORRONIGIOVANNIANGELO",
+		"topocompleto":"ViaBORRONIGIOVANNIANGELO",
+		"2":"Via BORRONI GIOVANNI ANGELO",
+		"topospazio":"Via BORRONI GIOVANNI ANGELO"
+	},
+
+	{
+		"0":"920",
+		"cod":"920",
+		"1":"ViaBOSCHETTO",
+		"topocompleto":"ViaBOSCHETTO",
+		"2":"Via BOSCHETTO",
+		"topospazio":"Via BOSCHETTO"
+	},
+
+	{
+		"0":"930",
+		"cod":"930",
+		"1":"ViaBOSCO",
+		"topocompleto":"ViaBOSCO",
+		"2":"Via BOSCO",
+		"topospazio":"Via BOSCO"
+	},
+
+	{
+		"0":"940",
+		"cod":"940",
+		"1":"ViaBOSCONE",
+		"topocompleto":"ViaBOSCONE",
+		"2":"Via BOSCONE",
+		"topospazio":"Via BOSCONE"
+	},
+
+	{
+		"0":"950",
+		"cod":"950",
+		"1":"ViaBOTTANIGIUSEPPE",
+		"topocompleto":"ViaBOTTANIGIUSEPPE",
+		"2":"Via BOTTANI GIUSEPPE",
+		"topospazio":"Via BOTTANI GIUSEPPE"
+	},
+
+	{
+		"0":"960",
+		"cod":"960",
+		"1":"ViaBOTTIATTILIO",
+		"topocompleto":"ViaBOTTIATTILIO",
+		"2":"Via BOTTI ATTILIO",
+		"topospazio":"Via BOTTI ATTILIO"
+	},
+
+	{
+		"0":"6710",
+		"cod":"6710",
+		"1":"ViaBOTTIRENZO",
+		"topocompleto":"ViaBOTTIRENZO",
+		"2":"Via BOTTI RENZO",
+		"topospazio":"Via BOTTI RENZO"
+	},
+
+	{
+		"0":"6520",
+		"cod":"6520",
+		"1":"ViaBRAGADINIGUIDO",
+		"topocompleto":"ViaBRAGADINIGUIDO",
+		"2":"Via BRAGADINI GUIDO",
+		"topospazio":"Via BRAGADINI GUIDO"
+	},
+
+	{
+		"0":"970",
+		"cod":"970",
+		"1":"ViaBREDA",
+		"topocompleto":"ViaBREDA",
+		"2":"Via BREDA",
+		"topospazio":"Via BREDA"
+	},
+
+	{
+		"0":"980",
+		"cod":"980",
+		"1":"ViaBREDINA",
+		"topocompleto":"ViaBREDINA",
+		"2":"Via BREDINA",
+		"topospazio":"Via BREDINA"
+	},
+
+	{
+		"0":"10041",
+		"cod":"10041",
+		"1":"ViaBREDINETTA",
+		"topocompleto":"ViaBREDINETTA",
+		"2":"Via BREDINETTA",
+		"topospazio":"Via BREDINETTA"
+	},
+
+	{
+		"0":"990",
+		"cod":"990",
+		"1":"ViaBREMBO",
+		"topocompleto":"ViaBREMBO",
+		"2":"Via BREMBO",
+		"topospazio":"Via BREMBO"
+	},
+
+	{
+		"0":"1000",
+		"cod":"1000",
+		"1":"ViaBRENTIFRANCESCO",
+		"topocompleto":"ViaBRENTIFRANCESCO",
+		"2":"Via BRENTI FRANCESCO",
+		"topospazio":"Via BRENTI FRANCESCO"
+	},
+
+	{
+		"0":"1010",
+		"cod":"1010",
+		"1":"ViaBRESCIA",
+		"topocompleto":"ViaBRESCIA",
+		"2":"Via BRESCIA",
+		"topospazio":"Via BRESCIA"
+	},
+
+	{
+		"0":"10014",
+		"cod":"10014",
+		"1":"ViaBREVE",
+		"topocompleto":"ViaBREVE",
+		"2":"Via BREVE",
+		"topospazio":"Via BREVE"
+	},
+
+	{
+		"0":"6660",
+		"cod":"6660",
+		"1":"ViaBRODOLINIGIACOMO",
+		"topocompleto":"ViaBRODOLINIGIACOMO",
+		"2":"Via BRODOLINI GIACOMO",
+		"topospazio":"Via BRODOLINI GIACOMO"
+	},
+
+	{
+		"0":"6500",
+		"cod":"6500",
+		"1":"ViaBUGADACARLO",
+		"topocompleto":"ViaBUGADACARLO",
+		"2":"Via BUGADA CARLO",
+		"topospazio":"Via BUGADA CARLO"
+	},
+
+	{
+		"0":"1020",
+		"cod":"1020",
+		"1":"ViaBUOSODADOVARA",
+		"topocompleto":"ViaBUOSODADOVARA",
+		"2":"Via BUOSO DA DOVARA",
+		"topospazio":"Via BUOSO DA DOVARA"
+	},
+
+	{
+		"0":"6700",
+		"cod":"6700",
+		"1":"ViaBUOZZIBRUNO",
+		"topocompleto":"ViaBUOZZIBRUNO",
+		"2":"Via BUOZZI BRUNO",
+		"topospazio":"Via BUOZZI BRUNO"
+	},
+
+	{
+		"0":"10145",
+		"cod":"10145",
+		"1":"ViaBUSADA",
+		"topocompleto":"ViaBUSADA",
+		"2":"Via BUSADA",
+		"topospazio":"Via BUSADA"
+	},
+
+	{
+		"0":"1040",
+		"cod":"1040",
+		"1":"ViaBUSETTIGIANBATTISTA",
+		"topocompleto":"ViaBUSETTIGIANBATTISTA",
+		"2":"Via BUSETTI GIANBATTISTA",
+		"topospazio":"Via BUSETTI GIANBATTISTA"
+	},
+
+	{
+		"0":"7010",
+		"cod":"7010",
+		"1":"ViaBUSINIMARIO",
+		"topocompleto":"ViaBUSINIMARIO",
+		"2":"Via BUSINI MARIO",
+		"topospazio":"Via BUSINI MARIO"
+	},
+
+	{
+		"0":"1080",
+		"cod":"1080",
+		"1":"ViaCADELBINDA",
+		"topocompleto":"ViaCADELBINDA",
+		"2":"Via CA'  DEL BINDA",
+		"topospazio":"Via CA'  DEL BINDA"
+	},
+
+	{
+		"0":"1090",
+		"cod":"1090",
+		"1":"ViaCADELFERRO",
+		"topocompleto":"ViaCADELFERRO",
+		"2":"Via CA' DEL FERRO",
+		"topospazio":"Via CA' DEL FERRO"
+	},
+
+	{
+		"0":"1100",
+		"cod":"1100",
+		"1":"ViaCADELVESCOVO",
+		"topocompleto":"ViaCADELVESCOVO",
+		"2":"Via CA' DEL VESCOVO",
+		"topospazio":"Via CA' DEL VESCOVO"
+	},
+
+	{
+		"0":"10164",
+		"cod":"10164",
+		"1":"ViaCADELLORGANO",
+		"topocompleto":"ViaCADELLORGANO",
+		"2":"Via CA' DELL'ORGANO",
+		"topospazio":"Via CA' DELL'ORGANO"
+	},
+
+	{
+		"0":"10163",
+		"cod":"10163",
+		"1":"ViaCAMAGRA",
+		"topocompleto":"ViaCAMAGRA",
+		"2":"Via CA' MAGRA",
+		"topospazio":"Via CA' MAGRA"
+	},
+
+	{
+		"0":"1390",
+		"cod":"1390",
+		"1":"ViaCAROTTE",
+		"topocompleto":"ViaCAROTTE",
+		"2":"Via CA' ROTTE",
+		"topospazio":"Via CA' ROTTE"
+	},
+
+	{
+		"0":"1050",
+		"cod":"1050",
+		"1":"ViaCABRINIANGELO",
+		"topocompleto":"ViaCABRINIANGELO",
+		"2":"Via CABRINI ANGELO",
+		"topospazio":"Via CABRINI ANGELO"
+	},
+
+	{
+		"0":"1070",
+		"cod":"1070",
+		"1":"ViaCACCIATORIDELLEALPI",
+		"topocompleto":"ViaCACCIATORIDELLEALPI",
+		"2":"Via CACCIATORI DELLE ALPI",
+		"topospazio":"Via CACCIATORI DELLE ALPI"
+	},
+
+	{
+		"0":"1110",
+		"cod":"1110",
+		"1":"ViaCADOLINIGIOVANNI",
+		"topocompleto":"ViaCADOLINIGIOVANNI",
+		"2":"Via CADOLINI GIOVANNI",
+		"topospazio":"Via CADOLINI GIOVANNI"
+	},
+
+	{
+		"0":"1120",
+		"cod":"1120",
+		"1":"ViaCADORE",
+		"topocompleto":"ViaCADORE",
+		"2":"Via CADORE",
+		"topospazio":"Via CADORE"
+	},
+
+	{
+		"0":"1140",
+		"cod":"1140",
+		"1":"ViaCADUTIDELBORGO",
+		"topocompleto":"ViaCADUTIDELBORGO",
+		"2":"Via CADUTI DEL BORGO",
+		"topospazio":"Via CADUTI DEL BORGO"
+	},
+
+	{
+		"0":"6730",
+		"cod":"6730",
+		"1":"ViaCADUTIDELCOLDELLYS",
+		"topocompleto":"ViaCADUTIDELCOLDELLYS",
+		"2":"Via CADUTI DEL COL DEL LYS",
+		"topospazio":"Via CADUTI DEL COL DEL LYS"
+	},
+
+	{
+		"0":"1150",
+		"cod":"1150",
+		"1":"ViaCAFFIMARGHERITA",
+		"topocompleto":"ViaCAFFIMARGHERITA",
+		"2":"Via CAFFI MARGHERITA",
+		"topospazio":"Via CAFFI MARGHERITA"
+	},
+
+	{
+		"0":"10033",
+		"cod":"10033",
+		"1":"ViaCALATAFIMI",
+		"topocompleto":"ViaCALATAFIMI",
+		"2":"Via CALATAFIMI",
+		"topospazio":"Via CALATAFIMI"
+	},
+
+	{
+		"0":"1170",
+		"cod":"1170",
+		"1":"ViaCALCIATICESARE",
+		"topocompleto":"ViaCALCIATICESARE",
+		"2":"Via CALCIATI CESARE",
+		"topospazio":"Via CALCIATI CESARE"
+	},
+
+	{
+		"0":"1180",
+		"cod":"1180",
+		"1":"ViaCALDARAPOLIDORO",
+		"topocompleto":"ViaCALDARAPOLIDORO",
+		"2":"Via CALDARA POLIDORO",
+		"topospazio":"Via CALDARA POLIDORO"
+	},
+
+	{
+		"0":"10153",
+		"cod":"10153",
+		"1":"ViaCALIPARINICOLA",
+		"topocompleto":"ViaCALIPARINICOLA",
+		"2":"Via CALIPARI NICOLA",
+		"topospazio":"Via CALIPARI NICOLA"
+	},
+
+	{
+		"0":"1190",
+		"cod":"1190",
+		"1":"ViaCALVIGIOVANNI",
+		"topocompleto":"ViaCALVIGIOVANNI",
+		"2":"Via CALVI GIOVANNI",
+		"topospazio":"Via CALVI GIOVANNI"
+	},
+
+	{
+		"0":"1200",
+		"cod":"1200",
+		"1":"ViaCAMBIBOMBARDA",
+		"topocompleto":"ViaCAMBIBOMBARDA",
+		"2":"Via CAMBI BOMBARDA",
+		"topospazio":"Via CAMBI BOMBARDA"
+	},
+
+	{
+		"0":"10144",
+		"cod":"10144",
+		"1":"ViaCAMPANELLA",
+		"topocompleto":"ViaCAMPANELLA",
+		"2":"Via CAMPANELLA",
+		"topospazio":"Via CAMPANELLA"
+	},
+
+	{
+		"0":"10104",
+		"cod":"10104",
+		"1":"ViaCAMPESTRE",
+		"topocompleto":"ViaCAMPESTRE",
+		"2":"Via CAMPESTRE",
+		"topospazio":"Via CAMPESTRE"
+	},
+
+	{
+		"0":"1240",
+		"cod":"1240",
+		"1":"ViaCAMPOFIORE",
+		"topocompleto":"ViaCAMPOFIORE",
+		"2":"Via CAMPO FIORE",
+		"topospazio":"Via CAMPO FIORE"
+	},
+
+	{
+		"0":"1250",
+		"cod":"1250",
+		"1":"ViaCAMPOSANTO",
+		"topocompleto":"ViaCAMPOSANTO",
+		"2":"Via CAMPO SANTO",
+		"topospazio":"Via CAMPO SANTO"
+	},
+
+	{
+		"0":"1230",
+		"cod":"1230",
+		"1":"ViaCAMPODOSSO",
+		"topocompleto":"ViaCAMPODOSSO",
+		"2":"Via CAMPODOSSO",
+		"topospazio":"Via CAMPODOSSO"
+	},
+
+	{
+		"0":"7440",
+		"cod":"7440",
+		"1":"ViaCANOVETTA",
+		"topocompleto":"ViaCANOVETTA",
+		"2":"Via CANOVETTA",
+		"topospazio":"Via CANOVETTA"
+	},
+
+	{
+		"0":"1260",
+		"cod":"1260",
+		"1":"ViaCANTIERE",
+		"topocompleto":"ViaCANTIERE",
+		"2":"Via CANTIERE",
+		"topospazio":"Via CANTIERE"
+	},
+
+	{
+		"0":"1280",
+		"cod":"1280",
+		"1":"ViaCANTONE",
+		"topocompleto":"ViaCANTONE",
+		"2":"Via CANTONE",
+		"topospazio":"Via CANTONE"
+	},
+
+	{
+		"0":"1290",
+		"cod":"1290",
+		"1":"ViaCAPELLANAFRANCESCO",
+		"topocompleto":"ViaCAPELLANAFRANCESCO",
+		"2":"Via CAPELLANA FRANCESCO",
+		"topospazio":"Via CAPELLANA FRANCESCO"
+	},
+
+	{
+		"0":"1300",
+		"cod":"1300",
+		"1":"ViaCAPITANODELPOPOLO",
+		"topocompleto":"ViaCAPITANODELPOPOLO",
+		"2":"Via CAPITANO DEL POPOLO",
+		"topospazio":"Via CAPITANO DEL POPOLO"
+	},
+
+	{
+		"0":"7110",
+		"cod":"7110",
+		"1":"ViaCAPODISTRIA",
+		"topocompleto":"ViaCAPODISTRIA",
+		"2":"Via CAPODISTRIA",
+		"topospazio":"Via CAPODISTRIA"
+	},
+
+	{
+		"0":"1320",
+		"cod":"1320",
+		"1":"ViaCAPPELLETTI",
+		"topocompleto":"ViaCAPPELLETTI",
+		"2":"Via CAPPELLETTI",
+		"topospazio":"Via CAPPELLETTI"
+	},
+
+	{
+		"0":"1330",
+		"cod":"1330",
+		"1":"ViaCAPRAALESSANDRO",
+		"topocompleto":"ViaCAPRAALESSANDRO",
+		"2":"Via CAPRA ALESSANDRO",
+		"topospazio":"Via CAPRA ALESSANDRO"
+	},
+
+	{
+		"0":"1340",
+		"cod":"1340",
+		"1":"ViaCAPRERA",
+		"topocompleto":"ViaCAPRERA",
+		"2":"Via CAPRERA",
+		"topospazio":"Via CAPRERA"
+	},
+
+	{
+		"0":"1350",
+		"cod":"1350",
+		"1":"ViaCARBONERA",
+		"topocompleto":"ViaCARBONERA",
+		"2":"Via CARBONERA",
+		"topospazio":"Via CARBONERA"
+	},
+
+	{
+		"0":"1360",
+		"cod":"1360",
+		"1":"ViaCARENACESARE",
+		"topocompleto":"ViaCARENACESARE",
+		"2":"Via CARENA CESARE",
+		"topospazio":"Via CARENA CESARE"
+	},
+
+	{
+		"0":"1370",
+		"cod":"1370",
+		"1":"ViaCARINILUIGI",
+		"topocompleto":"ViaCARINILUIGI",
+		"2":"Via CARINI LUIGI",
+		"topospazio":"Via CARINI LUIGI"
+	},
+
+	{
+		"0":"6530",
+		"cod":"6530",
+		"1":"ViaCARLETTIANNIBALE",
+		"topocompleto":"ViaCARLETTIANNIBALE",
+		"2":"Via CARLETTI ANNIBALE",
+		"topospazio":"Via CARLETTI ANNIBALE"
+	},
+
+	{
+		"0":"1380",
+		"cod":"1380",
+		"1":"ViaCARNEVALIGIOVANNI",
+		"topocompleto":"ViaCARNEVALIGIOVANNI",
+		"2":"Via CARNEVALI GIOVANNI",
+		"topospazio":"Via CARNEVALI GIOVANNI"
+	},
+
+	{
+		"0":"1400",
+		"cod":"1400",
+		"1":"ViaCARPENA",
+		"topocompleto":"ViaCARPENA",
+		"2":"Via CARPENA",
+		"topospazio":"Via CARPENA"
+	},
+
+	{
+		"0":"6770",
+		"cod":"6770",
+		"1":"ViaCARPENELLA",
+		"topocompleto":"ViaCARPENELLA",
+		"2":"Via CARPENELLA",
+		"topospazio":"Via CARPENELLA"
+	},
+
+	{
+		"0":"1410",
+		"cod":"1410",
+		"1":"ViaCARSO",
+		"topocompleto":"ViaCARSO",
+		"2":"Via CARSO",
+		"topospazio":"Via CARSO"
+	},
+
+	{
+		"0":"1420",
+		"cod":"1420",
+		"1":"ViaCASALMAGGIORE",
+		"topocompleto":"ViaCASALMAGGIORE",
+		"2":"Via CASALMAGGIORE",
+		"topospazio":"Via CASALMAGGIORE"
+	},
+
+	{
+		"0":"1430",
+		"cod":"1430",
+		"1":"ViaCASANOVA",
+		"topocompleto":"ViaCASANOVA",
+		"2":"Via CASANOVA",
+		"topospazio":"Via CASANOVA"
+	},
+
+	{
+		"0":"10178",
+		"cod":"10178",
+		"1":"ViaCASCINACORTE",
+		"topocompleto":"ViaCASCINACORTE",
+		"2":"Via CASCINA CORTE",
+		"topospazio":"Via CASCINA CORTE"
+	},
+
+	{
+		"0":"10117",
+		"cod":"10117",
+		"1":"ViaCASCINASANTELENA",
+		"topocompleto":"ViaCASCINASANTELENA",
+		"2":"Via CASCINA SANT'ELENA",
+		"topospazio":"Via CASCINA SANT'ELENA"
+	},
+
+	{
+		"0":"10110",
+		"cod":"10110",
+		"1":"ViaCASCINASPALLE",
+		"topocompleto":"ViaCASCINASPALLE",
+		"2":"Via CASCINA SPALLE",
+		"topospazio":"Via CASCINA SPALLE"
+	},
+
+	{
+		"0":"7530",
+		"cod":"7530",
+		"1":"ViaCASCINETTO",
+		"topocompleto":"ViaCASCINETTO",
+		"2":"Via CASCINETTO",
+		"topospazio":"Via CASCINETTO"
+	},
+
+	{
+		"0":"10084",
+		"cod":"10084",
+		"1":"ViaCASELLA",
+		"topocompleto":"ViaCASELLA",
+		"2":"Via CASELLA",
+		"topospazio":"Via CASELLA"
+	},
+
+	{
+		"0":"10086",
+		"cod":"10086",
+		"1":"ViaCASTAGNA",
+		"topocompleto":"ViaCASTAGNA",
+		"2":"Via CASTAGNA",
+		"topospazio":"Via CASTAGNA"
+	},
+
+	{
+		"0":"1440",
+		"cod":"1440",
+		"1":"ViaCASTELBASSO",
+		"topocompleto":"ViaCASTELBASSO",
+		"2":"Via CASTELBASSO",
+		"topospazio":"Via CASTELBASSO"
+	},
+
+	{
+		"0":"1450",
+		"cod":"1450",
+		"1":"ViaCASTELBELLO",
+		"topocompleto":"ViaCASTELBELLO",
+		"2":"Via CASTELBELLO",
+		"topospazio":"Via CASTELBELLO"
+	},
+
+	{
+		"0":"1460",
+		"cod":"1460",
+		"1":"ViaCASTELCHIARO",
+		"topocompleto":"ViaCASTELCHIARO",
+		"2":"Via CASTELCHIARO",
+		"topospazio":"Via CASTELCHIARO"
+	},
+
+	{
+		"0":"1470",
+		"cod":"1470",
+		"1":"ViaCASTELFIORITO",
+		"topocompleto":"ViaCASTELFIORITO",
+		"2":"Via CASTELFIORITO",
+		"topospazio":"Via CASTELFIORITO"
+	},
+
+	{
+		"0":"1480",
+		"cod":"1480",
+		"1":"ViaCASTELFORTE",
+		"topocompleto":"ViaCASTELFORTE",
+		"2":"Via CASTELFORTE",
+		"topospazio":"Via CASTELFORTE"
+	},
+
+	{
+		"0":"1490",
+		"cod":"1490",
+		"1":"ViaCASTELLALTO",
+		"topocompleto":"ViaCASTELLALTO",
+		"2":"Via CASTELLALTO",
+		"topospazio":"Via CASTELLALTO"
+	},
+
+	{
+		"0":"1500",
+		"cod":"1500",
+		"1":"ViaCASTELLEONE",
+		"topocompleto":"ViaCASTELLEONE",
+		"2":"Via CASTELLEONE",
+		"topospazio":"Via CASTELLEONE"
+	},
+
+	{
+		"0":"1510",
+		"cod":"1510",
+		"1":"ViaCASTELLETTO",
+		"topocompleto":"ViaCASTELLETTO",
+		"2":"Via CASTELLETTO",
+		"topospazio":"Via CASTELLETTO"
+	},
+
+	{
+		"0":"1530",
+		"cod":"1530",
+		"1":"ViaCASTELMONTE",
+		"topocompleto":"ViaCASTELMONTE",
+		"2":"Via CASTELMONTE",
+		"topospazio":"Via CASTELMONTE"
+	},
+
+	{
+		"0":"1540",
+		"cod":"1540",
+		"1":"ViaCASTELNUOVO",
+		"topocompleto":"ViaCASTELNUOVO",
+		"2":"Via CASTELNUOVO",
+		"topospazio":"Via CASTELNUOVO"
+	},
+
+	{
+		"0":"1550",
+		"cod":"1550",
+		"1":"ViaCASTELPIANO",
+		"topocompleto":"ViaCASTELPIANO",
+		"2":"Via CASTELPIANO",
+		"topospazio":"Via CASTELPIANO"
+	},
+
+	{
+		"0":"1560",
+		"cod":"1560",
+		"1":"ViaCASTELSERENO",
+		"topocompleto":"ViaCASTELSERENO",
+		"2":"Via CASTELSERENO",
+		"topospazio":"Via CASTELSERENO"
+	},
+
+	{
+		"0":"1570",
+		"cod":"1570",
+		"1":"ViaCASTELVECCHIO",
+		"topocompleto":"ViaCASTELVECCHIO",
+		"2":"Via CASTELVECCHIO",
+		"topospazio":"Via CASTELVECCHIO"
+	},
+
+	{
+		"0":"1580",
+		"cod":"1580",
+		"1":"ViaCASTELVERDE",
+		"topocompleto":"ViaCASTELVERDE",
+		"2":"Via CASTELVERDE",
+		"topospazio":"Via CASTELVERDE"
+	},
+
+	{
+		"0":"1590",
+		"cod":"1590",
+		"1":"ViaCATTANEOCARLO",
+		"topocompleto":"ViaCATTANEOCARLO",
+		"2":"Via CATTANEO CARLO",
+		"topospazio":"Via CATTANEO CARLO"
+	},
+
+	{
+		"0":"1600",
+		"cod":"1600",
+		"1":"ViaCATTAPANELUCA",
+		"topocompleto":"ViaCATTAPANELUCA",
+		"2":"Via CATTAPANE LUCA",
+		"topospazio":"Via CATTAPANE LUCA"
+	},
+
+	{
+		"0":"1610",
+		"cod":"1610",
+		"1":"ViaCATTARO",
+		"topocompleto":"ViaCATTARO",
+		"2":"Via CATTARO",
+		"topospazio":"Via CATTARO"
+	},
+
+	{
+		"0":"1620",
+		"cod":"1620",
+		"1":"ViaCAUDANAFEDERICO",
+		"topocompleto":"ViaCAUDANAFEDERICO",
+		"2":"Via CAUDANA FEDERICO",
+		"topospazio":"Via CAUDANA FEDERICO"
+	},
+
+	{
+		"0":"1630",
+		"cod":"1630",
+		"1":"ViaCAVALCABOUGOLINO",
+		"topocompleto":"ViaCAVALCABOUGOLINO",
+		"2":"Via CAVALCABO' UGOLINO",
+		"topospazio":"Via CAVALCABO' UGOLINO"
+	},
+
+	{
+		"0":"1640",
+		"cod":"1640",
+		"1":"ViaCAVALIERIDIVITTORIOVENETO",
+		"topocompleto":"ViaCAVALIERIDIVITTORIOVENETO",
+		"2":"Via CAVALIERI DI VITTORIO VENETO",
+		"topospazio":"Via CAVALIERI DI VITTORIO VENETO"
+	},
+
+	{
+		"0":"1650",
+		"cod":"1650",
+		"1":"ViaCAVALLARA",
+		"topocompleto":"ViaCAVALLARA",
+		"2":"Via CAVALLARA",
+		"topospazio":"Via CAVALLARA"
+	},
+
+	{
+		"0":"1660",
+		"cod":"1660",
+		"1":"ViaCAVALLIFRANCESCO",
+		"topocompleto":"ViaCAVALLIFRANCESCO",
+		"2":"Via CAVALLI FRANCESCO",
+		"topospazio":"Via CAVALLI FRANCESCO"
+	},
+
+	{
+		"0":"1670",
+		"cod":"1670",
+		"1":"ViaCAVALLOTTIFELICE",
+		"topocompleto":"ViaCAVALLOTTIFELICE",
+		"2":"Via CAVALLOTTI FELICE",
+		"topospazio":"Via CAVALLOTTI FELICE"
+	},
+
+	{
+		"0":"1680",
+		"cod":"1680",
+		"1":"ViaCAVITELLILODOVICO",
+		"topocompleto":"ViaCAVITELLILODOVICO",
+		"2":"Via CAVITELLI LODOVICO",
+		"topospazio":"Via CAVITELLI LODOVICO"
+	},
+
+	{
+		"0":"1690",
+		"cod":"1690",
+		"1":"ViaCAVOCERCA",
+		"topocompleto":"ViaCAVOCERCA",
+		"2":"Via CAVO CERCA",
+		"topospazio":"Via CAVO CERCA"
+	},
+
+	{
+		"0":"7450",
+		"cod":"7450",
+		"1":"ViaCAVOCOPERTO",
+		"topocompleto":"ViaCAVOCOPERTO",
+		"2":"Via CAVO COPERTO",
+		"topospazio":"Via CAVO COPERTO"
+	},
+
+	{
+		"0":"1720",
+		"cod":"1720",
+		"1":"ViaCAZZANIGAFULVIO",
+		"topocompleto":"ViaCAZZANIGAFULVIO",
+		"2":"Via CAZZANIGA FULVIO",
+		"topospazio":"Via CAZZANIGA FULVIO"
+	},
+
+	{
+		"0":"1730",
+		"cod":"1730",
+		"1":"ViaCENTRO",
+		"topocompleto":"ViaCENTRO",
+		"2":"Via CENTRO",
+		"topospazio":"Via CENTRO"
+	},
+
+	{
+		"0":"1740",
+		"cod":"1740",
+		"1":"ViaCERASA",
+		"topocompleto":"ViaCERASA",
+		"2":"Via CERASA",
+		"topospazio":"Via CERASA"
+	},
+
+	{
+		"0":"1750",
+		"cod":"1750",
+		"1":"ViaCERESOLE",
+		"topocompleto":"ViaCERESOLE",
+		"2":"Via CERESOLE",
+		"topospazio":"Via CERESOLE"
+	},
+
+	{
+		"0":"1760",
+		"cod":"1760",
+		"1":"ViaCERIOLIGASPARE",
+		"topocompleto":"ViaCERIOLIGASPARE",
+		"2":"Via CERIOLI GASPARE",
+		"topospazio":"Via CERIOLI GASPARE"
+	},
+
+	{
+		"0":"1780",
+		"cod":"1780",
+		"1":"ViaCESARIGAETANO",
+		"topocompleto":"ViaCESARIGAETANO",
+		"2":"Via CESARI GAETANO",
+		"topospazio":"Via CESARI GAETANO"
+	},
+
+	{
+		"0":"7290",
+		"cod":"7290",
+		"1":"ViaCESURADANZIO",
+		"topocompleto":"ViaCESURADANZIO",
+		"2":"Via CESURA DANZIO",
+		"topospazio":"Via CESURA DANZIO"
+	},
+
+	{
+		"0":"1790",
+		"cod":"1790",
+		"1":"ViaCHIAPPARILAZZARO",
+		"topocompleto":"ViaCHIAPPARILAZZARO",
+		"2":"Via CHIAPPARI LAZZARO",
+		"topospazio":"Via CHIAPPARI LAZZARO"
+	},
+
+	{
+		"0":"1800",
+		"cod":"1800",
+		"1":"ViaCHIARANOVELLA",
+		"topocompleto":"ViaCHIARANOVELLA",
+		"2":"Via CHIARA NOVELLA",
+		"topospazio":"Via CHIARA NOVELLA"
+	},
+
+	{
+		"0":"1820",
+		"cod":"1820",
+		"1":"ViaCHIESADAMIANO",
+		"topocompleto":"ViaCHIESADAMIANO",
+		"2":"Via CHIESA DAMIANO",
+		"topospazio":"Via CHIESA DAMIANO"
+	},
+
+	{
+		"0":"1830",
+		"cod":"1830",
+		"1":"ViaCHIESE",
+		"topocompleto":"ViaCHIESE",
+		"2":"Via CHIESE",
+		"topospazio":"Via CHIESE"
+	},
+
+	{
+		"0":"1840",
+		"cod":"1840",
+		"1":"ViaCHIOSIGIOVANNI",
+		"topocompleto":"ViaCHIOSIGIOVANNI",
+		"2":"Via CHIOSI GIOVANNI",
+		"topospazio":"Via CHIOSI GIOVANNI"
+	},
+
+	{
+		"0":"10188",
+		"cod":"10188",
+		"1":"ViaCICLABILEDELBOSCO",
+		"topocompleto":"ViaCICLABILEDELBOSCO",
+		"2":"Via CICLABILE DEL BOSCO",
+		"topospazio":"Via CICLABILE DEL BOSCO"
+	},
+
+	{
+		"0":"10187",
+		"cod":"10187",
+		"1":"ViaCICLABILEDELLAPOSTUMIA",
+		"topocompleto":"ViaCICLABILEDELLAPOSTUMIA",
+		"2":"Via CICLABILE DELLA POSTUMIA",
+		"topospazio":"Via CICLABILE DELLA POSTUMIA"
+	},
+
+	{
+		"0":"1850",
+		"cod":"1850",
+		"1":"ViaCICOGNARAANTONIO",
+		"topocompleto":"ViaCICOGNARAANTONIO",
+		"2":"Via CICOGNARA ANTONIO",
+		"topospazio":"Via CICOGNARA ANTONIO"
+	},
+
+	{
+		"0":"1870",
+		"cod":"1870",
+		"1":"ViaCIMITERO",
+		"topocompleto":"ViaCIMITERO",
+		"2":"Via CIMITERO",
+		"topospazio":"Via CIMITERO"
+	},
+
+	{
+		"0":"1890",
+		"cod":"1890",
+		"1":"ViaCIRIA",
+		"topocompleto":"ViaCIRIA",
+		"2":"Via CIRIA",
+		"topospazio":"Via CIRIA"
+	},
+
+	{
+		"0":"10137",
+		"cod":"10137",
+		"1":"ViaCISORIOLUIGI",
+		"topocompleto":"ViaCISORIOLUIGI",
+		"2":"Via CISORIO LUIGI",
+		"topospazio":"Via CISORIO LUIGI"
+	},
+
+	{
+		"0":"6830",
+		"cod":"6830",
+		"1":"ViaCLAROGIULIO",
+		"topocompleto":"ViaCLAROGIULIO",
+		"2":"Via CLARO GIULIO",
+		"topospazio":"Via CLARO GIULIO"
+	},
+
+	{
+		"0":"1930",
+		"cod":"1930",
+		"1":"ViaCOLDILANA",
+		"topocompleto":"ViaCOLDILANA",
+		"2":"Via COL DI LANA",
+		"topospazio":"Via COL DI LANA"
+	},
+
+	{
+		"0":"10121",
+		"cod":"10121",
+		"1":"ViaCOLATOREMALAZZINA",
+		"topocompleto":"ViaCOLATOREMALAZZINA",
+		"2":"Via COLATORE MALAZZINA",
+		"topospazio":"Via COLATORE MALAZZINA"
+	},
+
+	{
+		"0":"1940",
+		"cod":"1940",
+		"1":"ViaCOLLEGIO",
+		"topocompleto":"ViaCOLLEGIO",
+		"2":"Via COLLEGIO",
+		"topospazio":"Via COLLEGIO"
+	},
+
+	{
+		"0":"1950",
+		"cod":"1950",
+		"1":"ViaCOLLETTA",
+		"topocompleto":"ViaCOLLETTA",
+		"2":"Via COLLETTA",
+		"topospazio":"Via COLLETTA"
+	},
+
+	{
+		"0":"1970",
+		"cod":"1970",
+		"1":"ViaCOLOMBARA",
+		"topocompleto":"ViaCOLOMBARA",
+		"2":"Via COLOMBARA",
+		"topospazio":"Via COLOMBARA"
+	},
+
+	{
+		"0":"7000",
+		"cod":"7000",
+		"1":"ViaCOLOMBIBORDEFRANCESCO",
+		"topocompleto":"ViaCOLOMBIBORDEFRANCESCO",
+		"2":"Via COLOMBI BORDE FRANCESCO",
+		"topospazio":"Via COLOMBI BORDE FRANCESCO"
+	},
+
+	{
+		"0":"1980",
+		"cod":"1980",
+		"1":"ViaCOLOMBOREALDO",
+		"topocompleto":"ViaCOLOMBOREALDO",
+		"2":"Via COLOMBO REALDO",
+		"topospazio":"Via COLOMBO REALDO"
+	},
+
+	{
+		"0":"1990",
+		"cod":"1990",
+		"1":"ViaCOMMENDADIMALTA",
+		"topocompleto":"ViaCOMMENDADIMALTA",
+		"2":"Via COMMENDA DI MALTA",
+		"topospazio":"Via COMMENDA DI MALTA"
+	},
+
+	{
+		"0":"10090",
+		"cod":"10090",
+		"1":"ViaCONTIVINCENZO",
+		"topocompleto":"ViaCONTIVINCENZO",
+		"2":"Via CONTI VINCENZO",
+		"topospazio":"Via CONTI VINCENZO"
+	},
+
+	{
+		"0":"10096",
+		"cod":"10096",
+		"1":"ViaCORAZZIPAOLO",
+		"topocompleto":"ViaCORAZZIPAOLO",
+		"2":"Via CORAZZI PAOLO",
+		"topospazio":"Via CORAZZI PAOLO"
+	},
+
+	{
+		"0":"7060",
+		"cod":"7060",
+		"1":"ViaCORAZZINISERGIO",
+		"topocompleto":"ViaCORAZZINISERGIO",
+		"2":"Via CORAZZINI SERGIO",
+		"topospazio":"Via CORAZZINI SERGIO"
+	},
+
+	{
+		"0":"10112",
+		"cod":"10112",
+		"1":"ViaCORDANISERENO",
+		"topocompleto":"ViaCORDANISERENO",
+		"2":"Via CORDANI SERENO",
+		"topospazio":"Via CORDANI SERENO"
+	},
+
+	{
+		"0":"2040",
+		"cod":"2040",
+		"1":"ViaCORRADINONICOLO",
+		"topocompleto":"ViaCORRADINONICOLO",
+		"2":"Via CORRADINO NICOLO'",
+		"topospazio":"Via CORRADINO NICOLO'"
+	},
+
+	{
+		"0":"2050",
+		"cod":"2050",
+		"1":"ViaCORTE",
+		"topocompleto":"ViaCORTE",
+		"2":"Via CORTE",
+		"topospazio":"Via CORTE"
+	},
+
+	{
+		"0":"10023",
+		"cod":"10023",
+		"1":"ViaCORTEDEMONACI",
+		"topocompleto":"ViaCORTEDEMONACI",
+		"2":"Via CORTE DE' MONACI",
+		"topospazio":"Via CORTE DE' MONACI"
+	},
+
+	{
+		"0":"2060",
+		"cod":"2060",
+		"1":"ViaCORTESE",
+		"topocompleto":"ViaCORTESE",
+		"2":"Via CORTESE",
+		"topospazio":"Via CORTESE"
+	},
+
+	{
+		"0":"2070",
+		"cod":"2070",
+		"1":"ViaCOSTAANDREA",
+		"topocompleto":"ViaCOSTAANDREA",
+		"2":"Via COSTA ANDREA",
+		"topospazio":"Via COSTA ANDREA"
+	},
+
+	{
+		"0":"2080",
+		"cod":"2080",
+		"1":"ViaCOSTONEDIMEZZO",
+		"topocompleto":"ViaCOSTONEDIMEZZO",
+		"2":"Via COSTONE DI MEZZO",
+		"topospazio":"Via COSTONE DI MEZZO"
+	},
+
+	{
+		"0":"2090",
+		"cod":"2090",
+		"1":"ViaCOSTONEDISOPRA",
+		"topocompleto":"ViaCOSTONEDISOPRA",
+		"2":"Via COSTONE DI SOPRA",
+		"topospazio":"Via COSTONE DI SOPRA"
+	},
+
+	{
+		"0":"2100",
+		"cod":"2100",
+		"1":"ViaCOSTONEDISOTTO",
+		"topocompleto":"ViaCOSTONEDISOTTO",
+		"2":"Via COSTONE DI SOTTO",
+		"topospazio":"Via COSTONE DI SOTTO"
+	},
+
+	{
+		"0":"2110",
+		"cod":"2110",
+		"1":"ViaCOSTONINO",
+		"topocompleto":"ViaCOSTONINO",
+		"2":"Via COSTONINO",
+		"topospazio":"Via COSTONINO"
+	},
+
+	{
+		"0":"2120",
+		"cod":"2120",
+		"1":"ViaCREMA",
+		"topocompleto":"ViaCREMA",
+		"2":"Via CREMA",
+		"topospazio":"Via CREMA"
+	},
+
+	{
+		"0":"2130",
+		"cod":"2130",
+		"1":"ViaCREMONELLA",
+		"topocompleto":"ViaCREMONELLA",
+		"2":"Via CREMONELLA",
+		"topospazio":"Via CREMONELLA"
+	},
+
+	{
+		"0":"2140",
+		"cod":"2140",
+		"1":"ViaCREMONINIBIANCHIGIUSEPPE",
+		"topocompleto":"ViaCREMONINIBIANCHIGIUSEPPE",
+		"2":"Via CREMONINI BIANCHI GIUSEPPE",
+		"topospazio":"Via CREMONINI BIANCHI GIUSEPPE"
+	},
+
+	{
+		"0":"6650",
+		"cod":"6650",
+		"1":"ViaCRESPIGIOVANBATTISTA",
+		"topocompleto":"ViaCRESPIGIOVANBATTISTA",
+		"2":"Via CRESPI GIOVAN BATTISTA",
+		"topospazio":"Via CRESPI GIOVAN BATTISTA"
+	},
+
+	{
+		"0":"2150",
+		"cod":"2150",
+		"1":"ViaCROCEGRANDE",
+		"topocompleto":"ViaCROCEGRANDE",
+		"2":"Via CROCE GRANDE",
+		"topospazio":"Via CROCE GRANDE"
+	},
+
+	{
+		"0":"2160",
+		"cod":"2160",
+		"1":"ViaCROCILE",
+		"topocompleto":"ViaCROCILE",
+		"2":"Via CROCILE",
+		"topospazio":"Via CROCILE"
+	},
+
+	{
+		"0":"2170",
+		"cod":"2170",
+		"1":"ViaCROTTIELIO",
+		"topocompleto":"ViaCROTTIELIO",
+		"2":"Via CROTTI ELIO",
+		"topospazio":"Via CROTTI ELIO"
+	},
+
+	{
+		"0":"6550",
+		"cod":"6550",
+		"1":"ViaDACQUISTOSALVO",
+		"topocompleto":"ViaDACQUISTOSALVO",
+		"2":"Via D'ACQUISTO SALVO",
+		"topospazio":"Via D'ACQUISTO SALVO"
+	},
+
+	{
+		"0":"2180",
+		"cod":"2180",
+		"1":"ViaDACREMONAGEROLAMO",
+		"topocompleto":"ViaDACREMONAGEROLAMO",
+		"2":"Via DA CREMONA GEROLAMO",
+		"topospazio":"Via DA CREMONA GEROLAMO"
+	},
+
+	{
+		"0":"2190",
+		"cod":"2190",
+		"1":"ViaDALMAZIA",
+		"topocompleto":"ViaDALMAZIA",
+		"2":"Via DALMAZIA",
+		"topospazio":"Via DALMAZIA"
+	},
+
+	{
+		"0":"2200",
+		"cod":"2200",
+		"1":"ViaDANTE",
+		"topocompleto":"ViaDANTE",
+		"2":"Via DANTE",
+		"topospazio":"Via DANTE"
+	},
+
+	{
+		"0":"2210",
+		"cod":"2210",
+		"1":"ViaDARLERIOCARLO",
+		"topocompleto":"ViaDARLERIOCARLO",
+		"2":"Via DARLERIO CARLO",
+		"topospazio":"Via DARLERIO CARLO"
+	},
+
+	{
+		"0":"10026",
+		"cod":"10026",
+		"1":"ViaDEBECILORENZO",
+		"topocompleto":"ViaDEBECILORENZO",
+		"2":"Via DE BECI LORENZO",
+		"topospazio":"Via DE BECI LORENZO"
+	},
+
+	{
+		"0":"10017",
+		"cod":"10017",
+		"1":"ViaDECAROLISVINCENZO",
+		"topocompleto":"ViaDECAROLISVINCENZO",
+		"2":"Via DE CAROLIS VINCENZO",
+		"topospazio":"Via DE CAROLIS VINCENZO"
+	},
+
+	{
+		"0":"2270",
+		"cod":"2270",
+		"1":"ViaDESTAURISRINALDO",
+		"topocompleto":"ViaDESTAURISRINALDO",
+		"2":"Via DE STAURIS RINALDO",
+		"topospazio":"Via DE STAURIS RINALDO"
+	},
+
+	{
+		"0":"680",
+		"cod":"680",
+		"1":"ViaDEBERENZANI",
+		"topocompleto":"ViaDEBERENZANI",
+		"2":"Via DE' BERENZANI",
+		"topospazio":"Via DE' BERENZANI"
+	},
+
+	{
+		"0":"6800",
+		"cod":"6800",
+		"1":"ViaDECAPRIOLI",
+		"topocompleto":"ViaDECAPRIOLI",
+		"2":"Via DE' CAPRIOLI",
+		"topospazio":"Via DE' CAPRIOLI"
+	},
+
+	{
+		"0":"2260",
+		"cod":"2260",
+		"1":"ViaDEROMANIGIOVANNI",
+		"topocompleto":"ViaDEROMANIGIOVANNI",
+		"2":"Via DE' ROMANI GIOVANNI",
+		"topospazio":"Via DE' ROMANI GIOVANNI"
+	},
+
+	{
+		"0":"2230",
+		"cod":"2230",
+		"1":"ViaDECIA",
+		"topocompleto":"ViaDECIA",
+		"2":"Via DECIA",
+		"topospazio":"Via DECIA"
+	},
+
+	{
+		"0":"20",
+		"cod":"20",
+		"1":"ViaDEGLIACERI",
+		"topocompleto":"ViaDEGLIACERI",
+		"2":"Via DEGLI ACERI",
+		"topospazio":"Via DEGLI ACERI"
+	},
+
+	{
+		"0":"10102",
+		"cod":"10102",
+		"1":"ViaDEGLIANTICHIBUDRI",
+		"topocompleto":"ViaDEGLIANTICHIBUDRI",
+		"2":"Via DEGLI ANTICHI BUDRI",
+		"topospazio":"Via DEGLI ANTICHI BUDRI"
+	},
+
+	{
+		"0":"330",
+		"cod":"330",
+		"1":"ViaDEGLIARENILI",
+		"topocompleto":"ViaDEGLIARENILI",
+		"2":"Via DEGLI ARENILI",
+		"topospazio":"Via DEGLI ARENILI"
+	},
+
+	{
+		"0":"360",
+		"cod":"360",
+		"1":"ViaDEGLIARGINI",
+		"topocompleto":"ViaDEGLIARGINI",
+		"2":"Via DEGLI ARGINI",
+		"topospazio":"Via DEGLI ARGINI"
+	},
+
+	{
+		"0":"7360",
+		"cod":"7360",
+		"1":"ViaDEGLIARTIGIANI",
+		"topocompleto":"ViaDEGLIARTIGIANI",
+		"2":"Via DEGLI ARTIGIANI",
+		"topospazio":"Via DEGLI ARTIGIANI"
+	},
+
+	{
+		"0":"3060",
+		"cod":"3060",
+		"1":"ViaDEGLIIPPOCASTANI",
+		"topocompleto":"ViaDEGLIIPPOCASTANI",
+		"2":"Via DEGLI IPPOCASTANI",
+		"topospazio":"Via DEGLI IPPOCASTANI"
+	},
+
+	{
+		"0":"4090",
+		"cod":"4090",
+		"1":"ViaDEGLIOLMI",
+		"topocompleto":"ViaDEGLIOLMI",
+		"2":"Via DEGLI OLMI",
+		"topospazio":"Via DEGLI OLMI"
+	},
+
+	{
+		"0":"4120",
+		"cod":"4120",
+		"1":"ViaDEGLIONTANI",
+		"topocompleto":"ViaDEGLIONTANI",
+		"2":"Via DEGLI ONTANI",
+		"topospazio":"Via DEGLI ONTANI"
+	},
+
+	{
+		"0":"4130",
+		"cod":"4130",
+		"1":"ViaDEGLIOPIFICI",
+		"topocompleto":"ViaDEGLIOPIFICI",
+		"2":"Via DEGLI OPIFICI",
+		"topospazio":"Via DEGLI OPIFICI"
+	},
+
+	{
+		"0":"4150",
+		"cod":"4150",
+		"1":"ViaDEGLIORTIROMANI",
+		"topocompleto":"ViaDEGLIORTIROMANI",
+		"2":"Via DEGLI ORTI ROMANI",
+		"topospazio":"Via DEGLI ORTI ROMANI"
+	},
+
+	{
+		"0":"10147",
+		"cod":"10147",
+		"1":"ViaDEGLIOSPEDALIERI",
+		"topocompleto":"ViaDEGLIOSPEDALIERI",
+		"2":"Via DEGLI OSPEDALIERI",
+		"topospazio":"Via DEGLI OSPEDALIERI"
+	},
+
+	{
+		"0":"10176",
+		"cod":"10176",
+		"1":"ViaDEIBIANCOSPINI",
+		"topocompleto":"ViaDEIBIANCOSPINI",
+		"2":"Via DEI BIANCOSPINI",
+		"topospazio":"Via DEI BIANCOSPINI"
+	},
+
+	{
+		"0":"7120",
+		"cod":"7120",
+		"1":"ViaDEIBOMBICI",
+		"topocompleto":"ViaDEIBOMBICI",
+		"2":"Via DEI BOMBICI",
+		"topospazio":"Via DEI BOMBICI"
+	},
+
+	{
+		"0":"1030",
+		"cod":"1030",
+		"1":"ViaDEIBURCHIELLI",
+		"topocompleto":"ViaDEIBURCHIELLI",
+		"2":"Via DEI BURCHIELLI",
+		"topospazio":"Via DEI BURCHIELLI"
+	},
+
+	{
+		"0":"10022",
+		"cod":"10022",
+		"1":"ViaDEICAPPUCCINI",
+		"topocompleto":"ViaDEICAPPUCCINI",
+		"2":"Via DEI CAPPUCCINI",
+		"topospazio":"Via DEI CAPPUCCINI"
+	},
+
+	{
+		"0":"7030",
+		"cod":"7030",
+		"1":"ViaDEICARBONARI",
+		"topocompleto":"ViaDEICARBONARI",
+		"2":"Via DEI CARBONARI",
+		"topospazio":"Via DEI CARBONARI"
+	},
+
+	{
+		"0":"7130",
+		"cod":"7130",
+		"1":"ViaDEICELTI",
+		"topocompleto":"ViaDEICELTI",
+		"2":"Via DEI CELTI",
+		"topospazio":"Via DEI CELTI"
+	},
+
+	{
+		"0":"1880",
+		"cod":"1880",
+		"1":"ViaDEICIPRESSI",
+		"topocompleto":"ViaDEICIPRESSI",
+		"2":"Via DEI CIPRESSI",
+		"topospazio":"Via DEI CIPRESSI"
+	},
+
+	{
+		"0":"1920",
+		"cod":"1920",
+		"1":"ViaDEICLASSICI",
+		"topocompleto":"ViaDEICLASSICI",
+		"2":"Via DEI CLASSICI",
+		"topospazio":"Via DEI CLASSICI"
+	},
+
+	{
+		"0":"7140",
+		"cod":"7140",
+		"1":"ViaDEICOMIZIAGRARI",
+		"topocompleto":"ViaDEICOMIZIAGRARI",
+		"2":"Via DEI COMIZI AGRARI",
+		"topospazio":"Via DEI COMIZI AGRARI"
+	},
+
+	{
+		"0":"2310",
+		"cod":"2310",
+		"1":"ViaDEIDIVIZIOLI",
+		"topocompleto":"ViaDEIDIVIZIOLI",
+		"2":"Via DEI DIVIZIOLI",
+		"topospazio":"Via DEI DIVIZIOLI"
+	},
+
+	{
+		"0":"2330",
+		"cod":"2330",
+		"1":"ViaDEIDOSSI",
+		"topocompleto":"ViaDEIDOSSI",
+		"2":"Via DEI DOSSI",
+		"topospazio":"Via DEI DOSSI"
+	},
+
+	{
+		"0":"2450",
+		"cod":"2450",
+		"1":"ViaDEIFERROVIERICADUTI",
+		"topocompleto":"ViaDEIFERROVIERICADUTI",
+		"2":"Via DEI FERROVIERI CADUTI",
+		"topospazio":"Via DEI FERROVIERI CADUTI"
+	},
+
+	{
+		"0":"2520",
+		"cod":"2520",
+		"1":"ViaDEIFONDULO",
+		"topocompleto":"ViaDEIFONDULO",
+		"2":"Via DEI FONDULO",
+		"topospazio":"Via DEI FONDULO"
+	},
+
+	{
+		"0":"2560",
+		"cod":"2560",
+		"1":"ViaDEIFORNACIAI",
+		"topocompleto":"ViaDEIFORNACIAI",
+		"2":"Via DEI FORNACIAI",
+		"topospazio":"Via DEI FORNACIAI"
+	},
+
+	{
+		"0":"2590",
+		"cod":"2590",
+		"1":"ViaDEIFRASSINI",
+		"topocompleto":"ViaDEIFRASSINI",
+		"2":"Via DEI FRASSINI",
+		"topospazio":"Via DEI FRASSINI"
+	},
+
+	{
+		"0":"2710",
+		"cod":"2710",
+		"1":"ViaDEIGARIBALDINI",
+		"topocompleto":"ViaDEIGARIBALDINI",
+		"2":"Via DEI GARIBALDINI",
+		"topospazio":"Via DEI GARIBALDINI"
+	},
+
+	{
+		"0":"10168",
+		"cod":"10168",
+		"1":"ViaDEIGELSI",
+		"topocompleto":"ViaDEIGELSI",
+		"2":"Via DEI GELSI",
+		"topospazio":"Via DEI GELSI"
+	},
+
+	{
+		"0":"2770",
+		"cod":"2770",
+		"1":"ViaDEIGERANI",
+		"topocompleto":"ViaDEIGERANI",
+		"2":"Via DEI GERANI",
+		"topospazio":"Via DEI GERANI"
+	},
+
+	{
+		"0":"2930",
+		"cod":"2930",
+		"1":"ViaDEIGONFALONIERI",
+		"topocompleto":"ViaDEIGONFALONIERI",
+		"2":"Via DEI GONFALONIERI",
+		"topospazio":"Via DEI GONFALONIERI"
+	},
+
+	{
+		"0":"7150",
+		"cod":"7150",
+		"1":"ViaDEILONGOBARDI",
+		"topocompleto":"ViaDEILONGOBARDI",
+		"2":"Via DEI LONGOBARDI",
+		"topospazio":"Via DEI LONGOBARDI"
+	},
+
+	{
+		"0":"3380",
+		"cod":"3380",
+		"1":"ViaDEIMAESTRIMURATORI",
+		"topocompleto":"ViaDEIMAESTRIMURATORI",
+		"2":"Via DEI MAESTRI MURATORI",
+		"topospazio":"Via DEI MAESTRI MURATORI"
+	},
+
+	{
+		"0":"3480",
+		"cod":"3480",
+		"1":"ViaDEIMANISCALCHI",
+		"topocompleto":"ViaDEIMANISCALCHI",
+		"2":"Via DEI MANISCALCHI",
+		"topospazio":"Via DEI MANISCALCHI"
+	},
+
+	{
+		"0":"3780",
+		"cod":"3780",
+		"1":"ViaDEIMILLE",
+		"topocompleto":"ViaDEIMILLE",
+		"2":"Via DEI MILLE",
+		"topospazio":"Via DEI MILLE"
+	},
+
+	{
+		"0":"3940",
+		"cod":"3940",
+		"1":"ViaDEIMUGHETTI",
+		"topocompleto":"ViaDEIMUGHETTI",
+		"2":"Via DEI MUGHETTI",
+		"topospazio":"Via DEI MUGHETTI"
+	},
+
+	{
+		"0":"3970",
+		"cod":"3970",
+		"1":"ViaDEINASTURZI",
+		"topocompleto":"ViaDEINASTURZI",
+		"2":"Via DEI NASTURZI",
+		"topospazio":"Via DEI NASTURZI"
+	},
+
+	{
+		"0":"3990",
+		"cod":"3990",
+		"1":"ViaDEINAVAROLI",
+		"topocompleto":"ViaDEINAVAROLI",
+		"2":"Via DEI NAVAROLI",
+		"topospazio":"Via DEI NAVAROLI"
+	},
+
+	{
+		"0":"4000",
+		"cod":"4000",
+		"1":"ViaDEINAVIGATORIPADANI",
+		"topocompleto":"ViaDEINAVIGATORIPADANI",
+		"2":"Via DEI NAVIGATORI PADANI",
+		"topospazio":"Via DEI NAVIGATORI PADANI"
+	},
+
+	{
+		"0":"6760",
+		"cod":"6760",
+		"1":"ViaDEIPARTIGIANI",
+		"topocompleto":"ViaDEIPARTIGIANI",
+		"2":"Via DEI PARTIGIANI",
+		"topospazio":"Via DEI PARTIGIANI"
+	},
+
+	{
+		"0":"4440",
+		"cod":"4440",
+		"1":"ViaDEIPESCATORI",
+		"topocompleto":"ViaDEIPESCATORI",
+		"2":"Via DEI PESCATORI",
+		"topospazio":"Via DEI PESCATORI"
+	},
+
+	{
+		"0":"4450",
+		"cod":"4450",
+		"1":"ViaDEIPETTINARI",
+		"topocompleto":"ViaDEIPETTINARI",
+		"2":"Via DEI PETTINARI",
+		"topospazio":"Via DEI PETTINARI"
+	},
+
+	{
+		"0":"4490",
+		"cod":"4490",
+		"1":"ViaDEIPIOPPI",
+		"topocompleto":"ViaDEIPIOPPI",
+		"2":"Via DEI PIOPPI",
+		"topospazio":"Via DEI PIOPPI"
+	},
+
+	{
+		"0":"4700",
+		"cod":"4700",
+		"1":"ViaDEIPRATI",
+		"topocompleto":"ViaDEIPRATI",
+		"2":"Via DEI PRATI",
+		"topospazio":"Via DEI PRATI"
+	},
+
+	{
+		"0":"4980",
+		"cod":"4980",
+		"1":"ViaDEIRUSTICI",
+		"topocompleto":"ViaDEIRUSTICI",
+		"2":"Via DEI RUSTICI",
+		"topospazio":"Via DEI RUSTICI"
+	},
+
+	{
+		"0":"10148",
+		"cod":"10148",
+		"1":"ViaDEISABBIONI",
+		"topocompleto":"ViaDEISABBIONI",
+		"2":"Via DEI SABBIONI",
+		"topospazio":"Via DEI SABBIONI"
+	},
+
+	{
+		"0":"5030",
+		"cod":"5030",
+		"1":"ViaDEISALICI",
+		"topocompleto":"ViaDEISALICI",
+		"2":"Via DEI SALICI",
+		"topospazio":"Via DEI SALICI"
+	},
+
+	{
+		"0":"5870",
+		"cod":"5870",
+		"1":"ViaDEITIGLI",
+		"topocompleto":"ViaDEITIGLI",
+		"2":"Via DEI TIGLI",
+		"topospazio":"Via DEI TIGLI"
+	},
+
+	{
+		"0":"6060",
+		"cod":"6060",
+		"1":"ViaDEITRIBUNALI",
+		"topocompleto":"ViaDEITRIBUNALI",
+		"2":"Via DEI TRIBUNALI",
+		"topospazio":"Via DEI TRIBUNALI"
+	},
+
+	{
+		"0":"10185",
+		"cod":"10185",
+		"1":"ViaDEIVIANDANTI",
+		"topocompleto":"ViaDEIVIANDANTI",
+		"2":"Via DEI VIANDANTI",
+		"topospazio":"Via DEI VIANDANTI"
+	},
+
+	{
+		"0":"760",
+		"cod":"760",
+		"1":"ViaDELBIONDO",
+		"topocompleto":"ViaDELBIONDO",
+		"2":"Via DEL BIONDO",
+		"topospazio":"Via DEL BIONDO"
+	},
+
+	{
+		"0":"10127",
+		"cod":"10127",
+		"1":"ViaDELBROLO",
+		"topocompleto":"ViaDELBROLO",
+		"2":"Via DEL BROLO",
+		"topospazio":"Via DEL BROLO"
+	},
+
+	{
+		"0":"6610",
+		"cod":"6610",
+		"1":"ViaDELCARROCCIO",
+		"topocompleto":"ViaDELCARROCCIO",
+		"2":"Via DEL CARROCCIO",
+		"topospazio":"Via DEL CARROCCIO"
+	},
+
+	{
+		"0":"10015",
+		"cod":"10015",
+		"1":"ViaDELCHIESOTTO",
+		"topocompleto":"ViaDELCHIESOTTO",
+		"2":"Via DEL CHIESOTTO",
+		"topospazio":"Via DEL CHIESOTTO"
+	},
+
+	{
+		"0":"1860",
+		"cod":"1860",
+		"1":"ViaDELCIGNO",
+		"topocompleto":"ViaDELCIGNO",
+		"2":"Via DEL CIGNO",
+		"topospazio":"Via DEL CIGNO"
+	},
+
+	{
+		"0":"1910",
+		"cod":"1910",
+		"1":"ViaDELCISTELLO",
+		"topocompleto":"ViaDELCISTELLO",
+		"2":"Via DEL CISTELLO",
+		"topospazio":"Via DEL CISTELLO"
+	},
+
+	{
+		"0":"10156",
+		"cod":"10156",
+		"1":"viaDELCOMMERCIO",
+		"topocompleto":"viaDELCOMMERCIO",
+		"2":"via DEL COMMERCIO",
+		"topospazio":"via DEL COMMERCIO"
+	},
+
+	{
+		"0":"2030",
+		"cod":"2030",
+		"1":"ViaDELCONSORZIO",
+		"topocompleto":"ViaDELCONSORZIO",
+		"2":"Via DEL CONSORZIO",
+		"topospazio":"Via DEL CONSORZIO"
+	},
+
+	{
+		"0":"10161",
+		"cod":"10161",
+		"1":"ViaDELCONVENTO",
+		"topocompleto":"ViaDELCONVENTO",
+		"2":"Via DEL CONVENTO",
+		"topospazio":"Via DEL CONVENTO"
+	},
+
+	{
+		"0":"10141",
+		"cod":"10141",
+		"1":"ViaDELDAZIO",
+		"topocompleto":"ViaDELDAZIO",
+		"2":"Via DEL DAZIO",
+		"topospazio":"Via DEL DAZIO"
+	},
+
+	{
+		"0":"10046",
+		"cod":"10046",
+		"1":"ViaDELFOSSADONE",
+		"topocompleto":"ViaDELFOSSADONE",
+		"2":"Via DEL FOSSADONE",
+		"topospazio":"Via DEL FOSSADONE"
+	},
+
+	{
+		"0":"2860",
+		"cod":"2860",
+		"1":"ViaDELGIGLIO",
+		"topocompleto":"ViaDELGIGLIO",
+		"2":"Via DEL GIGLIO",
+		"topospazio":"Via DEL GIGLIO"
+	},
+
+	{
+		"0":"2880",
+		"cod":"2880",
+		"1":"ViaDELGIORDANO",
+		"topocompleto":"ViaDELGIORDANO",
+		"2":"Via DEL GIORDANO",
+		"topospazio":"Via DEL GIORDANO"
+	},
+
+	{
+		"0":"3360",
+		"cod":"3360",
+		"1":"ViaDELMACELLO",
+		"topocompleto":"ViaDELMACELLO",
+		"2":"Via DEL MACELLO",
+		"topospazio":"Via DEL MACELLO"
+	},
+
+	{
+		"0":"6740",
+		"cod":"6740",
+		"1":"ViaDELMAGGENGO",
+		"topocompleto":"ViaDELMAGGENGO",
+		"2":"Via DEL MAGGENGO",
+		"topospazio":"Via DEL MAGGENGO"
+	},
+
+	{
+		"0":"2250",
+		"cod":"2250",
+		"1":"ViaDELMAINOZACCARIA",
+		"topocompleto":"ViaDELMAINOZACCARIA",
+		"2":"Via DEL MAINO ZACCARIA",
+		"topospazio":"Via DEL MAINO ZACCARIA"
+	},
+
+	{
+		"0":"3550",
+		"cod":"3550",
+		"1":"ViaDELMARIS",
+		"topocompleto":"ViaDELMARIS",
+		"2":"Via DEL MARIS",
+		"topospazio":"Via DEL MARIS"
+	},
+
+	{
+		"0":"10070",
+		"cod":"10070",
+		"1":"ViaDELNEGROMANTE",
+		"topocompleto":"ViaDELNEGROMANTE",
+		"2":"Via DEL NEGROMANTE",
+		"topospazio":"Via DEL NEGROMANTE"
+	},
+
+	{
+		"0":"4400",
+		"cod":"4400",
+		"1":"ViaDELPERO",
+		"topocompleto":"ViaDELPERO",
+		"2":"Via DEL PERO",
+		"topospazio":"Via DEL PERO"
+	},
+
+	{
+		"0":"4670",
+		"cod":"4670",
+		"1":"ViaDELPORTO",
+		"topocompleto":"ViaDELPORTO",
+		"2":"Via DEL PORTO",
+		"topospazio":"Via DEL PORTO"
+	},
+
+	{
+		"0":"10082",
+		"cod":"10082",
+		"1":"ViaDELQUADRIFOGLIO",
+		"topocompleto":"ViaDELQUADRIFOGLIO",
+		"2":"Via DEL QUADRIFOGLIO",
+		"topospazio":"Via DEL QUADRIFOGLIO"
+	},
+
+	{
+		"0":"5020",
+		"cod":"5020",
+		"1":"ViaDELSALE",
+		"topocompleto":"ViaDELSALE",
+		"2":"Via DEL SALE",
+		"topospazio":"Via DEL SALE"
+	},
+
+	{
+		"0":"10083",
+		"cod":"10083",
+		"1":"ViaDELTRIFOGLIO",
+		"topocompleto":"ViaDELTRIFOGLIO",
+		"2":"Via DEL TRIFOGLIO",
+		"topospazio":"Via DEL TRIFOGLIO"
+	},
+
+	{
+		"0":"6230",
+		"cod":"6230",
+		"1":"ViaDELVASTO",
+		"topocompleto":"ViaDELVASTO",
+		"2":"Via DEL VASTO",
+		"topospazio":"Via DEL VASTO"
+	},
+
+	{
+		"0":"6250",
+		"cod":"6250",
+		"1":"ViaDELVECCHIOPASSEGGIO",
+		"topocompleto":"ViaDELVECCHIOPASSEGGIO",
+		"2":"Via DEL VECCHIO PASSEGGIO",
+		"topospazio":"Via DEL VECCHIO PASSEGGIO"
+	},
+
+	{
+		"0":"7370",
+		"cod":"7370",
+		"1":"ViaDELLAERONAUTICA",
+		"topocompleto":"ViaDELLAERONAUTICA",
+		"2":"Via DELL'AERONAUTICA",
+		"topospazio":"Via DELL'AERONAUTICA"
+	},
+
+	{
+		"0":"60",
+		"cod":"60",
+		"1":"ViaDELLAEROPORTO",
+		"topocompleto":"ViaDELLAEROPORTO",
+		"2":"Via DELL'AEROPORTO",
+		"topospazio":"Via DELL'AEROPORTO"
+	},
+
+	{
+		"0":"190",
+		"cod":"190",
+		"1":"ViaDELLANGELO",
+		"topocompleto":"ViaDELLANGELO",
+		"2":"Via DELL'ANGELO",
+		"topospazio":"Via DELL'ANGELO"
+	},
+
+	{
+		"0":"230",
+		"cod":"230",
+		"1":"ViaDELLANNONA",
+		"topocompleto":"ViaDELLANNONA",
+		"2":"Via DELL'ANNONA",
+		"topospazio":"Via DELL'ANNONA"
+	},
+
+	{
+		"0":"7300",
+		"cod":"7300",
+		"1":"ViaDELLAQUILA",
+		"topocompleto":"ViaDELLAQUILA",
+		"2":"Via DELL'AQUILA",
+		"topospazio":"Via DELL'AQUILA"
+	},
+
+	{
+		"0":"10155",
+		"cod":"10155",
+		"1":"ViaDELLARTIGIANATO",
+		"topocompleto":"ViaDELLARTIGIANATO",
+		"2":"Via DELL'ARTIGIANATO",
+		"topospazio":"Via DELL'ARTIGIANATO"
+	},
+
+	{
+		"0":"6600",
+		"cod":"6600",
+		"1":"ViaDELLACASTELLA",
+		"topocompleto":"ViaDELLACASTELLA",
+		"2":"Via DELLA CASTELLA",
+		"topospazio":"Via DELLA CASTELLA"
+	},
+
+	{
+		"0":"10062",
+		"cod":"10062",
+		"1":"ViaDELLACERAMICA",
+		"topocompleto":"ViaDELLACERAMICA",
+		"2":"Via DELLA CERAMICA",
+		"topospazio":"Via DELLA CERAMICA"
+	},
+
+	{
+		"0":"1960",
+		"cod":"1960",
+		"1":"ViaDELLACOLOMBA",
+		"topocompleto":"ViaDELLACOLOMBA",
+		"2":"Via DELLA COLOMBA",
+		"topospazio":"Via DELLA COLOMBA"
+	},
+
+	{
+		"0":"2010",
+		"cod":"2010",
+		"1":"ViaDELLACONCA",
+		"topocompleto":"ViaDELLACONCA",
+		"2":"Via DELLA CONCA",
+		"topospazio":"Via DELLA CONCA"
+	},
+
+	{
+		"0":"10053",
+		"cod":"10053",
+		"1":"ViaDELLACOOPERAZIONE",
+		"topocompleto":"ViaDELLACOOPERAZIONE",
+		"2":"Via DELLA COOPERAZIONE",
+		"topospazio":"Via DELLA COOPERAZIONE"
+	},
+
+	{
+		"0":"10173",
+		"cod":"10173",
+		"1":"ViaDELLADARSENA",
+		"topocompleto":"ViaDELLADARSENA",
+		"2":"Via DELLA DARSENA",
+		"topospazio":"Via DELLA DARSENA"
+	},
+
+	{
+		"0":"10138",
+		"cod":"10138",
+		"1":"ViaDELLAFOGARINA",
+		"topocompleto":"ViaDELLAFOGARINA",
+		"2":"Via DELLA FOGARINA",
+		"topospazio":"Via DELLA FOGARINA"
+	},
+
+	{
+		"0":"10099",
+		"cod":"10099",
+		"1":"ViaDELLALUNA",
+		"topocompleto":"ViaDELLALUNA",
+		"2":"Via DELLA LUNA",
+		"topospazio":"Via DELLA LUNA"
+	},
+
+	{
+		"0":"10142",
+		"cod":"10142",
+		"1":"ViaDELLARONDINE",
+		"topocompleto":"ViaDELLARONDINE",
+		"2":"Via DELLA RONDINE",
+		"topospazio":"Via DELLA RONDINE"
+	},
+
+	{
+		"0":"5960",
+		"cod":"5960",
+		"1":"ViaDELLATORRE",
+		"topocompleto":"ViaDELLATORRE",
+		"2":"Via DELLA TORRE",
+		"topospazio":"Via DELLA TORRE"
+	},
+
+	{
+		"0":"10123",
+		"cod":"10123",
+		"1":"ViaDELLAVECCHIADOGANA",
+		"topocompleto":"ViaDELLAVECCHIADOGANA",
+		"2":"Via DELLA VECCHIA DOGANA",
+		"topospazio":"Via DELLA VECCHIA DOGANA"
+	},
+
+	{
+		"0":"30",
+		"cod":"30",
+		"1":"ViaDELLEACQUE",
+		"topocompleto":"ViaDELLEACQUE",
+		"2":"Via DELLE ACQUE",
+		"topospazio":"Via DELLE ACQUE"
+	},
+
+	{
+		"0":"10179",
+		"cod":"10179",
+		"1":"ViaDELLEFARNIE",
+		"topocompleto":"ViaDELLEFARNIE",
+		"2":"Via DELLE FARNIE",
+		"topospazio":"Via DELLE FARNIE"
+	},
+
+	{
+		"0":"10159",
+		"cod":"10159",
+		"1":"ViaDELLEFIAMMEGIALLE",
+		"topocompleto":"ViaDELLEFIAMMEGIALLE",
+		"2":"Via DELLE FIAMME GIALLE",
+		"topospazio":"Via DELLE FIAMME GIALLE"
+	},
+
+	{
+		"0":"10170",
+		"cod":"10170",
+		"1":"ViaDELLEFORZEARMATE",
+		"topocompleto":"ViaDELLEFORZEARMATE",
+		"2":"Via DELLE FORZE ARMATE",
+		"topospazio":"Via DELLE FORZE ARMATE"
+	},
+
+	{
+		"0":"3030",
+		"cod":"3030",
+		"1":"ViaDELLEINDUSTRIE",
+		"topocompleto":"ViaDELLEINDUSTRIE",
+		"2":"Via DELLE INDUSTRIE",
+		"topospazio":"Via DELLE INDUSTRIE"
+	},
+
+	{
+		"0":"10139",
+		"cod":"10139",
+		"1":"ViaDELLELANCHE",
+		"topocompleto":"ViaDELLELANCHE",
+		"2":"Via DELLE LANCHE",
+		"topospazio":"Via DELLE LANCHE"
+	},
+
+	{
+		"0":"3540",
+		"cod":"3540",
+		"1":"ViaDELLEMARGHERITE",
+		"topocompleto":"ViaDELLEMARGHERITE",
+		"2":"Via DELLE MARGHERITE",
+		"topospazio":"Via DELLE MARGHERITE"
+	},
+
+	{
+		"0":"4710",
+		"cod":"4710",
+		"1":"ViaDELLEPRIMULE",
+		"topocompleto":"ViaDELLEPRIMULE",
+		"2":"Via DELLE PRIMULE",
+		"topospazio":"Via DELLE PRIMULE"
+	},
+
+	{
+		"0":"10065",
+		"cod":"10065",
+		"1":"ViaDELLEQUERCE",
+		"topocompleto":"ViaDELLEQUERCE",
+		"2":"Via DELLE QUERCE",
+		"topospazio":"Via DELLE QUERCE"
+	},
+
+	{
+		"0":"10169",
+		"cod":"10169",
+		"1":"ViaDELLEROBINIE",
+		"topocompleto":"ViaDELLEROBINIE",
+		"2":"Via DELLE ROBINIE",
+		"topospazio":"Via DELLE ROBINIE"
+	},
+
+	{
+		"0":"4950",
+		"cod":"4950",
+		"1":"ViaDELLEROSE",
+		"topocompleto":"ViaDELLEROSE",
+		"2":"Via DELLE ROSE",
+		"topospazio":"Via DELLE ROSE"
+	},
+
+	{
+		"0":"10177",
+		"cod":"10177",
+		"1":"ViaDELLESERRE",
+		"topocompleto":"ViaDELLESERRE",
+		"2":"Via DELLE SERRE",
+		"topospazio":"Via DELLE SERRE"
+	},
+
+	{
+		"0":"6280",
+		"cod":"6280",
+		"1":"ViaDELLEVERBENE",
+		"topocompleto":"ViaDELLEVERBENE",
+		"2":"Via DELLE VERBENE",
+		"topospazio":"Via DELLE VERBENE"
+	},
+
+	{
+		"0":"10131",
+		"cod":"10131",
+		"1":"ViaDELLEVIGNE",
+		"topocompleto":"ViaDELLEVIGNE",
+		"2":"Via DELLE VIGNE",
+		"topospazio":"Via DELLE VIGNE"
+	},
+
+	{
+		"0":"10129",
+		"cod":"10129",
+		"1":"ViaDELLEVIOLE",
+		"topocompleto":"ViaDELLEVIOLE",
+		"2":"Via DELLE VIOLE",
+		"topospazio":"Via DELLE VIOLE"
+	},
+
+	{
+		"0":"2280",
+		"cod":"2280",
+		"1":"ViaDIDIOEMMAALFREDOEANTONIO",
+		"topocompleto":"ViaDIDIOEMMAALFREDOEANTONIO",
+		"2":"Via DI DIO EMMA ALFREDO E ANTONIO",
+		"topospazio":"Via DI DIO EMMA ALFREDO E ANTONIO"
+	},
+
+	{
+		"0":"6670",
+		"cod":"6670",
+		"1":"ViaDIVITTORIOGIUSEPPE",
+		"topocompleto":"ViaDIVITTORIOGIUSEPPE",
+		"2":"Via DI VITTORIO GIUSEPPE",
+		"topospazio":"Via DI VITTORIO GIUSEPPE"
+	},
+
+	{
+		"0":"6900",
+		"cod":"6900",
+		"1":"ViaDIOTTIGIUSEPPE",
+		"topocompleto":"ViaDIOTTIGIUSEPPE",
+		"2":"Via DIOTTI GIUSEPPE",
+		"topospazio":"Via DIOTTI GIUSEPPE"
+	},
+
+	{
+		"0":"2290",
+		"cod":"2290",
+		"1":"ViaDIRITTA",
+		"topocompleto":"ViaDIRITTA",
+		"2":"Via DIRITTA",
+		"topospazio":"Via DIRITTA"
+	},
+
+	{
+		"0":"2300",
+		"cod":"2300",
+		"1":"ViaDIVISIONEACQUI",
+		"topocompleto":"ViaDIVISIONEACQUI",
+		"2":"Via DIVISIONE ACQUI",
+		"topospazio":"Via DIVISIONE ACQUI"
+	},
+
+	{
+		"0":"2320",
+		"cod":"2320",
+		"1":"ViaDOSSETTO",
+		"topocompleto":"ViaDOSSETTO",
+		"2":"Via DOSSETTO",
+		"topospazio":"Via DOSSETTO"
+	},
+
+	{
+		"0":"7430",
+		"cod":"7430",
+		"1":"ViaDOSSO",
+		"topocompleto":"ViaDOSSO",
+		"2":"Via DOSSO",
+		"topospazio":"Via DOSSO"
+	},
+
+	{
+		"0":"10091",
+		"cod":"10091",
+		"1":"ViaDRAGONICRISTOFORO",
+		"topocompleto":"ViaDRAGONICRISTOFORO",
+		"2":"Via DRAGONI CRISTOFORO",
+		"topospazio":"Via DRAGONI CRISTOFORO"
+	},
+
+	{
+		"0":"2340",
+		"cod":"2340",
+		"1":"ViaDULCIA",
+		"topocompleto":"ViaDULCIA",
+		"2":"Via DULCIA",
+		"topospazio":"Via DULCIA"
+	},
+
+	{
+		"0":"2350",
+		"cod":"2350",
+		"1":"ViaENDERTA",
+		"topocompleto":"ViaENDERTA",
+		"2":"Via ENDERTA'",
+		"topospazio":"Via ENDERTA'"
+	},
+
+	{
+		"0":"2360",
+		"cod":"2360",
+		"1":"ViaERIDANO",
+		"topocompleto":"ViaERIDANO",
+		"2":"Via ERIDANO",
+		"topospazio":"Via ERIDANO"
+	},
+
+	{
+		"0":"2370",
+		"cod":"2370",
+		"1":"ViaERNO",
+		"topocompleto":"ViaERNO",
+		"2":"Via ERNO",
+		"topospazio":"Via ERNO"
+	},
+
+	{
+		"0":"10157",
+		"cod":"10157",
+		"1":"ViaEXFELTRINELLI",
+		"topocompleto":"ViaEXFELTRINELLI",
+		"2":"Via EX FELTRINELLI",
+		"topospazio":"Via EX FELTRINELLI"
+	},
+
+	{
+		"0":"2380",
+		"cod":"2380",
+		"1":"ViaFABBRICADELVETROVECCHIA",
+		"topocompleto":"ViaFABBRICADELVETROVECCHIA",
+		"2":"Via FABBRICA DEL VETRO VECCHIA",
+		"topospazio":"Via FABBRICA DEL VETRO VECCHIA"
+	},
+
+	{
+		"0":"2390",
+		"cod":"2390",
+		"1":"ViaFAERNOGABRIELE",
+		"topocompleto":"ViaFAERNOGABRIELE",
+		"2":"Via FAERNO GABRIELE",
+		"topospazio":"Via FAERNO GABRIELE"
+	},
+
+	{
+		"0":"10150",
+		"cod":"10150",
+		"1":"ViaFALCONEGIOVANNIEBORSELLINOPAOLO",
+		"topocompleto":"ViaFALCONEGIOVANNIEBORSELLINOPAOLO",
+		"2":"Via FALCONE GIOVANNI E BORSELLINO PAOLO",
+		"topospazio":"Via FALCONE GIOVANNI E BORSELLINO PAOLO"
+	},
+
+	{
+		"0":"7310",
+		"cod":"7310",
+		"1":"ViaFATEBENEFRATELLI",
+		"topocompleto":"ViaFATEBENEFRATELLI",
+		"2":"Via FATEBENEFRATELLI",
+		"topospazio":"Via FATEBENEFRATELLI"
+	},
+
+	{
+		"0":"10135",
+		"cod":"10135",
+		"1":"ViaFAZIOLIERNESTO",
+		"topocompleto":"ViaFAZIOLIERNESTO",
+		"2":"Via FAZIOLI ERNESTO",
+		"topospazio":"Via FAZIOLI ERNESTO"
+	},
+
+	{
+		"0":"2400",
+		"cod":"2400",
+		"1":"ViaFERRABO",
+		"topocompleto":"ViaFERRABO",
+		"2":"Via FERRABO'",
+		"topospazio":"Via FERRABO'"
+	},
+
+	{
+		"0":"2410",
+		"cod":"2410",
+		"1":"ViaFERRAGNILUCIANO",
+		"topocompleto":"ViaFERRAGNILUCIANO",
+		"2":"Via FERRAGNI LUCIANO",
+		"topospazio":"Via FERRAGNI LUCIANO"
+	},
+
+	{
+		"0":"2420",
+		"cod":"2420",
+		"1":"ViaFERRAGNIODOARDO",
+		"topocompleto":"ViaFERRAGNIODOARDO",
+		"2":"Via FERRAGNI ODOARDO",
+		"topospazio":"Via FERRAGNI ODOARDO"
+	},
+
+	{
+		"0":"2430",
+		"cod":"2430",
+		"1":"ViaFERRARIJACOPO",
+		"topocompleto":"ViaFERRARIJACOPO",
+		"2":"Via FERRARI JACOPO",
+		"topospazio":"Via FERRARI JACOPO"
+	},
+
+	{
+		"0":"2440",
+		"cod":"2440",
+		"1":"ViaFERRARIO",
+		"topocompleto":"ViaFERRARIO",
+		"2":"Via FERRARIO",
+		"topospazio":"Via FERRARIO"
+	},
+
+	{
+		"0":"10120",
+		"cod":"10120",
+		"1":"ViaFERRARONIPIERO",
+		"topocompleto":"ViaFERRARONIPIERO",
+		"2":"Via FERRARONI PIERO",
+		"topospazio":"Via FERRARONI PIERO"
+	},
+
+	{
+		"0":"10109",
+		"cod":"10109",
+		"1":"ViaFEZZIELDA",
+		"topocompleto":"ViaFEZZIELDA",
+		"2":"Via FEZZI ELDA",
+		"topospazio":"Via FEZZI ELDA"
+	},
+
+	{
+		"0":"2470",
+		"cod":"2470",
+		"1":"ViaFILZIFABIO",
+		"topocompleto":"ViaFILZIFABIO",
+		"2":"Via FILZI FABIO",
+		"topospazio":"Via FILZI FABIO"
+	},
+
+	{
+		"0":"2490",
+		"cod":"2490",
+		"1":"ViaFLAMINIA",
+		"topocompleto":"ViaFLAMINIA",
+		"2":"Via FLAMINIA",
+		"topospazio":"Via FLAMINIA"
+	},
+
+	{
+		"0":"6540",
+		"cod":"6540",
+		"1":"ViaFLORESMARIO",
+		"topocompleto":"ViaFLORESMARIO",
+		"2":"Via FLORES MARIO",
+		"topospazio":"Via FLORES MARIO"
+	},
+
+	{
+		"0":"2500",
+		"cod":"2500",
+		"1":"ViaFODRI",
+		"topocompleto":"ViaFODRI",
+		"2":"Via FODRI",
+		"topospazio":"Via FODRI"
+	},
+
+	{
+		"0":"2510",
+		"cod":"2510",
+		"1":"ViaFOGAROLE",
+		"topocompleto":"ViaFOGAROLE",
+		"2":"Via FOGAROLE",
+		"topospazio":"Via FOGAROLE"
+	},
+
+	{
+		"0":"2530",
+		"cod":"2530",
+		"1":"ViaFONTANAANTONIO",
+		"topocompleto":"ViaFONTANAANTONIO",
+		"2":"Via FONTANA ANTONIO",
+		"topospazio":"Via FONTANA ANTONIO"
+	},
+
+	{
+		"0":"2540",
+		"cod":"2540",
+		"1":"ViaFOPPE",
+		"topocompleto":"ViaFOPPE",
+		"2":"Via FOPPE",
+		"topospazio":"Via FOPPE"
+	},
+
+	{
+		"0":"2550",
+		"cod":"2550",
+		"1":"ViaFOPPONE",
+		"topocompleto":"ViaFOPPONE",
+		"2":"Via FOPPONE",
+		"topospazio":"Via FOPPONE"
+	},
+
+	{
+		"0":"6570",
+		"cod":"6570",
+		"1":"ViaFORMISANGELO",
+		"topocompleto":"ViaFORMISANGELO",
+		"2":"Via FORMIS ANGELO",
+		"topospazio":"Via FORMIS ANGELO"
+	},
+
+	{
+		"0":"2580",
+		"cod":"2580",
+		"1":"ViaFRAGHERARDO",
+		"topocompleto":"ViaFRAGHERARDO",
+		"2":"Via FRA' GHERARDO",
+		"topospazio":"Via FRA' GHERARDO"
+	},
+
+	{
+		"0":"2570",
+		"cod":"2570",
+		"1":"ViaFRANKANNA",
+		"topocompleto":"ViaFRANKANNA",
+		"2":"Via FRANK ANNA",
+		"topospazio":"Via FRANK ANNA"
+	},
+
+	{
+		"0":"470",
+		"cod":"470",
+		"1":"ViaFRATELLIBANDIERA",
+		"topocompleto":"ViaFRATELLIBANDIERA",
+		"2":"Via FRATELLI BANDIERA",
+		"topospazio":"Via FRATELLI BANDIERA"
+	},
+
+	{
+		"0":"1160",
+		"cod":"1160",
+		"1":"ViaFRATELLICAIROLI",
+		"topocompleto":"ViaFRATELLICAIROLI",
+		"2":"Via FRATELLI CAIROLI",
+		"topospazio":"Via FRATELLI CAIROLI"
+	},
+
+	{
+		"0":"1770",
+		"cod":"1770",
+		"1":"ViaFRATELLICERVI",
+		"topocompleto":"ViaFRATELLICERVI",
+		"2":"Via FRATELLI CERVI",
+		"topospazio":"Via FRATELLI CERVI"
+	},
+
+	{
+		"0":"6560",
+		"cod":"6560",
+		"1":"ViaFRATELLIDITALIA",
+		"topocompleto":"ViaFRATELLIDITALIA",
+		"2":"Via FRATELLI D'ITALIA",
+		"topospazio":"Via FRATELLI D'ITALIA"
+	},
+
+	{
+		"0":"4960",
+		"cod":"4960",
+		"1":"ViaFRATELLIROSSELLI",
+		"topocompleto":"ViaFRATELLIROSSELLI",
+		"2":"Via FRATELLI ROSSELLI",
+		"topospazio":"Via FRATELLI ROSSELLI"
+	},
+
+	{
+		"0":"2600",
+		"cod":"2600",
+		"1":"ViaFREGALINO",
+		"topocompleto":"ViaFREGALINO",
+		"2":"Via FREGALINO",
+		"topospazio":"Via FREGALINO"
+	},
+
+	{
+		"0":"2610",
+		"cod":"2610",
+		"1":"ViaFULCHERIA",
+		"topocompleto":"ViaFULCHERIA",
+		"2":"Via FULCHERIA",
+		"topospazio":"Via FULCHERIA"
+	},
+
+	{
+		"0":"2620",
+		"cod":"2620",
+		"1":"ViaGADIOBARTOLOMEO",
+		"topocompleto":"ViaGADIOBARTOLOMEO",
+		"2":"Via GADIO BARTOLOMEO",
+		"topospazio":"Via GADIO BARTOLOMEO"
+	},
+
+	{
+		"0":"6930",
+		"cod":"6930",
+		"1":"ViaGALEOTTISEBASTIANO",
+		"topocompleto":"ViaGALEOTTISEBASTIANO",
+		"2":"Via GALEOTTI SEBASTIANO",
+		"topospazio":"Via GALEOTTI SEBASTIANO"
+	},
+
+	{
+		"0":"2640",
+		"cod":"2640",
+		"1":"ViaGALLARATIAGOSTINO",
+		"topocompleto":"ViaGALLARATIAGOSTINO",
+		"2":"Via GALLARATI AGOSTINO",
+		"topospazio":"Via GALLARATI AGOSTINO"
+	},
+
+	{
+		"0":"2650",
+		"cod":"2650",
+		"1":"ViaGALLAZZIALESSANDRO",
+		"topocompleto":"ViaGALLAZZIALESSANDRO",
+		"2":"Via GALLAZZI ALESSANDRO",
+		"topospazio":"Via GALLAZZI ALESSANDRO"
+	},
+
+	{
+		"0":"1270",
+		"cod":"1270",
+		"1":"ViaGALLETTIALFREDO",
+		"topocompleto":"ViaGALLETTIALFREDO",
+		"2":"Via GALLETTI ALFREDO",
+		"topospazio":"Via GALLETTI ALFREDO"
+	},
+
+	{
+		"0":"2720",
+		"cod":"2720",
+		"1":"ViaGARIBOTTIGIUSEPPE",
+		"topocompleto":"ViaGARIBOTTIGIUSEPPE",
+		"2":"Via GARIBOTTI GIUSEPPE",
+		"topospazio":"Via GARIBOTTI GIUSEPPE"
+	},
+
+	{
+		"0":"2730",
+		"cod":"2730",
+		"1":"ViaGATTIBERNARDINO",
+		"topocompleto":"ViaGATTIBERNARDINO",
+		"2":"Via GATTI BERNARDINO",
+		"topospazio":"Via GATTI BERNARDINO"
+	},
+
+	{
+		"0":"10098",
+		"cod":"10098",
+		"1":"ViaGAZZOLETTO",
+		"topocompleto":"ViaGAZZOLETTO",
+		"2":"Via GAZZOLETTO",
+		"topospazio":"Via GAZZOLETTO"
+	},
+
+	{
+		"0":"10073",
+		"cod":"10073",
+		"1":"ViaGAZZOLO",
+		"topocompleto":"ViaGAZZOLO",
+		"2":"Via GAZZOLO",
+		"topospazio":"Via GAZZOLO"
+	},
+
+	{
+		"0":"2740",
+		"cod":"2740",
+		"1":"ViaGELSOMINO",
+		"topocompleto":"ViaGELSOMINO",
+		"2":"Via GELSOMINO",
+		"topospazio":"Via GELSOMINO"
+	},
+
+	{
+		"0":"2750",
+		"cod":"2750",
+		"1":"ViaGENALAFRANCESCO",
+		"topocompleto":"ViaGENALAFRANCESCO",
+		"2":"Via GENALA FRANCESCO",
+		"topospazio":"Via GENALA FRANCESCO"
+	},
+
+	{
+		"0":"2760",
+		"cod":"2760",
+		"1":"ViaGENTILE",
+		"topocompleto":"ViaGENTILE",
+		"2":"Via GENTILE",
+		"topospazio":"Via GENTILE"
+	},
+
+	{
+		"0":"10180",
+		"cod":"10180",
+		"1":"ViaGERELLIENNIO",
+		"topocompleto":"ViaGERELLIENNIO",
+		"2":"Via GERELLI ENNIO",
+		"topospazio":"Via GERELLI ENNIO"
+	},
+
+	{
+		"0":"2780",
+		"cod":"2780",
+		"1":"ViaGEROMINIFELICE",
+		"topocompleto":"ViaGEROMINIFELICE",
+		"2":"Via GEROMINI FELICE",
+		"topospazio":"Via GEROMINI FELICE"
+	},
+
+	{
+		"0":"2790",
+		"cod":"2790",
+		"1":"ViaGERREBORGHI",
+		"topocompleto":"ViaGERREBORGHI",
+		"2":"Via GERRE BORGHI",
+		"topospazio":"Via GERRE BORGHI"
+	},
+
+	{
+		"0":"2800",
+		"cod":"2800",
+		"1":"ViaGHIDONIGALEAZZO",
+		"topocompleto":"ViaGHIDONIGALEAZZO",
+		"2":"Via GHIDONI GALEAZZO",
+		"topospazio":"Via GHIDONI GALEAZZO"
+	},
+
+	{
+		"0":"2810",
+		"cod":"2810",
+		"1":"ViaGHINAGLIAFERRUCCIO",
+		"topocompleto":"ViaGHINAGLIAFERRUCCIO",
+		"2":"Via GHINAGLIA FERRUCCIO",
+		"topospazio":"Via GHINAGLIA FERRUCCIO"
+	},
+
+	{
+		"0":"2820",
+		"cod":"2820",
+		"1":"ViaGHISIMARTINO",
+		"topocompleto":"ViaGHISIMARTINO",
+		"2":"Via GHISI MARTINO",
+		"topospazio":"Via GHISI MARTINO"
+	},
+
+	{
+		"0":"2830",
+		"cod":"2830",
+		"1":"ViaGHISLERIARCANGELO",
+		"topocompleto":"ViaGHISLERIARCANGELO",
+		"2":"Via GHISLERI ARCANGELO",
+		"topospazio":"Via GHISLERI ARCANGELO"
+	},
+
+	{
+		"0":"2840",
+		"cod":"2840",
+		"1":"ViaGIANCRISTOFORODAROMA",
+		"topocompleto":"ViaGIANCRISTOFORODAROMA",
+		"2":"Via GIANCRISTOFORO DA ROMA",
+		"topospazio":"Via GIANCRISTOFORO DA ROMA"
+	},
+
+	{
+		"0":"2850",
+		"cod":"2850",
+		"1":"ViaGIARDINO",
+		"topocompleto":"ViaGIARDINO",
+		"2":"Via GIARDINO",
+		"topospazio":"Via GIARDINO"
+	},
+
+	{
+		"0":"2870",
+		"cod":"2870",
+		"1":"ViaGIOCONDA",
+		"topocompleto":"ViaGIOCONDA",
+		"2":"Via GIOCONDA",
+		"topospazio":"Via GIOCONDA"
+	},
+
+	{
+		"0":"2900",
+		"cod":"2900",
+		"1":"ViaGIOVANPIETRODARHO",
+		"topocompleto":"ViaGIOVANPIETRODARHO",
+		"2":"Via GIOVAN PIETRO DA RHO",
+		"topospazio":"Via GIOVAN PIETRO DA RHO"
+	},
+
+	{
+		"0":"10028",
+		"cod":"10028",
+		"1":"ViaGIOVANNIDAPORDENONE",
+		"topocompleto":"ViaGIOVANNIDAPORDENONE",
+		"2":"Via GIOVANNI DA PORDENONE",
+		"topospazio":"Via GIOVANNI DA PORDENONE"
+	},
+
+	{
+		"0":"2910",
+		"cod":"2910",
+		"1":"ViaGIUSEPPINA",
+		"topocompleto":"ViaGIUSEPPINA",
+		"2":"Via GIUSEPPINA",
+		"topospazio":"Via GIUSEPPINA"
+	},
+
+	{
+		"0":"2920",
+		"cod":"2920",
+		"1":"ViaGOITO",
+		"topocompleto":"ViaGOITO",
+		"2":"Via GOITO",
+		"topospazio":"Via GOITO"
+	},
+
+	{
+		"0":"2940",
+		"cod":"2940",
+		"1":"ViaGORIZIA",
+		"topocompleto":"ViaGORIZIA",
+		"2":"Via GORIZIA",
+		"topospazio":"Via GORIZIA"
+	},
+
+	{
+		"0":"6950",
+		"cod":"6950",
+		"1":"ViaGORRAGIULIO",
+		"topocompleto":"ViaGORRAGIULIO",
+		"2":"Via GORRA GIULIO",
+		"topospazio":"Via GORRA GIULIO"
+	},
+
+	{
+		"0":"10068",
+		"cod":"10068",
+		"1":"ViaGOSIMARTINO",
+		"topocompleto":"ViaGOSIMARTINO",
+		"2":"Via GOSI MARTINO",
+		"topospazio":"Via GOSI MARTINO"
+	},
+
+	{
+		"0":"2950",
+		"cod":"2950",
+		"1":"ViaGRADISCA",
+		"topocompleto":"ViaGRADISCA",
+		"2":"Via GRADISCA",
+		"topospazio":"Via GRADISCA"
+	},
+
+	{
+		"0":"2960",
+		"cod":"2960",
+		"1":"ViaGRADO",
+		"topocompleto":"ViaGRADO",
+		"2":"Via GRADO",
+		"topospazio":"Via GRADO"
+	},
+
+	{
+		"0":"2970",
+		"cod":"2970",
+		"1":"ViaGRAMSCIANTONIO",
+		"topocompleto":"ViaGRAMSCIANTONIO",
+		"2":"Via GRAMSCI ANTONIO",
+		"topospazio":"Via GRAMSCI ANTONIO"
+	},
+
+	{
+		"0":"6680",
+		"cod":"6680",
+		"1":"ViaGRANDIACHILLE",
+		"topocompleto":"ViaGRANDIACHILLE",
+		"2":"Via GRANDI ACHILLE",
+		"topospazio":"Via GRANDI ACHILLE"
+	},
+
+	{
+		"0":"2980",
+		"cod":"2980",
+		"1":"ViaGRANDIGUIDO",
+		"topocompleto":"ViaGRANDIGUIDO",
+		"2":"Via GRANDI GUIDO",
+		"topospazio":"Via GRANDI GUIDO"
+	},
+
+	{
+		"0":"10132",
+		"cod":"10132",
+		"1":"ViaGRASSIGUIDO",
+		"topocompleto":"ViaGRASSIGUIDO",
+		"2":"Via GRASSI GUIDO",
+		"topospazio":"Via GRASSI GUIDO"
+	},
+
+	{
+		"0":"2990",
+		"cod":"2990",
+		"1":"ViaGUARNERIDELGESU",
+		"topocompleto":"ViaGUARNERIDELGESU",
+		"2":"Via GUARNERI DEL GESU'",
+		"topospazio":"Via GUARNERI DEL GESU'"
+	},
+
+	{
+		"0":"3000",
+		"cod":"3000",
+		"1":"ViaGUERRINIGIACOMO",
+		"topocompleto":"ViaGUERRINIGIACOMO",
+		"2":"Via GUERRINI GIACOMO",
+		"topospazio":"Via GUERRINI GIACOMO"
+	},
+
+	{
+		"0":"3010",
+		"cod":"3010",
+		"1":"ViaGUINDANIVINCENZO",
+		"topocompleto":"ViaGUINDANIVINCENZO",
+		"2":"Via GUINDANI VINCENZO",
+		"topospazio":"Via GUINDANI VINCENZO"
+	},
+
+	{
+		"0":"3040",
+		"cod":"3040",
+		"1":"ViaINGEGNERIMARCANTONIO",
+		"topocompleto":"ViaINGEGNERIMARCANTONIO",
+		"2":"Via INGEGNERI MARCANTONIO",
+		"topospazio":"Via INGEGNERI MARCANTONIO"
+	},
+
+	{
+		"0":"10010",
+		"cod":"10010",
+		"1":"ViaINVALIDIDELLAVORO",
+		"topocompleto":"ViaINVALIDIDELLAVORO",
+		"2":"Via INVALIDI DEL LAVORO",
+		"topospazio":"Via INVALIDI DEL LAVORO"
+	},
+
+	{
+		"0":"6890",
+		"cod":"6890",
+		"1":"ViaISACCHICESARE",
+		"topocompleto":"ViaISACCHICESARE",
+		"2":"Via ISACCHI CESARE",
+		"topospazio":"Via ISACCHI CESARE"
+	},
+
+	{
+		"0":"10160",
+		"cod":"10160",
+		"1":"ViaITIS",
+		"topocompleto":"ViaITIS",
+		"2":"Via ITIS",
+		"topospazio":"Via ITIS"
+	},
+
+	{
+		"0":"3020",
+		"cod":"3020",
+		"1":"ViaJACINISTEFANO",
+		"topocompleto":"ViaJACINISTEFANO",
+		"2":"Via JACINI STEFANO",
+		"topospazio":"Via JACINI STEFANO"
+	},
+
+	{
+		"0":"3070",
+		"cod":"3070",
+		"1":"ViaJULIA",
+		"topocompleto":"ViaJULIA",
+		"2":"Via JULIA",
+		"topospazio":"Via JULIA"
+	},
+
+	{
+		"0":"3080",
+		"cod":"3080",
+		"1":"ViaLAGOGERUNDO",
+		"topocompleto":"ViaLAGOGERUNDO",
+		"2":"Via LAGO GERUNDO",
+		"topospazio":"Via LAGO GERUNDO"
+	},
+
+	{
+		"0":"10027",
+		"cod":"10027",
+		"1":"ViaLAMBRISTEFANO",
+		"topocompleto":"ViaLAMBRISTEFANO",
+		"2":"Via LAMBRI STEFANO",
+		"topospazio":"Via LAMBRI STEFANO"
+	},
+
+	{
+		"0":"3090",
+		"cod":"3090",
+		"1":"ViaLAMBRO",
+		"topocompleto":"ViaLAMBRO",
+		"2":"Via LAMBRO",
+		"topospazio":"Via LAMBRO"
+	},
+
+	{
+		"0":"3100",
+		"cod":"3100",
+		"1":"ViaLAMOALESSANDRO",
+		"topocompleto":"ViaLAMOALESSANDRO",
+		"2":"Via LAMO ALESSANDRO",
+		"topospazio":"Via LAMO ALESSANDRO"
+	},
+
+	{
+		"0":"3110",
+		"cod":"3110",
+		"1":"ViaLAMPRIDIOBENEDETTO",
+		"topocompleto":"ViaLAMPRIDIOBENEDETTO",
+		"2":"Via LAMPRIDIO BENEDETTO",
+		"topospazio":"Via LAMPRIDIO BENEDETTO"
+	},
+
+	{
+		"0":"3120",
+		"cod":"3120",
+		"1":"ViaLANAIOLI",
+		"topocompleto":"ViaLANAIOLI",
+		"2":"Via LANAIOLI",
+		"topospazio":"Via LANAIOLI"
+	},
+
+	{
+		"0":"3130",
+		"cod":"3130",
+		"1":"ViaLANCETTIVINCENZO",
+		"topocompleto":"ViaLANCETTIVINCENZO",
+		"2":"Via LANCETTI VINCENZO",
+		"topospazio":"Via LANCETTI VINCENZO"
+	},
+
+	{
+		"0":"3140",
+		"cod":"3140",
+		"1":"ViaLANDRIANIALESSANDRO",
+		"topocompleto":"ViaLANDRIANIALESSANDRO",
+		"2":"Via LANDRIANI ALESSANDRO",
+		"topospazio":"Via LANDRIANI ALESSANDRO"
+	},
+
+	{
+		"0":"3150",
+		"cod":"3150",
+		"1":"ViaLARGA",
+		"topocompleto":"ViaLARGA",
+		"2":"Via LARGA",
+		"topospazio":"Via LARGA"
+	},
+
+	{
+		"0":"3170",
+		"cod":"3170",
+		"1":"ViaLAZZARICOSTANTINO",
+		"topocompleto":"ViaLAZZARICOSTANTINO",
+		"2":"Via LAZZARI COSTANTINO",
+		"topospazio":"Via LAZZARI COSTANTINO"
+	},
+
+	{
+		"0":"3190",
+		"cod":"3190",
+		"1":"ViaLEGIONECECCOPIERI",
+		"topocompleto":"ViaLEGIONECECCOPIERI",
+		"2":"Via LEGIONE CECCOPIERI",
+		"topospazio":"Via LEGIONE CECCOPIERI"
+	},
+
+	{
+		"0":"3200",
+		"cod":"3200",
+		"1":"ViaLEVIEZIO",
+		"topocompleto":"ViaLEVIEZIO",
+		"2":"Via LEVI EZIO",
+		"topospazio":"Via LEVI EZIO"
+	},
+
+	{
+		"0":"3220",
+		"cod":"3220",
+		"1":"ViaLITTAALESSANDRO",
+		"topocompleto":"ViaLITTAALESSANDRO",
+		"2":"Via LITTA ALESSANDRO",
+		"topospazio":"Via LITTA ALESSANDRO"
+	},
+
+	{
+		"0":"3230",
+		"cod":"3230",
+		"1":"ViaLIUTPRANDODACREMONA",
+		"topocompleto":"ViaLIUTPRANDODACREMONA",
+		"2":"Via LIUTPRANDO DA CREMONA",
+		"topospazio":"Via LIUTPRANDO DA CREMONA"
+	},
+
+	{
+		"0":"6790",
+		"cod":"6790",
+		"1":"ViaLIVELLI",
+		"topocompleto":"ViaLIVELLI",
+		"2":"Via LIVELLI",
+		"topospazio":"Via LIVELLI"
+	},
+
+	{
+		"0":"3240",
+		"cod":"3240",
+		"1":"ViaLIVRASCO",
+		"topocompleto":"ViaLIVRASCO",
+		"2":"Via LIVRASCO",
+		"topospazio":"Via LIVRASCO"
+	},
+
+	{
+		"0":"3260",
+		"cod":"3260",
+		"1":"ViaLODIMORA",
+		"topocompleto":"ViaLODIMORA",
+		"2":"Via LODI MORA",
+		"topospazio":"Via LODI MORA"
+	},
+
+	{
+		"0":"3270",
+		"cod":"3270",
+		"1":"ViaLOMBARDINIELIA",
+		"topocompleto":"ViaLOMBARDINIELIA",
+		"2":"Via LOMBARDINI ELIA",
+		"topospazio":"Via LOMBARDINI ELIA"
+	},
+
+	{
+		"0":"3280",
+		"cod":"3280",
+		"1":"ViaLONATIGIOVANNI",
+		"topocompleto":"ViaLONATIGIOVANNI",
+		"2":"Via LONATI GIOVANNI",
+		"topospazio":"Via LONATI GIOVANNI"
+	},
+
+	{
+		"0":"3290",
+		"cod":"3290",
+		"1":"ViaLORETO",
+		"topocompleto":"ViaLORETO",
+		"2":"Via LORETO",
+		"topospazio":"Via LORETO"
+	},
+
+	{
+		"0":"3300",
+		"cod":"3300",
+		"1":"ViaLUCCHINI",
+		"topocompleto":"ViaLUCCHINI",
+		"2":"Via LUCCHINI",
+		"topospazio":"Via LUCCHINI"
+	},
+
+	{
+		"0":"10089",
+		"cod":"10089",
+		"1":"ViaLUGARINICOLO",
+		"topocompleto":"ViaLUGARINICOLO",
+		"2":"Via LUGARI NICOLO'",
+		"topospazio":"Via LUGARI NICOLO'"
+	},
+
+	{
+		"0":"3310",
+		"cod":"3310",
+		"1":"ViaLUGO",
+		"topocompleto":"ViaLUGO",
+		"2":"Via LUGO",
+		"topospazio":"Via LUGO"
+	},
+
+	{
+		"0":"3320",
+		"cod":"3320",
+		"1":"ViaLUNGASTRETTA",
+		"topocompleto":"ViaLUNGASTRETTA",
+		"2":"Via LUNGASTRETTA",
+		"topospazio":"Via LUNGASTRETTA"
+	},
+
+	{
+		"0":"3340",
+		"cod":"3340",
+		"1":"ViaLUOGO",
+		"topocompleto":"ViaLUOGO",
+		"2":"Via LUOGO",
+		"topospazio":"Via LUOGO"
+	},
+
+	{
+		"0":"10154",
+		"cod":"10154",
+		"1":"ViaLUZZARADOMENICO",
+		"topocompleto":"ViaLUZZARADOMENICO",
+		"2":"Via LUZZARA DOMENICO",
+		"topospazio":"Via LUZZARA DOMENICO"
+	},
+
+	{
+		"0":"3350",
+		"cod":"3350",
+		"1":"ViaMACCHIMAURO",
+		"topocompleto":"ViaMACCHIMAURO",
+		"2":"Via MACCHI MAURO",
+		"topospazio":"Via MACCHI MAURO"
+	},
+
+	{
+		"0":"3370",
+		"cod":"3370",
+		"1":"ViaMADONNINA",
+		"topocompleto":"ViaMADONNINA",
+		"2":"Via MADONNINA",
+		"topospazio":"Via MADONNINA"
+	},
+
+	{
+		"0":"10056",
+		"cod":"10056",
+		"1":"ViaMAESTRIDELLAVORO",
+		"topocompleto":"ViaMAESTRIDELLAVORO",
+		"2":"Via MAESTRI DEL LAVORO",
+		"topospazio":"Via MAESTRI DEL LAVORO"
+	},
+
+	{
+		"0":"3390",
+		"cod":"3390",
+		"1":"ViaMAFFEZZOLIGIOVANNI",
+		"topocompleto":"ViaMAFFEZZOLIGIOVANNI",
+		"2":"Via MAFFEZZOLI GIOVANNI",
+		"topospazio":"Via MAFFEZZOLI GIOVANNI"
+	},
+
+	{
+		"0":"7160",
+		"cod":"7160",
+		"1":"ViaMAFFIMAFFINO",
+		"topocompleto":"ViaMAFFIMAFFINO",
+		"2":"Via MAFFI MAFFINO",
+		"topospazio":"Via MAFFI MAFFINO"
+	},
+
+	{
+		"0":"3400",
+		"cod":"3400",
+		"1":"ViaMAGAZZINIGENERALI",
+		"topocompleto":"ViaMAGAZZINIGENERALI",
+		"2":"Via MAGAZZINI GENERALI",
+		"topospazio":"Via MAGAZZINI GENERALI"
+	},
+
+	{
+		"0":"3410",
+		"cod":"3410",
+		"1":"ViaMAGENTA",
+		"topocompleto":"ViaMAGENTA",
+		"2":"Via MAGENTA",
+		"topospazio":"Via MAGENTA"
+	},
+
+	{
+		"0":"3420",
+		"cod":"3420",
+		"1":"ViaMAGNANICRISTOFORO",
+		"topocompleto":"ViaMAGNANICRISTOFORO",
+		"2":"Via MAGNANI CRISTOFORO",
+		"topospazio":"Via MAGNANI CRISTOFORO"
+	},
+
+	{
+		"0":"6910",
+		"cod":"6910",
+		"1":"ViaMAGNASCOALESSANDRO",
+		"topocompleto":"ViaMAGNASCOALESSANDRO",
+		"2":"Via MAGNASCO ALESSANDRO",
+		"topospazio":"Via MAGNASCO ALESSANDRO"
+	},
+
+	{
+		"0":"10016",
+		"cod":"10016",
+		"1":"ViaMAINOLDA",
+		"topocompleto":"ViaMAINOLDA",
+		"2":"Via MAINOLDA",
+		"topospazio":"Via MAINOLDA"
+	},
+
+	{
+		"0":"10048",
+		"cod":"10048",
+		"1":"ViaMALAGAVAZZOCORIOLANO",
+		"topocompleto":"ViaMALAGAVAZZOCORIOLANO",
+		"2":"Via MALAGAVAZZO CORIOLANO",
+		"topospazio":"Via MALAGAVAZZO CORIOLANO"
+	},
+
+	{
+		"0":"3430",
+		"cod":"3430",
+		"1":"ViaMALAGNINO",
+		"topocompleto":"ViaMALAGNINO",
+		"2":"Via MALAGNINO",
+		"topospazio":"Via MALAGNINO"
+	},
+
+	{
+		"0":"3440",
+		"cod":"3440",
+		"1":"ViaMALCANTONE",
+		"topocompleto":"ViaMALCANTONE",
+		"2":"Via MALCANTONE",
+		"topospazio":"Via MALCANTONE"
+	},
+
+	{
+		"0":"3450",
+		"cod":"3450",
+		"1":"ViaMALOMBRARICCARDO",
+		"topocompleto":"ViaMALOMBRARICCARDO",
+		"2":"Via MALOMBRA RICCARDO",
+		"topospazio":"Via MALOMBRA RICCARDO"
+	},
+
+	{
+		"0":"10108",
+		"cod":"10108",
+		"1":"ViaMANDELLIDONFLORO",
+		"topocompleto":"ViaMANDELLIDONFLORO",
+		"2":"Via MANDELLI DON FLORO",
+		"topospazio":"Via MANDELLI DON FLORO"
+	},
+
+	{
+		"0":"3460",
+		"cod":"3460",
+		"1":"ViaMANFREDINIGIOVANNI",
+		"topocompleto":"ViaMANFREDINIGIOVANNI",
+		"2":"Via MANFREDINI GIOVANNI",
+		"topospazio":"Via MANFREDINI GIOVANNI"
+	},
+
+	{
+		"0":"3470",
+		"cod":"3470",
+		"1":"ViaMANINI",
+		"topocompleto":"ViaMANINI",
+		"2":"Via MANINI",
+		"topospazio":"Via MANINI"
+	},
+
+	{
+		"0":"3490",
+		"cod":"3490",
+		"1":"ViaMANNARUGGERO",
+		"topocompleto":"ViaMANNARUGGERO",
+		"2":"Via MANNA RUGGERO",
+		"topospazio":"Via MANNA RUGGERO"
+	},
+
+	{
+		"0":"3500",
+		"cod":"3500",
+		"1":"ViaMANTOVA",
+		"topocompleto":"ViaMANTOVA",
+		"2":"Via MANTOVA",
+		"topospazio":"Via MANTOVA"
+	},
+
+	{
+		"0":"3510",
+		"cod":"3510",
+		"1":"ViaMANZONIALESSANDRO",
+		"topocompleto":"ViaMANZONIALESSANDRO",
+		"2":"Via MANZONI ALESSANDRO",
+		"topospazio":"Via MANZONI ALESSANDRO"
+	},
+
+	{
+		"0":"3520",
+		"cod":"3520",
+		"1":"ViaMARASCABASSA",
+		"topocompleto":"ViaMARASCABASSA",
+		"2":"Via MARASCA BASSA",
+		"topospazio":"Via MARASCA BASSA"
+	},
+
+	{
+		"0":"7380",
+		"cod":"7380",
+		"1":"ViaMARASCO",
+		"topocompleto":"ViaMARASCO",
+		"2":"Via MARASCO",
+		"topospazio":"Via MARASCO"
+	},
+
+	{
+		"0":"3560",
+		"cod":"3560",
+		"1":"ViaMARMOLADA",
+		"topocompleto":"ViaMARMOLADA",
+		"2":"Via MARMOLADA",
+		"topospazio":"Via MARMOLADA"
+	},
+
+	{
+		"0":"7480",
+		"cod":"7480",
+		"1":"ViaMARSALA",
+		"topocompleto":"ViaMARSALA",
+		"2":"Via MARSALA",
+		"topospazio":"Via MARSALA"
+	},
+
+	{
+		"0":"6860",
+		"cod":"6860",
+		"1":"ViaMARTINIPALMIRO",
+		"topocompleto":"ViaMARTINIPALMIRO",
+		"2":"Via MARTINI PALMIRO",
+		"topospazio":"Via MARTINI PALMIRO"
+	},
+
+	{
+		"0":"3570",
+		"cod":"3570",
+		"1":"ViaMARTIRIDIBAGNARA",
+		"topocompleto":"ViaMARTIRIDIBAGNARA",
+		"2":"Via MARTIRI DI BAGNARA",
+		"topospazio":"Via MARTIRI DI BAGNARA"
+	},
+
+	{
+		"0":"3580",
+		"cod":"3580",
+		"1":"ViaMARTIRIDISCLEMO",
+		"topocompleto":"ViaMARTIRIDISCLEMO",
+		"2":"Via MARTIRI DI SCLEMO",
+		"topospazio":"Via MARTIRI DI SCLEMO"
+	},
+
+	{
+		"0":"3590",
+		"cod":"3590",
+		"1":"ViaMARZANO",
+		"topocompleto":"ViaMARZANO",
+		"2":"Via MARZANO",
+		"topospazio":"Via MARZANO"
+	},
+
+	{
+		"0":"3600",
+		"cod":"3600",
+		"1":"ViaMASSAIACARD.GUGLIELMO",
+		"topocompleto":"ViaMASSAIACARD.GUGLIELMO",
+		"2":"Via MASSAIA CARD. GUGLIELMO",
+		"topospazio":"Via MASSAIA CARD. GUGLIELMO"
+	},
+
+	{
+		"0":"3610",
+		"cod":"3610",
+		"1":"ViaMASSAROTTIANGELO",
+		"topocompleto":"ViaMASSAROTTIANGELO",
+		"2":"Via MASSAROTTI ANGELO",
+		"topospazio":"Via MASSAROTTI ANGELO"
+	},
+
+	{
+		"0":"3640",
+		"cod":"3640",
+		"1":"ViaMAZZABUE",
+		"topocompleto":"ViaMAZZABUE",
+		"2":"Via MAZZABUE",
+		"topospazio":"Via MAZZABUE"
+	},
+
+	{
+		"0":"3650",
+		"cod":"3650",
+		"1":"ViaMAZZETTO",
+		"topocompleto":"ViaMAZZETTO",
+		"2":"Via MAZZETTO",
+		"topospazio":"Via MAZZETTO"
+	},
+
+	{
+		"0":"3670",
+		"cod":"3670",
+		"1":"ViaMAZZOLARIDONPRIMO",
+		"topocompleto":"ViaMAZZOLARIDONPRIMO",
+		"2":"Via MAZZOLARI DON PRIMO",
+		"topospazio":"Via MAZZOLARI DON PRIMO"
+	},
+
+	{
+		"0":"3680",
+		"cod":"3680",
+		"1":"ViaMELLA",
+		"topocompleto":"ViaMELLA",
+		"2":"Via MELLA",
+		"topospazio":"Via MELLA"
+	},
+
+	{
+		"0":"3690",
+		"cod":"3690",
+		"1":"ViaMELONEALTOBELLO",
+		"topocompleto":"ViaMELONEALTOBELLO",
+		"2":"Via MELONE ALTOBELLO",
+		"topospazio":"Via MELONE ALTOBELLO"
+	},
+
+	{
+		"0":"7320",
+		"cod":"7320",
+		"1":"ViaMENTANA",
+		"topocompleto":"ViaMENTANA",
+		"2":"Via MENTANA",
+		"topospazio":"Via MENTANA"
+	},
+
+	{
+		"0":"3700",
+		"cod":"3700",
+		"1":"ViaMERCATELLO",
+		"topocompleto":"ViaMERCATELLO",
+		"2":"Via MERCATELLO",
+		"topospazio":"Via MERCATELLO"
+	},
+
+	{
+		"0":"3720",
+		"cod":"3720",
+		"1":"ViaMERULATARQUINIO",
+		"topocompleto":"ViaMERULATARQUINIO",
+		"2":"Via MERULA TARQUINIO",
+		"topospazio":"Via MERULA TARQUINIO"
+	},
+
+	{
+		"0":"3730",
+		"cod":"3730",
+		"1":"ViaMIGLIARO",
+		"topocompleto":"ViaMIGLIARO",
+		"2":"Via MIGLIARO",
+		"topospazio":"Via MIGLIARO"
+	},
+
+	{
+		"0":"3750",
+		"cod":"3750",
+		"1":"ViaMIGLIOLIGUIDO",
+		"topocompleto":"ViaMIGLIOLIGUIDO",
+		"2":"Via MIGLIOLI GUIDO",
+		"topospazio":"Via MIGLIOLI GUIDO"
+	},
+
+	{
+		"0":"3760",
+		"cod":"3760",
+		"1":"ViaMILANO",
+		"topocompleto":"ViaMILANO",
+		"2":"Via MILANO",
+		"topospazio":"Via MILANO"
+	},
+
+	{
+		"0":"3770",
+		"cod":"3770",
+		"1":"ViaMILAZZO",
+		"topocompleto":"ViaMILAZZO",
+		"2":"Via MILAZZO",
+		"topospazio":"Via MILAZZO"
+	},
+
+	{
+		"0":"3790",
+		"cod":"3790",
+		"1":"ViaMINCIO",
+		"topocompleto":"ViaMINCIO",
+		"2":"Via MINCIO",
+		"topospazio":"Via MINCIO"
+	},
+
+	{
+		"0":"3800",
+		"cod":"3800",
+		"1":"ViaMINUTICARLO",
+		"topocompleto":"ViaMINUTICARLO",
+		"2":"Via MINUTI CARLO",
+		"topospazio":"Via MINUTI CARLO"
+	},
+
+	{
+		"0":"3810",
+		"cod":"3810",
+		"1":"ViaMINZONIGIOVANNI",
+		"topocompleto":"ViaMINZONIGIOVANNI",
+		"2":"Via MINZONI GIOVANNI",
+		"topospazio":"Via MINZONI GIOVANNI"
+	},
+
+	{
+		"0":"3830",
+		"cod":"3830",
+		"1":"ViaMIRADORILUIGI",
+		"topocompleto":"ViaMIRADORILUIGI",
+		"2":"Via MIRADORI LUIGI",
+		"topospazio":"Via MIRADORI LUIGI"
+	},
+
+	{
+		"0":"3840",
+		"cod":"3840",
+		"1":"ViaMIRANDOLA",
+		"topocompleto":"ViaMIRANDOLA",
+		"2":"Via MIRANDOLA",
+		"topospazio":"Via MIRANDOLA"
+	},
+
+	{
+		"0":"6880",
+		"cod":"6880",
+		"1":"ViaMOCCHINOALBERTO",
+		"topocompleto":"ViaMOCCHINOALBERTO",
+		"2":"Via MOCCHINO ALBERTO",
+		"topospazio":"Via MOCCHINO ALBERTO"
+	},
+
+	{
+		"0":"10181",
+		"cod":"10181",
+		"1":"ViaMODESTIGIUSEPPE",
+		"topocompleto":"ViaMODESTIGIUSEPPE",
+		"2":"Via MODESTI GIUSEPPE",
+		"topospazio":"Via MODESTI GIUSEPPE"
+	},
+
+	{
+		"0":"10072",
+		"cod":"10072",
+		"1":"ViaMOGLIA",
+		"topocompleto":"ViaMOGLIA",
+		"2":"Via MOGLIA",
+		"topospazio":"Via MOGLIA"
+	},
+
+	{
+		"0":"10119",
+		"cod":"10119",
+		"1":"ViaMONTALDIDANILO",
+		"topocompleto":"ViaMONTALDIDANILO",
+		"2":"Via MONTALDI DANILO",
+		"topospazio":"Via MONTALDI DANILO"
+	},
+
+	{
+		"0":"10095",
+		"cod":"10095",
+		"1":"ViaMONTANIGIUSEPPE",
+		"topocompleto":"ViaMONTANIGIUSEPPE",
+		"2":"Via MONTANI GIUSEPPE",
+		"topospazio":"Via MONTANI GIUSEPPE"
+	},
+
+	{
+		"0":"3850",
+		"cod":"3850",
+		"1":"ViaMONTEGRAPPA",
+		"topocompleto":"ViaMONTEGRAPPA",
+		"2":"Via MONTE GRAPPA",
+		"topospazio":"Via MONTE GRAPPA"
+	},
+
+	{
+		"0":"3870",
+		"cod":"3870",
+		"1":"ViaMONTENERO",
+		"topocompleto":"ViaMONTENERO",
+		"2":"Via MONTE NERO",
+		"topospazio":"Via MONTE NERO"
+	},
+
+	{
+		"0":"3860",
+		"cod":"3860",
+		"1":"ViaMONTELLO",
+		"topocompleto":"ViaMONTELLO",
+		"2":"Via MONTELLO",
+		"topospazio":"Via MONTELLO"
+	},
+
+	{
+		"0":"3880",
+		"cod":"3880",
+		"1":"ViaMONTEVERDICLAUDIO",
+		"topocompleto":"ViaMONTEVERDICLAUDIO",
+		"2":"Via MONTEVERDI CLAUDIO",
+		"topospazio":"Via MONTEVERDI CLAUDIO"
+	},
+
+	{
+		"0":"3890",
+		"cod":"3890",
+		"1":"ViaMONTIANGELO",
+		"topocompleto":"ViaMONTIANGELO",
+		"2":"Via MONTI ANGELO",
+		"topospazio":"Via MONTI ANGELO"
+	},
+
+	{
+		"0":"10040",
+		"cod":"10040",
+		"1":"ViaMONVISO",
+		"topocompleto":"ViaMONVISO",
+		"2":"Via MONVISO",
+		"topospazio":"Via MONVISO"
+	},
+
+	{
+		"0":"3900",
+		"cod":"3900",
+		"1":"ViaMORBASCO",
+		"topocompleto":"ViaMORBASCO",
+		"2":"Via MORBASCO",
+		"topospazio":"Via MORBASCO"
+	},
+
+	{
+		"0":"3910",
+		"cod":"3910",
+		"1":"ViaMORETTICRISTOFORO",
+		"topocompleto":"ViaMORETTICRISTOFORO",
+		"2":"Via MORETTI CRISTOFORO",
+		"topospazio":"Via MORETTI CRISTOFORO"
+	},
+
+	{
+		"0":"3920",
+		"cod":"3920",
+		"1":"ViaMORSENTIANGELO",
+		"topocompleto":"ViaMORSENTIANGELO",
+		"2":"Via MORSENTI ANGELO",
+		"topospazio":"Via MORSENTI ANGELO"
+	},
+
+	{
+		"0":"3930",
+		"cod":"3930",
+		"1":"ViaMOSA",
+		"topocompleto":"ViaMOSA",
+		"2":"Via MOSA",
+		"topospazio":"Via MOSA"
+	},
+
+	{
+		"0":"10136",
+		"cod":"10136",
+		"1":"ViaMOSCONIMONS.NATALE",
+		"topocompleto":"ViaMOSCONIMONS.NATALE",
+		"2":"Via MOSCONI MONS. NATALE",
+		"topospazio":"Via MOSCONI MONS. NATALE"
+	},
+
+	{
+		"0":"3950",
+		"cod":"3950",
+		"1":"ViaMULINO",
+		"topocompleto":"ViaMULINO",
+		"2":"Via MULINO",
+		"topospazio":"Via MULINO"
+	},
+
+	{
+		"0":"3960",
+		"cod":"3960",
+		"1":"ViaMURDACASERGIO",
+		"topocompleto":"ViaMURDACASERGIO",
+		"2":"Via MURDACA SERGIO",
+		"topospazio":"Via MURDACA SERGIO"
+	},
+
+	{
+		"0":"3980",
+		"cod":"3980",
+		"1":"ViaNATALIGIOVANBATTISTA",
+		"topocompleto":"ViaNATALIGIOVANBATTISTA",
+		"2":"Via NATALI GIOVAN BATTISTA",
+		"topospazio":"Via NATALI GIOVAN BATTISTA"
+	},
+
+	{
+		"0":"4010",
+		"cod":"4010",
+		"1":"ViaNAVIGLIO",
+		"topocompleto":"ViaNAVIGLIO",
+		"2":"Via NAVIGLIO",
+		"topospazio":"Via NAVIGLIO"
+	},
+
+	{
+		"0":"10049",
+		"cod":"10049",
+		"1":"ViaNEGRONIPIETRO",
+		"topocompleto":"ViaNEGRONIPIETRO",
+		"2":"Via NEGRONI PIETRO",
+		"topospazio":"Via NEGRONI PIETRO"
+	},
+
+	{
+		"0":"4020",
+		"cod":"4020",
+		"1":"ViaNERIPIETRO",
+		"topocompleto":"ViaNERIPIETRO",
+		"2":"Via NERI PIETRO",
+		"topospazio":"Via NERI PIETRO"
+	},
+
+	{
+		"0":"4030",
+		"cod":"4030",
+		"1":"ViaNOVASCONIANTONIO",
+		"topocompleto":"ViaNOVASCONIANTONIO",
+		"2":"Via NOVASCONI ANTONIO",
+		"topospazio":"Via NOVASCONI ANTONIO"
+	},
+
+	{
+		"0":"4040",
+		"cod":"4040",
+		"1":"ViaNOVATIFRANCESCO",
+		"topocompleto":"ViaNOVATIFRANCESCO",
+		"2":"Via NOVATI FRANCESCO",
+		"topospazio":"Via NOVATI FRANCESCO"
+	},
+
+	{
+		"0":"6980",
+		"cod":"6980",
+		"1":"ViaNUVOLONEPANFILO",
+		"topocompleto":"ViaNUVOLONEPANFILO",
+		"2":"Via NUVOLONE PANFILO",
+		"topospazio":"Via NUVOLONE PANFILO"
+	},
+
+	{
+		"0":"4050",
+		"cod":"4050",
+		"1":"ViaOBERDANGUGLIELMO",
+		"topocompleto":"ViaOBERDANGUGLIELMO",
+		"2":"Via OBERDAN GUGLIELMO",
+		"topospazio":"Via OBERDAN GUGLIELMO"
+	},
+
+	{
+		"0":"4060",
+		"cod":"4060",
+		"1":"ViaOFFREDI",
+		"topocompleto":"ViaOFFREDI",
+		"2":"Via OFFREDI",
+		"topospazio":"Via OFFREDI"
+	},
+
+	{
+		"0":"4070",
+		"cod":"4070",
+		"1":"ViaOGLIO",
+		"topocompleto":"ViaOGLIO",
+		"2":"Via OGLIO",
+		"topospazio":"Via OGLIO"
+	},
+
+	{
+		"0":"10088",
+		"cod":"10088",
+		"1":"ViaOLDOINIGREGORIO",
+		"topocompleto":"ViaOLDOINIGREGORIO",
+		"2":"Via OLDOINI GREGORIO",
+		"topospazio":"Via OLDOINI GREGORIO"
+	},
+
+	{
+		"0":"10050",
+		"cod":"10050",
+		"1":"ViaOLIVIERIALESSIO",
+		"topocompleto":"ViaOLIVIERIALESSIO",
+		"2":"Via OLIVIERI ALESSIO",
+		"topospazio":"Via OLIVIERI ALESSIO"
+	},
+
+	{
+		"0":"4100",
+		"cod":"4100",
+		"1":"ViaOLONA",
+		"topocompleto":"ViaOLONA",
+		"2":"Via OLONA",
+		"topospazio":"Via OLONA"
+	},
+
+	{
+		"0":"4110",
+		"cod":"4110",
+		"1":"ViaOMODEOGIOVANNI",
+		"topocompleto":"ViaOMODEOGIOVANNI",
+		"2":"Via OMODEO GIOVANNI",
+		"topospazio":"Via OMODEO GIOVANNI"
+	},
+
+	{
+		"0":"4160",
+		"cod":"4160",
+		"1":"ViaOSCASALI",
+		"topocompleto":"ViaOSCASALI",
+		"2":"Via OSCASALI",
+		"topospazio":"Via OSCASALI"
+	},
+
+	{
+		"0":"10035",
+		"cod":"10035",
+		"1":"ViaOSPEDALETTO",
+		"topocompleto":"ViaOSPEDALETTO",
+		"2":"Via OSPEDALETTO",
+		"topospazio":"Via OSPEDALETTO"
+	},
+
+	{
+		"0":"4180",
+		"cod":"4180",
+		"1":"ViaOSSALENGO",
+		"topocompleto":"ViaOSSALENGO",
+		"2":"Via OSSALENGO",
+		"topospazio":"Via OSSALENGO"
+	},
+
+	{
+		"0":"4190",
+		"cod":"4190",
+		"1":"ViaOTTOLINIANGELO",
+		"topocompleto":"ViaOTTOLINIANGELO",
+		"2":"Via OTTOLINI ANGELO",
+		"topospazio":"Via OTTOLINI ANGELO"
+	},
+
+	{
+		"0":"7170",
+		"cod":"7170",
+		"1":"ViaPALATINA",
+		"topocompleto":"ViaPALATINA",
+		"2":"Via PALATINA",
+		"topospazio":"Via PALATINA"
+	},
+
+	{
+		"0":"10059",
+		"cod":"10059",
+		"1":"ViaPALAZZINA",
+		"topocompleto":"ViaPALAZZINA",
+		"2":"Via PALAZZINA",
+		"topospazio":"Via PALAZZINA"
+	},
+
+	{
+		"0":"4230",
+		"cod":"4230",
+		"1":"ViaPALESTRO",
+		"topocompleto":"ViaPALESTRO",
+		"2":"Via PALESTRO",
+		"topospazio":"Via PALESTRO"
+	},
+
+	{
+		"0":"4240",
+		"cod":"4240",
+		"1":"ViaPALIODELLOCA",
+		"topocompleto":"ViaPALIODELLOCA",
+		"2":"Via PALIO DELL'OCA",
+		"topospazio":"Via PALIO DELL'OCA"
+	},
+
+	{
+		"0":"4250",
+		"cod":"4250",
+		"1":"ViaPALLAVICINOUBERTO",
+		"topocompleto":"ViaPALLAVICINOUBERTO",
+		"2":"Via PALLAVICINO UBERTO",
+		"topospazio":"Via PALLAVICINO UBERTO"
+	},
+
+	{
+		"0":"10054",
+		"cod":"10054",
+		"1":"ViaPALOSCA",
+		"topocompleto":"ViaPALOSCA",
+		"2":"Via PALOSCA",
+		"topospazio":"Via PALOSCA"
+	},
+
+	{
+		"0":"10025",
+		"cod":"10025",
+		"1":"ViaPAMPURINOALESSANDRO",
+		"topocompleto":"ViaPAMPURINOALESSANDRO",
+		"2":"Via PAMPURINO ALESSANDRO",
+		"topospazio":"Via PAMPURINO ALESSANDRO"
+	},
+
+	{
+		"0":"4260",
+		"cod":"4260",
+		"1":"ViaPANNILEONIDA",
+		"topocompleto":"ViaPANNILEONIDA",
+		"2":"Via PANNI LEONIDA",
+		"topospazio":"Via PANNI LEONIDA"
+	},
+
+	{
+		"0":"4270",
+		"cod":"4270",
+		"1":"ViaPAOLUCCIDECALBOLIFOLCIERI",
+		"topocompleto":"ViaPAOLUCCIDECALBOLIFOLCIERI",
+		"2":"Via PAOLUCCI DE' CALBOLI FOLCIERI",
+		"topospazio":"Via PAOLUCCI DE' CALBOLI FOLCIERI"
+	},
+
+	{
+		"0":"4280",
+		"cod":"4280",
+		"1":"ViaPARADISO",
+		"topocompleto":"ViaPARADISO",
+		"2":"Via PARADISO",
+		"topospazio":"Via PARADISO"
+	},
+
+	{
+		"0":"4290",
+		"cod":"4290",
+		"1":"ViaPARRACACCIA",
+		"topocompleto":"ViaPARRACACCIA",
+		"2":"Via PARRACACCIA",
+		"topospazio":"Via PARRACACCIA"
+	},
+
+	{
+		"0":"4300",
+		"cod":"4300",
+		"1":"ViaPASSIRANO",
+		"topocompleto":"ViaPASSIRANO",
+		"2":"Via PASSIRANO",
+		"topospazio":"Via PASSIRANO"
+	},
+
+	{
+		"0":"6630",
+		"cod":"6630",
+		"1":"ViaPASSOLOMBARDO",
+		"topocompleto":"ViaPASSOLOMBARDO",
+		"2":"Via PASSOLOMBARDO",
+		"topospazio":"Via PASSOLOMBARDO"
+	},
+
+	{
+		"0":"4310",
+		"cod":"4310",
+		"1":"ViaPASUBIO",
+		"topocompleto":"ViaPASUBIO",
+		"2":"Via PASUBIO",
+		"topospazio":"Via PASUBIO"
+	},
+
+	{
+		"0":"4320",
+		"cod":"4320",
+		"1":"ViaPATECCHIOGHERARDO",
+		"topocompleto":"ViaPATECCHIOGHERARDO",
+		"2":"Via PATECCHIO GHERARDO",
+		"topospazio":"Via PATECCHIO GHERARDO"
+	},
+
+	{
+		"0":"7180",
+		"cod":"7180",
+		"1":"ViaPAULLIGIUSEPPE",
+		"topocompleto":"ViaPAULLIGIUSEPPE",
+		"2":"Via PAULLI GIUSEPPE",
+		"topospazio":"Via PAULLI GIUSEPPE"
+	},
+
+	{
+		"0":"10171",
+		"cod":"10171",
+		"1":"ViaPAVIA",
+		"topocompleto":"ViaPAVIA",
+		"2":"Via PAVIA",
+		"topospazio":"Via PAVIA"
+	},
+
+	{
+		"0":"4340",
+		"cod":"4340",
+		"1":"ViaPECORARIFRANCESCO",
+		"topocompleto":"ViaPECORARIFRANCESCO",
+		"2":"Via PECORARI FRANCESCO",
+		"topospazio":"Via PECORARI FRANCESCO"
+	},
+
+	{
+		"0":"4350",
+		"cod":"4350",
+		"1":"ViaPEDONEGASPARE",
+		"topocompleto":"ViaPEDONEGASPARE",
+		"2":"Via PEDONE GASPARE",
+		"topospazio":"Via PEDONE GASPARE"
+	},
+
+	{
+		"0":"4360",
+		"cod":"4360",
+		"1":"ViaPEDRATTIIGNAZIO",
+		"topocompleto":"ViaPEDRATTIIGNAZIO",
+		"2":"Via PEDRATTI IGNAZIO",
+		"topospazio":"Via PEDRATTI IGNAZIO"
+	},
+
+	{
+		"0":"7190",
+		"cod":"7190",
+		"1":"ViaPEDRONIFRANCOGIUSEPPE",
+		"topocompleto":"ViaPEDRONIFRANCOGIUSEPPE",
+		"2":"Via PEDRONI FRANCO GIUSEPPE",
+		"topospazio":"Via PEDRONI FRANCO GIUSEPPE"
+	},
+
+	{
+		"0":"4370",
+		"cod":"4370",
+		"1":"ViaPENNELLI",
+		"topocompleto":"ViaPENNELLI",
+		"2":"Via PENNELLI",
+		"topospazio":"Via PENNELLI"
+	},
+
+	{
+		"0":"4380",
+		"cod":"4380",
+		"1":"ViaPERIANGELO",
+		"topocompleto":"ViaPERIANGELO",
+		"2":"Via PERI ANGELO",
+		"topospazio":"Via PERI ANGELO"
+	},
+
+	{
+		"0":"4390",
+		"cod":"4390",
+		"1":"ViaPERNICEALFREDO",
+		"topocompleto":"ViaPERNICEALFREDO",
+		"2":"Via PERNICE ALFREDO",
+		"topospazio":"Via PERNICE ALFREDO"
+	},
+
+	{
+		"0":"4410",
+		"cod":"4410",
+		"1":"ViaPERSICO",
+		"topocompleto":"ViaPERSICO",
+		"2":"Via PERSICO",
+		"topospazio":"Via PERSICO"
+	},
+
+	{
+		"0":"4430",
+		"cod":"4430",
+		"1":"ViaPERUGINOPIETRO",
+		"topocompleto":"ViaPERUGINOPIETRO",
+		"2":"Via PERUGINO PIETRO",
+		"topospazio":"Via PERUGINO PIETRO"
+	},
+
+	{
+		"0":"4460",
+		"cod":"4460",
+		"1":"ViaPIAVE",
+		"topocompleto":"ViaPIAVE",
+		"2":"Via PIAVE",
+		"topospazio":"Via PIAVE"
+	},
+
+	{
+		"0":"4470",
+		"cod":"4470",
+		"1":"ViaPIAZZICARLO",
+		"topocompleto":"ViaPIAZZICARLO",
+		"2":"Via PIAZZI CARLO",
+		"topospazio":"Via PIAZZI CARLO"
+	},
+
+	{
+		"0":"4480",
+		"cod":"4480",
+		"1":"ViaPICENENGO",
+		"topocompleto":"ViaPICENENGO",
+		"2":"Via PICENENGO",
+		"topospazio":"Via PICENENGO"
+	},
+
+	{
+		"0":"7200",
+		"cod":"7200",
+		"1":"ViaPIEMONTELOMBARDO",
+		"topocompleto":"ViaPIEMONTELOMBARDO",
+		"2":"Via PIEMONTE LOMBARDO",
+		"topospazio":"Via PIEMONTE LOMBARDO"
+	},
+
+	{
+		"0":"4500",
+		"cod":"4500",
+		"1":"ViaPIPPIA",
+		"topocompleto":"ViaPIPPIA",
+		"2":"Via PIPPIA",
+		"topospazio":"Via PIPPIA"
+	},
+
+	{
+		"0":"4510",
+		"cod":"4510",
+		"1":"ViaPISONEALESSANDRO",
+		"topocompleto":"ViaPISONEALESSANDRO",
+		"2":"Via PISONE ALESSANDRO",
+		"topospazio":"Via PISONE ALESSANDRO"
+	},
+
+	{
+		"0":"4520",
+		"cod":"4520",
+		"1":"ViaPLASIOGIOVANBATTISTA",
+		"topocompleto":"ViaPLASIOGIOVANBATTISTA",
+		"2":"Via PLASIO GIOVAN BATTISTA",
+		"topospazio":"Via PLASIO GIOVAN BATTISTA"
+	},
+
+	{
+		"0":"4530",
+		"cod":"4530",
+		"1":"ViaPLATANI",
+		"topocompleto":"ViaPLATANI",
+		"2":"Via PLATANI",
+		"topospazio":"Via PLATANI"
+	},
+
+	{
+		"0":"4540",
+		"cod":"4540",
+		"1":"ViaPLATINAGIOVANNIMARIA",
+		"topocompleto":"ViaPLATINAGIOVANNIMARIA",
+		"2":"Via PLATINA GIOVANNI MARIA",
+		"topospazio":"Via PLATINA GIOVANNI MARIA"
+	},
+
+	{
+		"0":"10038",
+		"cod":"10038",
+		"1":"ViaPLEBISCITO",
+		"topocompleto":"ViaPLEBISCITO",
+		"2":"Via PLEBISCITO",
+		"topospazio":"Via PLEBISCITO"
+	},
+
+	{
+		"0":"4560",
+		"cod":"4560",
+		"1":"ViaPOFFAGIOVANNIFRANCESCO",
+		"topocompleto":"ViaPOFFAGIOVANNIFRANCESCO",
+		"2":"Via POFFA GIOVANNI FRANCESCO",
+		"topospazio":"Via POFFA GIOVANNI FRANCESCO"
+	},
+
+	{
+		"0":"4570",
+		"cod":"4570",
+		"1":"ViaPOFFACANE",
+		"topocompleto":"ViaPOFFACANE",
+		"2":"Via POFFACANE",
+		"topospazio":"Via POFFACANE"
+	},
+
+	{
+		"0":"10087",
+		"cod":"10087",
+		"1":"ViaPOLIBALDASSARRE",
+		"topocompleto":"ViaPOLIBALDASSARRE",
+		"2":"Via POLI BALDASSARRE",
+		"topospazio":"Via POLI BALDASSARRE"
+	},
+
+	{
+		"0":"4580",
+		"cod":"4580",
+		"1":"ViaPOLLUCE",
+		"topocompleto":"ViaPOLLUCE",
+		"2":"Via POLLUCE",
+		"topospazio":"Via POLLUCE"
+	},
+
+	{
+		"0":"4590",
+		"cod":"4590",
+		"1":"ViaPONCHIELLIAMILCARE",
+		"topocompleto":"ViaPONCHIELLIAMILCARE",
+		"2":"Via PONCHIELLI AMILCARE",
+		"topospazio":"Via PONCHIELLI AMILCARE"
+	},
+
+	{
+		"0":"4600",
+		"cod":"4600",
+		"1":"ViaPORCELLASCO",
+		"topocompleto":"ViaPORCELLASCO",
+		"2":"Via PORCELLASCO",
+		"topospazio":"Via PORCELLASCO"
+	},
+
+	{
+		"0":"4630",
+		"cod":"4630",
+		"1":"ViaPORTADELTEMPIO",
+		"topocompleto":"ViaPORTADELTEMPIO",
+		"2":"Via PORTA DEL TEMPIO",
+		"topospazio":"Via PORTA DEL TEMPIO"
+	},
+
+	{
+		"0":"4640",
+		"cod":"4640",
+		"1":"ViaPORTAMARZIA",
+		"topocompleto":"ViaPORTAMARZIA",
+		"2":"Via PORTA MARZIA",
+		"topospazio":"Via PORTA MARZIA"
+	},
+
+	{
+		"0":"4650",
+		"cod":"4650",
+		"1":"ViaPORTAPOVECCHIA",
+		"topocompleto":"ViaPORTAPOVECCHIA",
+		"2":"Via PORTA PO VECCHIA",
+		"topospazio":"Via PORTA PO VECCHIA"
+	},
+
+	{
+		"0":"4660",
+		"cod":"4660",
+		"1":"ViaPORTINARIDELPO",
+		"topocompleto":"ViaPORTINARIDELPO",
+		"2":"Via PORTINARI DEL PO",
+		"topospazio":"Via PORTINARI DEL PO"
+	},
+
+	{
+		"0":"4680",
+		"cod":"4680",
+		"1":"ViaPOSTUMIA",
+		"topocompleto":"ViaPOSTUMIA",
+		"2":"Via POSTUMIA",
+		"topospazio":"Via POSTUMIA"
+	},
+
+	{
+		"0":"4690",
+		"cod":"4690",
+		"1":"ViaPOZZOLITARQUINIO",
+		"topocompleto":"ViaPOZZOLITARQUINIO",
+		"2":"Via POZZOLI TARQUINIO",
+		"topospazio":"Via POZZOLI TARQUINIO"
+	},
+
+	{
+		"0":"7020",
+		"cod":"7020",
+		"1":"ViaPRATOCINTO",
+		"topocompleto":"ViaPRATOCINTO",
+		"2":"Via PRATO CINTO",
+		"topospazio":"Via PRATO CINTO"
+	},
+
+	{
+		"0":"6640",
+		"cod":"6640",
+		"1":"ViaPRIMOMAGGIO",
+		"topocompleto":"ViaPRIMOMAGGIO",
+		"2":"Via PRIMO MAGGIO",
+		"topospazio":"Via PRIMO MAGGIO"
+	},
+
+	{
+		"0":"4730",
+		"cod":"4730",
+		"1":"ViaRABBONIGIUSEPPE",
+		"topocompleto":"ViaRABBONIGIUSEPPE",
+		"2":"Via RABBONI GIUSEPPE",
+		"topospazio":"Via RABBONI GIUSEPPE"
+	},
+
+	{
+		"0":"4740",
+		"cod":"4740",
+		"1":"ViaRACCHETTA",
+		"topocompleto":"ViaRACCHETTA",
+		"2":"Via RACCHETTA",
+		"topospazio":"Via RACCHETTA"
+	},
+
+	{
+		"0":"4750",
+		"cod":"4750",
+		"1":"ViaRADAELLIGIOVANNI",
+		"topocompleto":"ViaRADAELLIGIOVANNI",
+		"2":"Via RADAELLI GIOVANNI",
+		"topospazio":"Via RADAELLI GIOVANNI"
+	},
+
+	{
+		"0":"4770",
+		"cod":"4770",
+		"1":"ViaRAIMONDIELISEO",
+		"topocompleto":"ViaRAIMONDIELISEO",
+		"2":"Via RAIMONDI ELISEO",
+		"topospazio":"Via RAIMONDI ELISEO"
+	},
+
+	{
+		"0":"10133",
+		"cod":"10133",
+		"1":"ViaRASTELLIVITO",
+		"topocompleto":"ViaRASTELLIVITO",
+		"2":"Via RASTELLI VITO",
+		"topospazio":"Via RASTELLI VITO"
+	},
+
+	{
+		"0":"4780",
+		"cod":"4780",
+		"1":"ViaRATTIMONS.GIULIO",
+		"topocompleto":"ViaRATTIMONS.GIULIO",
+		"2":"Via RATTI MONS. GIULIO",
+		"topospazio":"Via RATTI MONS. GIULIO"
+	},
+
+	{
+		"0":"10126",
+		"cod":"10126",
+		"1":"ViaREBUSCHINIBEATOENRICO",
+		"topocompleto":"ViaREBUSCHINIBEATOENRICO",
+		"2":"Via REBUSCHINI BEATO ENRICO",
+		"topospazio":"Via REBUSCHINI BEATO ENRICO"
+	},
+
+	{
+		"0":"4790",
+		"cod":"4790",
+		"1":"ViaREDEGATTI",
+		"topocompleto":"ViaREDEGATTI",
+		"2":"Via REDEGATTI",
+		"topospazio":"Via REDEGATTI"
+	},
+
+	{
+		"0":"4800",
+		"cod":"4800",
+		"1":"ViaREGINATEODOLINDA",
+		"topocompleto":"ViaREGINATEODOLINDA",
+		"2":"Via REGINA TEODOLINDA",
+		"topospazio":"Via REGINA TEODOLINDA"
+	},
+
+	{
+		"0":"4810",
+		"cod":"4810",
+		"1":"ViaRIALTO",
+		"topocompleto":"ViaRIALTO",
+		"2":"Via RIALTO",
+		"topospazio":"Via RIALTO"
+	},
+
+	{
+		"0":"4820",
+		"cod":"4820",
+		"1":"ViaRICCABERNARDINO",
+		"topocompleto":"ViaRICCABERNARDINO",
+		"2":"Via RICCA BERNARDINO",
+		"topospazio":"Via RICCA BERNARDINO"
+	},
+
+	{
+		"0":"4830",
+		"cod":"4830",
+		"1":"ViaRIGLIO",
+		"topocompleto":"ViaRIGLIO",
+		"2":"Via RIGLIO",
+		"topospazio":"Via RIGLIO"
+	},
+
+	{
+		"0":"4840",
+		"cod":"4840",
+		"1":"ViaRIGOTTICARLO",
+		"topocompleto":"ViaRIGOTTICARLO",
+		"2":"Via RIGOTTI CARLO",
+		"topospazio":"Via RIGOTTI CARLO"
+	},
+
+	{
+		"0":"4850",
+		"cod":"4850",
+		"1":"ViaRIPARIPIETRO",
+		"topocompleto":"ViaRIPARIPIETRO",
+		"2":"Via RIPARI PIETRO",
+		"topospazio":"Via RIPARI PIETRO"
+	},
+
+	{
+		"0":"10036",
+		"cod":"10036",
+		"1":"ViaRIPOSONUOVA",
+		"topocompleto":"ViaRIPOSONUOVA",
+		"2":"Via RIPOSO NUOVA",
+		"topospazio":"Via RIPOSO NUOVA"
+	},
+
+	{
+		"0":"4880",
+		"cod":"4880",
+		"1":"ViaRIVAFREDDA",
+		"topocompleto":"ViaRIVAFREDDA",
+		"2":"Via RIVA FREDDA",
+		"topospazio":"Via RIVA FREDDA"
+	},
+
+	{
+		"0":"4890",
+		"cod":"4890",
+		"1":"ViaRIVELLIGALEAZZO",
+		"topocompleto":"ViaRIVELLIGALEAZZO",
+		"2":"Via RIVELLI GALEAZZO",
+		"topospazio":"Via RIVELLI GALEAZZO"
+	},
+
+	{
+		"0":"4900",
+		"cod":"4900",
+		"1":"ViaRIZZIANTONIO",
+		"topocompleto":"ViaRIZZIANTONIO",
+		"2":"Via RIZZI ANTONIO",
+		"topospazio":"Via RIZZI ANTONIO"
+	},
+
+	{
+		"0":"4910",
+		"cod":"4910",
+		"1":"ViaROBOLOTTIFRANCESCO",
+		"topocompleto":"ViaROBOLOTTIFRANCESCO",
+		"2":"Via ROBOLOTTI FRANCESCO",
+		"topospazio":"Via ROBOLOTTI FRANCESCO"
+	},
+
+	{
+		"0":"6990",
+		"cod":"6990",
+		"1":"ViaRODIFAUSTINO",
+		"topocompleto":"ViaRODIFAUSTINO",
+		"2":"Via RODI FAUSTINO",
+		"topospazio":"Via RODI FAUSTINO"
+	},
+
+	{
+		"0":"10107",
+		"cod":"10107",
+		"1":"ViaROGGIAMAFEZZOLA",
+		"topocompleto":"ViaROGGIAMAFEZZOLA",
+		"2":"Via ROGGIA MAFEZZOLA",
+		"topospazio":"Via ROGGIA MAFEZZOLA"
+	},
+
+	{
+		"0":"6940",
+		"cod":"6940",
+		"1":"ViaROMANINOGIROLAMO",
+		"topocompleto":"ViaROMANINOGIROLAMO",
+		"2":"Via ROMANINO GIROLAMO",
+		"topospazio":"Via ROMANINO GIROLAMO"
+	},
+
+	{
+		"0":"4930",
+		"cod":"4930",
+		"1":"ViaRONCHI",
+		"topocompleto":"ViaRONCHI",
+		"2":"Via RONCHI",
+		"topospazio":"Via RONCHI"
+	},
+
+	{
+		"0":"10077",
+		"cod":"10077",
+		"1":"ViaRONCOBASSO",
+		"topocompleto":"ViaRONCOBASSO",
+		"2":"Via RONCOBASSO",
+		"topospazio":"Via RONCOBASSO"
+	},
+
+	{
+		"0":"4940",
+		"cod":"4940",
+		"1":"ViaROSARIO",
+		"topocompleto":"ViaROSARIO",
+		"2":"Via ROSARIO",
+		"topospazio":"Via ROSARIO"
+	},
+
+	{
+		"0":"6590",
+		"cod":"6590",
+		"1":"ViaROSSINIGINO",
+		"topocompleto":"ViaROSSINIGINO",
+		"2":"Via ROSSINI GINO",
+		"topospazio":"Via ROSSINI GINO"
+	},
+
+	{
+		"0":"4970",
+		"cod":"4970",
+		"1":"ViaROVERETO",
+		"topocompleto":"ViaROVERETO",
+		"2":"Via ROVERETO",
+		"topospazio":"Via ROVERETO"
+	},
+
+	{
+		"0":"10067",
+		"cod":"10067",
+		"1":"ViaRUFFINIDANTE",
+		"topocompleto":"ViaRUFFINIDANTE",
+		"2":"Via RUFFINI DANTE",
+		"topospazio":"Via RUFFINI DANTE"
+	},
+
+	{
+		"0":"10162",
+		"cod":"10162",
+		"1":"ViaS.MARIADELBOSCHETTO",
+		"topocompleto":"ViaS.MARIADELBOSCHETTO",
+		"2":"Via S. MARIA DEL BOSCHETTO",
+		"topospazio":"Via S. MARIA DEL BOSCHETTO"
+	},
+
+	{
+		"0":"10172",
+		"cod":"10172",
+		"1":"ViaSABBIE",
+		"topocompleto":"ViaSABBIE",
+		"2":"Via SABBIE",
+		"topospazio":"Via SABBIE"
+	},
+
+	{
+		"0":"4990",
+		"cod":"4990",
+		"1":"ViaSABOTINO",
+		"topocompleto":"ViaSABOTINO",
+		"2":"Via SABOTINO",
+		"topospazio":"Via SABOTINO"
+	},
+
+	{
+		"0":"5000",
+		"cod":"5000",
+		"1":"ViaSACCHIETTORE",
+		"topocompleto":"ViaSACCHIETTORE",
+		"2":"Via SACCHI ETTORE",
+		"topospazio":"Via SACCHI ETTORE"
+	},
+
+	{
+		"0":"5010",
+		"cod":"5010",
+		"1":"ViaSACCOEVANZETTI",
+		"topocompleto":"ViaSACCOEVANZETTI",
+		"2":"Via SACCO E VANZETTI",
+		"topospazio":"Via SACCO E VANZETTI"
+	},
+
+	{
+		"0":"5040",
+		"cod":"5040",
+		"1":"ViaSALIMBENEDAPARMA",
+		"topocompleto":"ViaSALIMBENEDAPARMA",
+		"2":"Via SALIMBENE DA PARMA",
+		"topospazio":"Via SALIMBENE DA PARMA"
+	},
+
+	{
+		"0":"5050",
+		"cod":"5050",
+		"1":"ViaSALOMONIMELCHIORRE",
+		"topocompleto":"ViaSALOMONIMELCHIORRE",
+		"2":"Via SALOMONI MELCHIORRE",
+		"topospazio":"Via SALOMONI MELCHIORRE"
+	},
+
+	{
+		"0":"5060",
+		"cod":"5060",
+		"1":"ViaSAMMACHINIORAZIO",
+		"topocompleto":"ViaSAMMACHINIORAZIO",
+		"2":"Via SAMMACHINI ORAZIO",
+		"topospazio":"Via SAMMACHINI ORAZIO"
+	},
+
+	{
+		"0":"5130",
+		"cod":"5130",
+		"1":"ViaSANBARTOLOMEO",
+		"topocompleto":"ViaSANBARTOLOMEO",
+		"2":"Via SAN BARTOLOMEO",
+		"topospazio":"Via SAN BARTOLOMEO"
+	},
+
+	{
+		"0":"5140",
+		"cod":"5140",
+		"1":"ViaSANBASSANO",
+		"topocompleto":"ViaSANBASSANO",
+		"2":"Via SAN BASSANO",
+		"topospazio":"Via SAN BASSANO"
+	},
+
+	{
+		"0":"5150",
+		"cod":"5150",
+		"1":"ViaSANBERNARDO",
+		"topocompleto":"ViaSANBERNARDO",
+		"2":"Via SAN BERNARDO",
+		"topospazio":"Via SAN BERNARDO"
+	},
+
+	{
+		"0":"7390",
+		"cod":"7390",
+		"1":"ViaSANCAMILLO",
+		"topocompleto":"ViaSANCAMILLO",
+		"2":"Via SAN CAMILLO",
+		"topospazio":"Via SAN CAMILLO"
+	},
+
+	{
+		"0":"5160",
+		"cod":"5160",
+		"1":"ViaSANCARLOBORROMEO",
+		"topocompleto":"ViaSANCARLOBORROMEO",
+		"2":"Via SAN CARLO BORROMEO",
+		"topospazio":"Via SAN CARLO BORROMEO"
+	},
+
+	{
+		"0":"5200",
+		"cod":"5200",
+		"1":"ViaSANFELICE",
+		"topocompleto":"ViaSANFELICE",
+		"2":"Via SAN FELICE",
+		"topospazio":"Via SAN FELICE"
+	},
+
+	{
+		"0":"7210",
+		"cod":"7210",
+		"1":"ViaSANFILIPPO",
+		"topocompleto":"ViaSANFILIPPO",
+		"2":"Via SAN FILIPPO",
+		"topospazio":"Via SAN FILIPPO"
+	},
+
+	{
+		"0":"5210",
+		"cod":"5210",
+		"1":"ViaSANFRANCESCODASSISI",
+		"topocompleto":"ViaSANFRANCESCODASSISI",
+		"2":"Via SAN FRANCESCO D'ASSISI",
+		"topospazio":"Via SAN FRANCESCO D'ASSISI"
+	},
+
+	{
+		"0":"5220",
+		"cod":"5220",
+		"1":"ViaSANGALLO",
+		"topocompleto":"ViaSANGALLO",
+		"2":"Via SAN GALLO",
+		"topospazio":"Via SAN GALLO"
+	},
+
+	{
+		"0":"7040",
+		"cod":"7040",
+		"1":"ViaSANGEROLDO",
+		"topocompleto":"ViaSANGEROLDO",
+		"2":"Via SAN GEROLDO",
+		"topospazio":"Via SAN GEROLDO"
+	},
+
+	{
+		"0":"5230",
+		"cod":"5230",
+		"1":"ViaSANGIROLAMO",
+		"topocompleto":"ViaSANGIROLAMO",
+		"2":"Via SAN GIROLAMO",
+		"topospazio":"Via SAN GIROLAMO"
+	},
+
+	{
+		"0":"5240",
+		"cod":"5240",
+		"1":"ViaSANGIUSEPPE",
+		"topocompleto":"ViaSANGIUSEPPE",
+		"2":"Via SAN GIUSEPPE",
+		"topospazio":"Via SAN GIUSEPPE"
+	},
+
+	{
+		"0":"5250",
+		"cod":"5250",
+		"1":"ViaSANGORGONIO",
+		"topocompleto":"ViaSANGORGONIO",
+		"2":"Via SAN GORGONIO",
+		"topospazio":"Via SAN GORGONIO"
+	},
+
+	{
+		"0":"5260",
+		"cod":"5260",
+		"1":"ViaSANLORENZO",
+		"topocompleto":"ViaSANLORENZO",
+		"2":"Via SAN LORENZO",
+		"topospazio":"Via SAN LORENZO"
+	},
+
+	{
+		"0":"5280",
+		"cod":"5280",
+		"1":"ViaSANMARCO",
+		"topocompleto":"ViaSANMARCO",
+		"2":"Via SAN MARCO",
+		"topospazio":"Via SAN MARCO"
+	},
+
+	{
+		"0":"5300",
+		"cod":"5300",
+		"1":"ViaSANMARTINO",
+		"topocompleto":"ViaSANMARTINO",
+		"2":"Via SAN MARTINO",
+		"topospazio":"Via SAN MARTINO"
+	},
+
+	{
+		"0":"5360",
+		"cod":"5360",
+		"1":"ViaSANPREDENGO",
+		"topocompleto":"ViaSANPREDENGO",
+		"2":"Via SAN PREDENGO",
+		"topospazio":"Via SAN PREDENGO"
+	},
+
+	{
+		"0":"5370",
+		"cod":"5370",
+		"1":"ViaSANQUIRICO",
+		"topocompleto":"ViaSANQUIRICO",
+		"2":"Via SAN QUIRICO",
+		"topospazio":"Via SAN QUIRICO"
+	},
+
+	{
+		"0":"5380",
+		"cod":"5380",
+		"1":"ViaSANROCCO",
+		"topocompleto":"ViaSANROCCO",
+		"2":"Via SAN ROCCO",
+		"topospazio":"Via SAN ROCCO"
+	},
+
+	{
+		"0":"5390",
+		"cod":"5390",
+		"1":"ViaSANSALVATORE",
+		"topocompleto":"ViaSANSALVATORE",
+		"2":"Via SAN SALVATORE",
+		"topospazio":"Via SAN SALVATORE"
+	},
+
+	{
+		"0":"5400",
+		"cod":"5400",
+		"1":"ViaSANSAVINO",
+		"topocompleto":"ViaSANSAVINO",
+		"2":"Via SAN SAVINO",
+		"topospazio":"Via SAN SAVINO"
+	},
+
+	{
+		"0":"5410",
+		"cod":"5410",
+		"1":"ViaSANSEBASTIANO",
+		"topocompleto":"ViaSANSEBASTIANO",
+		"2":"Via SAN SEBASTIANO",
+		"topospazio":"Via SAN SEBASTIANO"
+	},
+
+	{
+		"0":"5420",
+		"cod":"5420",
+		"1":"ViaSANSIRO",
+		"topocompleto":"ViaSANSIRO",
+		"2":"Via SAN SIRO",
+		"topospazio":"Via SAN SIRO"
+	},
+
+	{
+		"0":"5430",
+		"cod":"5430",
+		"1":"ViaSANTOMASO",
+		"topocompleto":"ViaSANTOMASO",
+		"2":"Via SAN TOMASO",
+		"topospazio":"Via SAN TOMASO"
+	},
+
+	{
+		"0":"5440",
+		"cod":"5440",
+		"1":"ViaSANZENO",
+		"topocompleto":"ViaSANZENO",
+		"2":"Via SAN ZENO",
+		"topospazio":"Via SAN ZENO"
+	},
+
+	{
+		"0":"5090",
+		"cod":"5090",
+		"1":"ViaSANTAMBROGIO",
+		"topocompleto":"ViaSANTAMBROGIO",
+		"2":"Via SANT'AMBROGIO",
+		"topospazio":"Via SANT'AMBROGIO"
+	},
+
+	{
+		"0":"5110",
+		"cod":"5110",
+		"1":"ViaSANTANTONIODELFUOCO",
+		"topocompleto":"ViaSANTANTONIODELFUOCO",
+		"2":"Via SANT'ANTONIO DEL FUOCO",
+		"topospazio":"Via SANT'ANTONIO DEL FUOCO"
+	},
+
+	{
+		"0":"5190",
+		"cod":"5190",
+		"1":"ViaSANTERASMO",
+		"topocompleto":"ViaSANTERASMO",
+		"2":"Via SANT'ERASMO",
+		"topospazio":"Via SANT'ERASMO"
+	},
+
+	{
+		"0":"5330",
+		"cod":"5330",
+		"1":"ViaSANTOMOBONO",
+		"topocompleto":"ViaSANTOMOBONO",
+		"2":"Via SANT'OMOBONO",
+		"topospazio":"Via SANT'OMOBONO"
+	},
+
+	{
+		"0":"5120",
+		"cod":"5120",
+		"1":"ViaSANTABARBARA",
+		"topocompleto":"ViaSANTABARBARA",
+		"2":"Via SANTA BARBARA",
+		"topospazio":"Via SANTA BARBARA"
+	},
+
+	{
+		"0":"7330",
+		"cod":"7330",
+		"1":"ViaSANTACATERINA",
+		"topocompleto":"ViaSANTACATERINA",
+		"2":"Via SANTA CATERINA",
+		"topospazio":"Via SANTA CATERINA"
+	},
+
+	{
+		"0":"5170",
+		"cod":"5170",
+		"1":"ViaSANTACRISTINA",
+		"topocompleto":"ViaSANTACRISTINA",
+		"2":"Via SANTA CRISTINA",
+		"topospazio":"Via SANTA CRISTINA"
+	},
+
+	{
+		"0":"5180",
+		"cod":"5180",
+		"1":"ViaSANTACROCE",
+		"topocompleto":"ViaSANTACROCE",
+		"2":"Via SANTA CROCE",
+		"topospazio":"Via SANTA CROCE"
+	},
+
+	{
+		"0":"5290",
+		"cod":"5290",
+		"1":"ViaSANTAMARIAINBETLEM",
+		"topocompleto":"ViaSANTAMARIAINBETLEM",
+		"2":"Via SANTA MARIA IN BETLEM",
+		"topospazio":"Via SANTA MARIA IN BETLEM"
+	},
+
+	{
+		"0":"5450",
+		"cod":"5450",
+		"1":"ViaSARDAGNAEMANUELE",
+		"topocompleto":"ViaSARDAGNAEMANUELE",
+		"2":"Via SARDAGNA EMANUELE",
+		"topospazio":"Via SARDAGNA EMANUELE"
+	},
+
+	{
+		"0":"5470",
+		"cod":"5470",
+		"1":"ViaSATURNO",
+		"topocompleto":"ViaSATURNO",
+		"2":"Via SATURNO",
+		"topospazio":"Via SATURNO"
+	},
+
+	{
+		"0":"5480",
+		"cod":"5480",
+		"1":"ViaSAURONAZARIO",
+		"topocompleto":"ViaSAURONAZARIO",
+		"2":"Via SAURO NAZARIO",
+		"topospazio":"Via SAURO NAZARIO"
+	},
+
+	{
+		"0":"5500",
+		"cod":"5500",
+		"1":"ViaSCOTTILUDOVICO",
+		"topocompleto":"ViaSCOTTILUDOVICO",
+		"2":"Via SCOTTI LUDOVICO",
+		"topospazio":"Via SCOTTI LUDOVICO"
+	},
+
+	{
+		"0":"10186",
+		"cod":"10186",
+		"1":"ViaSEBENICO",
+		"topocompleto":"ViaSEBENICO",
+		"2":"Via SEBENICO",
+		"topospazio":"Via SEBENICO"
+	},
+
+	{
+		"0":"5510",
+		"cod":"5510",
+		"1":"ViaSECCHILUIGI",
+		"topocompleto":"ViaSECCHILUIGI",
+		"2":"Via SECCHI LUIGI",
+		"topospazio":"Via SECCHI LUIGI"
+	},
+
+	{
+		"0":"5520",
+		"cod":"5520",
+		"1":"ViaSEGREGINO",
+		"topocompleto":"ViaSEGREGINO",
+		"2":"Via SEGRE' GINO",
+		"topospazio":"Via SEGRE' GINO"
+	},
+
+	{
+		"0":"5530",
+		"cod":"5530",
+		"1":"ViaSELERONIGIOVANNI",
+		"topocompleto":"ViaSELERONIGIOVANNI",
+		"2":"Via SELERONI GIOVANNI",
+		"topospazio":"Via SELERONI GIOVANNI"
+	},
+
+	{
+		"0":"5540",
+		"cod":"5540",
+		"1":"ViaSEMINARIO",
+		"topocompleto":"ViaSEMINARIO",
+		"2":"Via SEMINARIO",
+		"topospazio":"Via SEMINARIO"
+	},
+
+	{
+		"0":"5550",
+		"cod":"5550",
+		"1":"ViaSERAFINA",
+		"topocompleto":"ViaSERAFINA",
+		"2":"Via SERAFINA",
+		"topospazio":"Via SERAFINA"
+	},
+
+	{
+		"0":"5560",
+		"cod":"5560",
+		"1":"ViaSERIO",
+		"topocompleto":"ViaSERIO",
+		"2":"Via SERIO",
+		"topospazio":"Via SERIO"
+	},
+
+	{
+		"0":"5570",
+		"cod":"5570",
+		"1":"ViaSESTO",
+		"topocompleto":"ViaSESTO",
+		"2":"Via SESTO",
+		"topospazio":"Via SESTO"
+	},
+
+	{
+		"0":"6850",
+		"cod":"6850",
+		"1":"ViaSETTECAMINI",
+		"topocompleto":"ViaSETTECAMINI",
+		"2":"Via SETTE CAMINI",
+		"topospazio":"Via SETTE CAMINI"
+	},
+
+	{
+		"0":"5580",
+		"cod":"5580",
+		"1":"ViaSFONDRATINICOLO",
+		"topocompleto":"ViaSFONDRATINICOLO",
+		"2":"Via SFONDRATI NICOLO'",
+		"topospazio":"Via SFONDRATI NICOLO'"
+	},
+
+	{
+		"0":"5590",
+		"cod":"5590",
+		"1":"ViaSFORZAFRANCESCO",
+		"topocompleto":"ViaSFORZAFRANCESCO",
+		"2":"Via SFORZA FRANCESCO",
+		"topospazio":"Via SFORZA FRANCESCO"
+	},
+
+	{
+		"0":"5600",
+		"cod":"5600",
+		"1":"ViaSICARDOVESCOVO",
+		"topocompleto":"ViaSICARDOVESCOVO",
+		"2":"Via SICARDO VESCOVO",
+		"topospazio":"Via SICARDO VESCOVO"
+	},
+
+	{
+		"0":"5610",
+		"cod":"5610",
+		"1":"ViaSIGNORIETTORE",
+		"topocompleto":"ViaSIGNORIETTORE",
+		"2":"Via SIGNORI ETTORE",
+		"topospazio":"Via SIGNORI ETTORE"
+	},
+
+	{
+		"0":"5620",
+		"cod":"5620",
+		"1":"ViaSOLDIESILDE",
+		"topocompleto":"ViaSOLDIESILDE",
+		"2":"Via SOLDI ESILDE",
+		"topospazio":"Via SOLDI ESILDE"
+	},
+
+	{
+		"0":"10111",
+		"cod":"10111",
+		"1":"ViaSOLDIFIORINO",
+		"topocompleto":"ViaSOLDIFIORINO",
+		"2":"Via SOLDI FIORINO",
+		"topospazio":"Via SOLDI FIORINO"
+	},
+
+	{
+		"0":"5630",
+		"cod":"5630",
+		"1":"ViaSOLDIFRANCESCO",
+		"topocompleto":"ViaSOLDIFRANCESCO",
+		"2":"Via SOLDI FRANCESCO",
+		"topospazio":"Via SOLDI FRANCESCO"
+	},
+
+	{
+		"0":"5640",
+		"cod":"5640",
+		"1":"ViaSOLFERINO",
+		"topocompleto":"ViaSOLFERINO",
+		"2":"Via SOLFERINO",
+		"topospazio":"Via SOLFERINO"
+	},
+
+	{
+		"0":"7220",
+		"cod":"7220",
+		"1":"ViaSOLOMOSDIONISO",
+		"topocompleto":"ViaSOLOMOSDIONISO",
+		"2":"Via SOLOMOS DIONISO",
+		"topospazio":"Via SOLOMOS DIONISO"
+	},
+
+	{
+		"0":"5660",
+		"cod":"5660",
+		"1":"ViaSOMMIPICENARDIGALEAZZO",
+		"topocompleto":"ViaSOMMIPICENARDIGALEAZZO",
+		"2":"Via SOMMI PICENARDI GALEAZZO",
+		"topospazio":"Via SOMMI PICENARDI GALEAZZO"
+	},
+
+	{
+		"0":"10051",
+		"cod":"10051",
+		"1":"ViaSONSISGIUSEPPE",
+		"topocompleto":"ViaSONSISGIUSEPPE",
+		"2":"Via SONSIS GIUSEPPE",
+		"topospazio":"Via SONSIS GIUSEPPE"
+	},
+
+	{
+		"0":"10094",
+		"cod":"10094",
+		"1":"ViaSOTTODOSSO",
+		"topocompleto":"ViaSOTTODOSSO",
+		"2":"Via SOTTODOSSO",
+		"topospazio":"Via SOTTODOSSO"
+	},
+
+	{
+		"0":"5680",
+		"cod":"5680",
+		"1":"ViaSPALATO",
+		"topocompleto":"ViaSPALATO",
+		"2":"Via SPALATO",
+		"topospazio":"Via SPALATO"
+	},
+
+	{
+		"0":"5690",
+		"cod":"5690",
+		"1":"ViaSPECIANOCESARE",
+		"topocompleto":"ViaSPECIANOCESARE",
+		"2":"Via SPECIANO CESARE",
+		"topospazio":"Via SPECIANO CESARE"
+	},
+
+	{
+		"0":"5700",
+		"cod":"5700",
+		"1":"ViaSPERANZACARLO",
+		"topocompleto":"ViaSPERANZACARLO",
+		"2":"Via SPERANZA CARLO",
+		"topospazio":"Via SPERANZA CARLO"
+	},
+
+	{
+		"0":"5710",
+		"cod":"5710",
+		"1":"ViaSPINADESCO",
+		"topocompleto":"ViaSPINADESCO",
+		"2":"Via SPINADESCO",
+		"topospazio":"Via SPINADESCO"
+	},
+
+	{
+		"0":"5720",
+		"cod":"5720",
+		"1":"ViaSTAGNOLOMBARDO",
+		"topocompleto":"ViaSTAGNOLOMBARDO",
+		"2":"Via STAGNO LOMBARDO",
+		"topospazio":"Via STAGNO LOMBARDO"
+	},
+
+	{
+		"0":"5730",
+		"cod":"5730",
+		"1":"ViaSTANGA",
+		"topocompleto":"ViaSTANGA",
+		"2":"Via STANGA",
+		"topospazio":"Via STANGA"
+	},
+
+	{
+		"0":"5990",
+		"cod":"5990",
+		"1":"ViaSTAUFFERWALTER",
+		"topocompleto":"ViaSTAUFFERWALTER",
+		"2":"Via STAUFFER WALTER",
+		"topospazio":"Via STAUFFER WALTER"
+	},
+
+	{
+		"0":"5750",
+		"cod":"5750",
+		"1":"ViaSTAZIONE(CAVATIGOZZI)",
+		"topocompleto":"ViaSTAZIONE(CAVATIGOZZI)",
+		"2":"Via STAZIONE (CAVATIGOZZI)",
+		"topospazio":"Via STAZIONE (CAVATIGOZZI)"
+	},
+
+	{
+		"0":"5760",
+		"cod":"5760",
+		"1":"ViaSTELLA",
+		"topocompleto":"ViaSTELLA",
+		"2":"Via STELLA",
+		"topospazio":"Via STELLA"
+	},
+
+	{
+		"0":"5770",
+		"cod":"5770",
+		"1":"ViaSTENICO",
+		"topocompleto":"ViaSTENICO",
+		"2":"Via STENICO",
+		"topospazio":"Via STENICO"
+	},
+
+	{
+		"0":"5790",
+		"cod":"5790",
+		"1":"ViaSTRETTACORTA",
+		"topocompleto":"ViaSTRETTACORTA",
+		"2":"Via STRETTA CORTA",
+		"topospazio":"Via STRETTA CORTA"
+	},
+
+	{
+		"0":"5800",
+		"cod":"5800",
+		"1":"ViaSTRETTALUNGA",
+		"topocompleto":"ViaSTRETTALUNGA",
+		"2":"Via STRETTA LUNGA",
+		"topospazio":"Via STRETTA LUNGA"
+	},
+
+	{
+		"0":"7230",
+		"cod":"7230",
+		"1":"ViaTACITO",
+		"topocompleto":"ViaTACITO",
+		"2":"Via TACITO",
+		"topospazio":"Via TACITO"
+	},
+
+	{
+		"0":"5820",
+		"cod":"5820",
+		"1":"ViaTAGLIAMENTO",
+		"topocompleto":"ViaTAGLIAMENTO",
+		"2":"Via TAGLIAMENTO",
+		"topospazio":"Via TAGLIAMENTO"
+	},
+
+	{
+		"0":"10128",
+		"cod":"10128",
+		"1":"ViaTAVERNAZZE",
+		"topocompleto":"ViaTAVERNAZZE",
+		"2":"Via TAVERNAZZE",
+		"topospazio":"Via TAVERNAZZE"
+	},
+
+	{
+		"0":"5830",
+		"cod":"5830",
+		"1":"ViaTEDALDIFORESCARLO",
+		"topocompleto":"ViaTEDALDIFORESCARLO",
+		"2":"Via TEDALDI FORES CARLO",
+		"topospazio":"Via TEDALDI FORES CARLO"
+	},
+
+	{
+		"0":"5840",
+		"cod":"5840",
+		"1":"ViaTEZZE",
+		"topocompleto":"ViaTEZZE",
+		"2":"Via TEZZE",
+		"topospazio":"Via TEZZE"
+	},
+
+	{
+		"0":"5850",
+		"cod":"5850",
+		"1":"ViaTIBALDIGAETANO",
+		"topocompleto":"ViaTIBALDIGAETANO",
+		"2":"Via TIBALDI GAETANO",
+		"topospazio":"Via TIBALDI GAETANO"
+	},
+
+	{
+		"0":"5860",
+		"cod":"5860",
+		"1":"ViaTICINO",
+		"topocompleto":"ViaTICINO",
+		"2":"Via TICINO",
+		"topospazio":"Via TICINO"
+	},
+
+	{
+		"0":"10031",
+		"cod":"10031",
+		"1":"ViaTIGOZZO",
+		"topocompleto":"ViaTIGOZZO",
+		"2":"Via TIGOZZO",
+		"topospazio":"Via TIGOZZO"
+	},
+
+	{
+		"0":"5890",
+		"cod":"5890",
+		"1":"ViaTINTIERMELINDA",
+		"topocompleto":"ViaTINTIERMELINDA",
+		"2":"Via TINTI ERMELINDA",
+		"topospazio":"Via TINTI ERMELINDA"
+	},
+
+	{
+		"0":"5900",
+		"cod":"5900",
+		"1":"ViaTOFANE",
+		"topocompleto":"ViaTOFANE",
+		"2":"Via TOFANE",
+		"topospazio":"Via TOFANE"
+	},
+
+	{
+		"0":"5910",
+		"cod":"5910",
+		"1":"ViaTOLMEZZO",
+		"topocompleto":"ViaTOLMEZZO",
+		"2":"Via TOLMEZZO",
+		"topospazio":"Via TOLMEZZO"
+	},
+
+	{
+		"0":"5920",
+		"cod":"5920",
+		"1":"ViaTOLMINO",
+		"topocompleto":"ViaTOLMINO",
+		"2":"Via TOLMINO",
+		"topospazio":"Via TOLMINO"
+	},
+
+	{
+		"0":"5930",
+		"cod":"5930",
+		"1":"ViaTOMBINO",
+		"topocompleto":"ViaTOMBINO",
+		"2":"Via TOMBINO",
+		"topospazio":"Via TOMBINO"
+	},
+
+	{
+		"0":"10130",
+		"cod":"10130",
+		"1":"ViaTOMEGIUSEPPE",
+		"topocompleto":"ViaTOMEGIUSEPPE",
+		"2":"Via TOME' GIUSEPPE",
+		"topospazio":"Via TOME' GIUSEPPE"
+	},
+
+	{
+		"0":"5940",
+		"cod":"5940",
+		"1":"ViaTONANIAMEDEO",
+		"topocompleto":"ViaTONANIAMEDEO",
+		"2":"Via TONANI AMEDEO",
+		"topospazio":"Via TONANI AMEDEO"
+	},
+
+	{
+		"0":"5950",
+		"cod":"5950",
+		"1":"ViaTORCHIO",
+		"topocompleto":"ViaTORCHIO",
+		"2":"Via TORCHIO",
+		"topospazio":"Via TORCHIO"
+	},
+
+	{
+		"0":"5970",
+		"cod":"5970",
+		"1":"ViaTORRIANIJANELLO",
+		"topocompleto":"ViaTORRIANIJANELLO",
+		"2":"Via TORRIANI JANELLO",
+		"topospazio":"Via TORRIANI JANELLO"
+	},
+
+	{
+		"0":"5980",
+		"cod":"5980",
+		"1":"ViaTOTIENRICO",
+		"topocompleto":"ViaTOTIENRICO",
+		"2":"Via TOTI ENRICO",
+		"topospazio":"Via TOTI ENRICO"
+	},
+
+	{
+		"0":"10149",
+		"cod":"10149",
+		"1":"ViaTRATTATIDIROMA",
+		"topocompleto":"ViaTRATTATIDIROMA",
+		"2":"Via TRATTATI DI ROMA",
+		"topospazio":"Via TRATTATI DI ROMA"
+	},
+
+	{
+		"0":"6010",
+		"cod":"6010",
+		"1":"ViaTRAVESIOGIOVANNI",
+		"topocompleto":"ViaTRAVESIOGIOVANNI",
+		"2":"Via TRAVESIO GIOVANNI",
+		"topospazio":"Via TRAVESIO GIOVANNI"
+	},
+
+	{
+		"0":"6050",
+		"cod":"6050",
+		"1":"ViaTRERE",
+		"topocompleto":"ViaTRERE",
+		"2":"Via TRE RE",
+		"topospazio":"Via TRE RE"
+	},
+
+	{
+		"0":"6020",
+		"cod":"6020",
+		"1":"ViaTREBBIA",
+		"topocompleto":"ViaTREBBIA",
+		"2":"Via TREBBIA",
+		"topospazio":"Via TREBBIA"
+	},
+
+	{
+		"0":"6030",
+		"cod":"6030",
+		"1":"ViaTRECCHISIGISMONDO",
+		"topocompleto":"ViaTRECCHISIGISMONDO",
+		"2":"Via TRECCHI SIGISMONDO",
+		"topospazio":"Via TRECCHI SIGISMONDO"
+	},
+
+	{
+		"0":"6960",
+		"cod":"6960",
+		"1":"ViaTRENTACOSTEDOMENICO",
+		"topocompleto":"ViaTRENTACOSTEDOMENICO",
+		"2":"Via TRENTACOSTE DOMENICO",
+		"topospazio":"Via TRENTACOSTE DOMENICO"
+	},
+
+	{
+		"0":"6070",
+		"cod":"6070",
+		"1":"ViaTROTTIGIOVANBATTISTA",
+		"topocompleto":"ViaTROTTIGIOVANBATTISTA",
+		"2":"Via TROTTI GIOVAN BATTISTA",
+		"topospazio":"Via TROTTI GIOVAN BATTISTA"
+	},
+
+	{
+		"0":"6080",
+		"cod":"6080",
+		"1":"ViaTURATIFILIPPO",
+		"topocompleto":"ViaTURATIFILIPPO",
+		"2":"Via TURATI FILIPPO",
+		"topospazio":"Via TURATI FILIPPO"
+	},
+
+	{
+		"0":"6090",
+		"cod":"6090",
+		"1":"ViaUGOLANIDATI",
+		"topocompleto":"ViaUGOLANIDATI",
+		"2":"Via UGOLANI DATI",
+		"topospazio":"Via UGOLANI DATI"
+	},
+
+	{
+		"0":"6100",
+		"cod":"6100",
+		"1":"ViaUMILIATI",
+		"topocompleto":"ViaUMILIATI",
+		"2":"Via UMILIATI",
+		"topospazio":"Via UMILIATI"
+	},
+
+	{
+		"0":"6110",
+		"cod":"6110",
+		"1":"ViaUNDICIFEBBRAIO",
+		"topocompleto":"ViaUNDICIFEBBRAIO",
+		"2":"Via UNDICI FEBBRAIO",
+		"topospazio":"Via UNDICI FEBBRAIO"
+	},
+
+	{
+		"0":"10093",
+		"cod":"10093",
+		"1":"ViaVAIRANITOMMASOAGOSTINO",
+		"topocompleto":"ViaVAIRANITOMMASOAGOSTINO",
+		"2":"Via VAIRANI TOMMASO AGOSTINO",
+		"topospazio":"Via VAIRANI TOMMASO AGOSTINO"
+	},
+
+	{
+		"0":"6130",
+		"cod":"6130",
+		"1":"ViaVALBREMBANA",
+		"topocompleto":"ViaVALBREMBANA",
+		"2":"Via VAL BREMBANA",
+		"topospazio":"Via VAL BREMBANA"
+	},
+
+	{
+		"0":"6140",
+		"cod":"6140",
+		"1":"ViaVALCAMONICA",
+		"topocompleto":"ViaVALCAMONICA",
+		"2":"Via VAL CAMONICA",
+		"topospazio":"Via VAL CAMONICA"
+	},
+
+	{
+		"0":"7240",
+		"cod":"7240",
+		"1":"ViaVALDIPADO",
+		"topocompleto":"ViaVALDIPADO",
+		"2":"Via VAL DI PADO",
+		"topospazio":"Via VAL DI PADO"
+	},
+
+	{
+		"0":"6170",
+		"cod":"6170",
+		"1":"ViaVALSABBIA",
+		"topocompleto":"ViaVALSABBIA",
+		"2":"Via VAL SABBIA",
+		"topospazio":"Via VAL SABBIA"
+	},
+
+	{
+		"0":"6180",
+		"cod":"6180",
+		"1":"ViaVALSERIANA",
+		"topocompleto":"ViaVALSERIANA",
+		"2":"Via VAL SERIANA",
+		"topospazio":"Via VAL SERIANA"
+	},
+
+	{
+		"0":"6190",
+		"cod":"6190",
+		"1":"ViaVALTELLINA",
+		"topocompleto":"ViaVALTELLINA",
+		"2":"Via VAL TELLINA",
+		"topospazio":"Via VAL TELLINA"
+	},
+
+	{
+		"0":"6200",
+		"cod":"6200",
+		"1":"ViaVALTOCE",
+		"topocompleto":"ViaVALTOCE",
+		"2":"Via VAL TOCE",
+		"topospazio":"Via VAL TOCE"
+	},
+
+	{
+		"0":"6210",
+		"cod":"6210",
+		"1":"ViaVALTROMPIA",
+		"topocompleto":"ViaVALTROMPIA",
+		"2":"Via VAL TROMPIA",
+		"topospazio":"Via VAL TROMPIA"
+	},
+
+	{
+		"0":"6150",
+		"cod":"6150",
+		"1":"ViaVALCARENGHIPAOLO",
+		"topocompleto":"ViaVALCARENGHIPAOLO",
+		"2":"Via VALCARENGHI PAOLO",
+		"topospazio":"Via VALCARENGHI PAOLO"
+	},
+
+	{
+		"0":"6160",
+		"cod":"6160",
+		"1":"ViaVALLERANA",
+		"topocompleto":"ViaVALLERANA",
+		"2":"Via VALLERANA",
+		"topospazio":"Via VALLERANA"
+	},
+
+	{
+		"0":"6220",
+		"cod":"6220",
+		"1":"ViaVALVERDE",
+		"topocompleto":"ViaVALVERDE",
+		"2":"Via VALVERDE",
+		"topospazio":"Via VALVERDE"
+	},
+
+	{
+		"0":"6620",
+		"cod":"6620",
+		"1":"ViaVECCHIAGAMENNONE",
+		"topocompleto":"ViaVECCHIAGAMENNONE",
+		"2":"Via VECCHI AGAMENNONE",
+		"topospazio":"Via VECCHI AGAMENNONE"
+	},
+
+	{
+		"0":"6240",
+		"cod":"6240",
+		"1":"ViaVECCHIA",
+		"topocompleto":"ViaVECCHIA",
+		"2":"Via VECCHIA",
+		"topospazio":"Via VECCHIA"
+	},
+
+	{
+		"0":"7520",
+		"cod":"7520",
+		"1":"ViaVECCHIOCASELLO",
+		"topocompleto":"ViaVECCHIOCASELLO",
+		"2":"Via VECCHIO CASELLO",
+		"topospazio":"Via VECCHIO CASELLO"
+	},
+
+	{
+		"0":"10085",
+		"cod":"10085",
+		"1":"ViaVERDELLO",
+		"topocompleto":"ViaVERDELLO",
+		"2":"Via VERDELLO",
+		"topospazio":"Via VERDELLO"
+	},
+
+	{
+		"0":"6290",
+		"cod":"6290",
+		"1":"ViaVERDIGIUSEPPE",
+		"topocompleto":"ViaVERDIGIUSEPPE",
+		"2":"Via VERDI GIUSEPPE",
+		"topospazio":"Via VERDI GIUSEPPE"
+	},
+
+	{
+		"0":"6300",
+		"cod":"6300",
+		"1":"ViaVERSECCHI",
+		"topocompleto":"ViaVERSECCHI",
+		"2":"Via VERSECCHI",
+		"topospazio":"Via VERSECCHI"
+	},
+
+	{
+		"0":"10124",
+		"cod":"10124",
+		"1":"ViaVERTUAFELICEGIUSEPPE",
+		"topocompleto":"ViaVERTUAFELICEGIUSEPPE",
+		"2":"Via VERTUA FELICE GIUSEPPE",
+		"topospazio":"Via VERTUA FELICE GIUSEPPE"
+	},
+
+	{
+		"0":"7260",
+		"cod":"7260",
+		"1":"ViaVERZELLETTIARTURO",
+		"topocompleto":"ViaVERZELLETTIARTURO",
+		"2":"Via VERZELLETTI ARTURO",
+		"topospazio":"Via VERZELLETTI ARTURO"
+	},
+
+	{
+		"0":"10018",
+		"cod":"10018",
+		"1":"ViaVILLAANGIOLINA",
+		"topocompleto":"ViaVILLAANGIOLINA",
+		"2":"Via VILLA ANGIOLINA",
+		"topospazio":"Via VILLA ANGIOLINA"
+	},
+
+	{
+		"0":"6320",
+		"cod":"6320",
+		"1":"ViaVILLAGLORI",
+		"topocompleto":"ViaVILLAGLORI",
+		"2":"Via VILLA GLORI",
+		"topospazio":"Via VILLA GLORI"
+	},
+
+	{
+		"0":"6340",
+		"cod":"6340",
+		"1":"ViaVILLETTA",
+		"topocompleto":"ViaVILLETTA",
+		"2":"Via VILLETTA",
+		"topospazio":"Via VILLETTA"
+	},
+
+	{
+		"0":"7490",
+		"cod":"7490",
+		"1":"ViaVILLINOBIANCO",
+		"topocompleto":"ViaVILLINOBIANCO",
+		"2":"Via VILLINO BIANCO",
+		"topospazio":"Via VILLINO BIANCO"
+	},
+
+	{
+		"0":"6820",
+		"cod":"6820",
+		"1":"ViaVILLIRENE",
+		"topocompleto":"ViaVILLIRENE",
+		"2":"Via VILLIRENE",
+		"topospazio":"Via VILLIRENE"
+	},
+
+	{
+		"0":"6350",
+		"cod":"6350",
+		"1":"ViaVIRGILIO",
+		"topocompleto":"ViaVIRGILIO",
+		"2":"Via VIRGILIO",
+		"topospazio":"Via VIRGILIO"
+	},
+
+	{
+		"0":"10066",
+		"cod":"10066",
+		"1":"ViaVISIOLICARLODOMENICO",
+		"topocompleto":"ViaVISIOLICARLODOMENICO",
+		"2":"Via VISIOLI CARLO DOMENICO",
+		"topospazio":"Via VISIOLI CARLO DOMENICO"
+	},
+
+	{
+		"0":"6370",
+		"cod":"6370",
+		"1":"ViaVITALIGIOVANBATTISTA",
+		"topocompleto":"ViaVITALIGIOVANBATTISTA",
+		"2":"Via VITALI GIOVAN BATTISTA",
+		"topospazio":"Via VITALI GIOVAN BATTISTA"
+	},
+
+	{
+		"0":"6380",
+		"cod":"6380",
+		"1":"ViaVITTORICARLO",
+		"topocompleto":"ViaVITTORICARLO",
+		"2":"Via VITTORI CARLO",
+		"topospazio":"Via VITTORI CARLO"
+	},
+
+	{
+		"0":"6400",
+		"cod":"6400",
+		"1":"ViaVOGHERALUIGI",
+		"topocompleto":"ViaVOGHERALUIGI",
+		"2":"Via VOGHERA LUIGI",
+		"topospazio":"Via VOGHERA LUIGI"
+	},
+
+	{
+		"0":"7340",
+		"cod":"7340",
+		"1":"ViaVOLONTARIDEIVOSGI",
+		"topocompleto":"ViaVOLONTARIDEIVOSGI",
+		"2":"Via VOLONTARI DEI VOSGI",
+		"topospazio":"Via VOLONTARI DEI VOSGI"
+	},
+
+	{
+		"0":"6410",
+		"cod":"6410",
+		"1":"ViaVOLONTARIDELSANGUE",
+		"topocompleto":"ViaVOLONTARIDELSANGUE",
+		"2":"Via VOLONTARI DEL SANGUE",
+		"topospazio":"Via VOLONTARI DEL SANGUE"
+	},
+
+	{
+		"0":"6420",
+		"cod":"6420",
+		"1":"ViaVOLTURNO",
+		"topocompleto":"ViaVOLTURNO",
+		"2":"Via VOLTURNO",
+		"topospazio":"Via VOLTURNO"
+	},
+
+	{
+		"0":"7410",
+		"cod":"7410",
+		"1":"ViaVULPARIOLO",
+		"topocompleto":"ViaVULPARIOLO",
+		"2":"Via VULPARIOLO",
+		"topospazio":"Via VULPARIOLO"
+	},
+
+	{
+		"0":"6440",
+		"cod":"6440",
+		"1":"ViaZAISTGIOVANBATTISTA",
+		"topocompleto":"ViaZAISTGIOVANBATTISTA",
+		"2":"Via ZAIST GIOVAN BATTISTA",
+		"topospazio":"Via ZAIST GIOVAN BATTISTA"
+	},
+
+	{
+		"0":"7270",
+		"cod":"7270",
+		"1":"ViaZANANINOGIUSEPPE",
+		"topocompleto":"ViaZANANINOGIUSEPPE",
+		"2":"Via ZANA NINO GIUSEPPE",
+		"topospazio":"Via ZANA NINO GIUSEPPE"
+	},
+
+	{
+		"0":"6450",
+		"cod":"6450",
+		"1":"ViaZANIANDREA",
+		"topocompleto":"ViaZANIANDREA",
+		"2":"Via ZANI ANDREA",
+		"topospazio":"Via ZANI ANDREA"
+	},
+
+	{
+		"0":"6460",
+		"cod":"6460",
+		"1":"ViaZAPPONIGIUSEPPE",
+		"topocompleto":"ViaZAPPONIGIUSEPPE",
+		"2":"Via ZAPPONI GIUSEPPE",
+		"topospazio":"Via ZAPPONI GIUSEPPE"
+	},
+
+	{
+		"0":"6470",
+		"cod":"6470",
+		"1":"ViaZARA",
+		"topocompleto":"ViaZARA",
+		"2":"Via ZARA",
+		"topospazio":"Via ZARA"
+	},
+
+	{
+		"0":"6480",
+		"cod":"6480",
+		"1":"ViaZOCCO",
+		"topocompleto":"ViaZOCCO",
+		"2":"Via ZOCCO",
+		"topospazio":"Via ZOCCO"
+	},
+
+	{
+		"0":"6490",
+		"cod":"6490",
+		"1":"ViaZUCCARICARLO",
+		"topocompleto":"ViaZUCCARICARLO",
+		"2":"Via ZUCCARI CARLO",
+		"topospazio":"Via ZUCCARI CARLO"
+	},
+
+	{
+		"0":"4610",
+		"cod":"4610",
+		"1":"VialeCAMBONINO",
+		"topocompleto":"VialeCAMBONINO",
+		"2":"Viale CAMBONINO",
+		"topospazio":"Viale CAMBONINO"
+	},
+
+	{
+		"0":"2020",
+		"cod":"2020",
+		"1":"VialeCONCORDIA",
+		"topocompleto":"VialeCONCORDIA",
+		"2":"Viale CONCORDIA",
+		"topospazio":"Viale CONCORDIA"
+	},
+
+	{
+		"0":"4550",
+		"cod":"4550",
+		"1":"VialePO",
+		"topocompleto":"VialePO",
+		"2":"Viale PO",
+		"topospazio":"Viale PO"
+	},
+
+	{
+		"0":"6040",
+		"cod":"6040",
+		"1":"VialeTRENTOTRIESTE",
+		"topocompleto":"VialeTRENTOTRIESTE",
+		"2":"Viale TRENTO TRIESTE",
+		"topospazio":"Viale TRENTO TRIESTE"
+	},
+
+	{
+		"0":"1810",
+		"cod":"1810",
+		"1":"VicoloCHIESA",
+		"topocompleto":"VicoloCHIESA",
+		"2":"Vicolo CHIESA",
+		"topospazio":"Vicolo CHIESA"
+	},
+
+	{
+		"0":"10045",
+		"cod":"10045",
+		"1":"VicoloDEFORNI",
+		"topocompleto":"VicoloDEFORNI",
+		"2":"Vicolo DE' FORNI",
+		"topospazio":"Vicolo DE' FORNI"
+	},
+
+	{
+		"0":"5670",
+		"cod":"5670",
+		"1":"VicoloDELLECOLONNETTE",
+		"topocompleto":"VicoloDELLECOLONNETTE",
+		"2":"Vicolo DELLE COLONNETTE",
+		"topospazio":"Vicolo DELLE COLONNETTE"
+	},
+
+	{
+		"0":"2630",
+		"cod":"2630",
+		"1":"VicoloGALANTINO",
+		"topocompleto":"VicoloGALANTINO",
+		"2":"Vicolo GALANTINO",
+		"topospazio":"Vicolo GALANTINO"
+	},
+
+	{
+		"0":"3050",
+		"cod":"3050",
+		"1":"VicoloINTERNO",
+		"topocompleto":"VicoloINTERNO",
+		"2":"Vicolo INTERNO",
+		"topospazio":"Vicolo INTERNO"
+	},
+
+	{
+		"0":"3160",
+		"cod":"3160",
+		"1":"VicoloLAURETANO",
+		"topocompleto":"VicoloLAURETANO",
+		"2":"Vicolo LAURETANO",
+		"topospazio":"Vicolo LAURETANO"
+	},
+
+	{
+		"0":"3630",
+		"cod":"3630",
+		"1":"VicoloMAURINO",
+		"topocompleto":"VicoloMAURINO",
+		"2":"Vicolo MAURINO",
+		"topospazio":"Vicolo MAURINO"
+	},
+
+	{
+		"0":"4420",
+		"cod":"4420",
+		"1":"VicoloPERTUSIO",
+		"topocompleto":"VicoloPERTUSIO",
+		"2":"Vicolo PERTUSIO",
+		"topospazio":"Vicolo PERTUSIO"
+	},
+
+	{
+		"0":"10184",
+		"cod":"10184",
+		"1":"VicoloPORTASANLUCA",
+		"topocompleto":"VicoloPORTASANLUCA",
+		"2":"Vicolo PORTA SAN LUCA",
+		"topospazio":"Vicolo PORTA SAN LUCA"
+	},
+
+	{
+		"0":"7460",
+		"cod":"7460",
+		"1":"VicoloSTRETTAVECCHIOOSPEDALE",
+		"topocompleto":"VicoloSTRETTAVECCHIOOSPEDALE",
+		"2":"Vicolo STRETTA VECCHIO OSPEDALE",
+		"topospazio":"Vicolo STRETTA VECCHIO OSPEDALE"
+	},
+
+	{
+		"0":"5810",
+		"cod":"5810",
+		"1":"VicoloSTRETTO",
+		"topocompleto":"VicoloSTRETTO",
+		"2":"Vicolo STRETTO",
+		"topospazio":"Vicolo STRETTO"
+	},
+
+	{
+		"0":"6000",
+		"cod":"6000",
+		"1":"VicoloTRAVERSO",
+		"topocompleto":"VicoloTRAVERSO",
+		"2":"Vicolo TRAVERSO",
+		"topospazio":"Vicolo TRAVERSO"
+	}]

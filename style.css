@@ -1,0 +1,14 @@
+input[type="radio"]{
+    -webkit-appearance: radio;
+}
+.col-md-6{
+	float: none;
+	margin-top: 10px;
+}
+.label-ordinanze{
+	width: 350px;
+	border:1px solid black; 
+	margin-bottom:5px;
+	float: left;
+	margin-right: 15px;
+}
